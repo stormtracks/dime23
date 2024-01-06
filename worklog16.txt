@@ -1,0 +1,142 @@
+﻿2016
+
+
+August
+
+
+Tuesday 16
+Fired from BuzzSumo at 9AM.  Henley called me and James was on the phone.  It happened in 5 minutes, that was it.
+Wednesday 17
+Day 1 of my new life and my new job.  Focus today was ML.  Will be one of the things I pursue besides search, Python and Golang.
+Friday 19
+Start looking at Gensim.
+Tuesday 23
+Up and running with Gensim.
+Wednesday 24
+Jason is arriving this evening from Abq.  Up and running with Tensorflow.  Not able to build it from scratch, but able to run all of the examples in the {contrib, example, python} directories.  In the early afternoon I was pretty bummed out as I could not get it to build from src, but by the end of the day I was happy when I was able to run everything in the above 3 directories including the tests.  So I am now pretty much all set with Python, all I have to do now is understand gensim and tensorflow better, write some code for practice and then move on to Golang.  At that point, I should be able to start going out and talking to people about jobs and seeing what is available.
+Thursday 25
+Took the day off and went to Newport with Jason and went for a boat ride out on the ocean.
+Friday 26
+Started working on gonum and golearn which uses gonum.  It wasn't a real productive day but it appears from first passing that golearn in particular is no longer being developed in a serious way meaning that the repo is basically dead.  Will monitor closely over the next number of months and see what happens.
+Saturday 27
+Taking a look at noms. Day 1 of noms is official, keep going.
+Monday 29
+Day 2 of Noms and up and running on their Slack channel.
+Wednesday 31
+Day 4 of Noms and I pretty much have the code base figured out.  Today I reviewed how the data is being persisted to goleveldb in anticipation of possibly writing another backend store to Bolt.  But in further review I decided not to.  Leveldb is so clean, and the transactions are covered magically in their code base.  Where as Bolt requires some transaction management which would add complexity to the back end store.  Today I also reviewed the final two Noms packages I had not yet covered including {dataset, types}.  "A dataset is nothing more than a named pointer into the DAG."  Types is much more involved and the most interesting and complex part of the code base.  Everything else is pretty straight forward.  More notes on types but for now it looks like there are native types and user contructed types and that all types implement the Value Interface.
+
+
+September
+
+
+Thursday 01
+Starting to look at Pulling data from a remote Db to a local Db and everything associated with that concept including writing a program to sync one db to another.
+Thursday 15
+Lots of Go programming related to getting data into Es.
+Friday 16
+Successfully storing go slices into Es using the Bulk Api.
+
+
+October
+
+
+Tuesday 04
+Starting to talk to Noms with a Bolt ChunkStore.
+Thursday 06
+Bolt is up and running
+Friday 07
+Starting to work on talking to Noms with Redis.
+Saturday 08
+Redis is up and running and talking to Noms.  I am going on vacation, and will start working again upon my arrival in Pittsburgh.
+Friday 14
+Arrived in the burgh where the plan is to work on and understand the type system.  Upon return to Oregon we will continue to work on the bolt, redis back ends.
+Saturday 15
+Got all of the big datasets up and running and synced to my local machine.  Re-familiarized myself with all of the noms commands.
+Sunday 16
+Noms hits the top of hackernews again today.  My next step in the Noms front is to work both on better understanding hackernews along with becoming an end user.  Meaning start building stuff and storing the data in noms.  First application will be the golang doc tool, and see if that is a good fit.  Also might look at the hackernews noms tool.
+Monday 17
+In Ruby I used Nokogiri for scraping and parsing HTML.  Now I need to find a way to do the same functionality in Golang.
+Tuesday 18
+Start working on a way to get the number of github stars for golang importers of a particular package like redis.
+Wednesday 19
+Up and running with goquery.  This looks really rock solid which makes me very happy.
+
+
+November
+
+
+Wednesday 02
+Lots of progress was made while in Pittsburgh on numerous fronts.  Still driving towards my first project of gostar.  Got the whole angular side working today after one long day of effort yesterday.  So we are back up and running with Angular.  Also made an executive decision yesterday to stick with Angular 1 for now until there is a pressing reason to upgrade.  I spent some time on Angular 2 which was released 48 days ago.  Its not ready for prime time and there is just too much momentum behind Angular 1, so for now just stick with that.
+
+
+Also, I got an email a few days back from Clara in China and she got me back into looking at the blockchain, decred and Ethereum.  Once the gostar project is done I might spend more time on Ethereum and possibly even Kubernetes because of this article on Walmart.  While back home I was firing on all cylinders and was incredibly productive on the Go front and now back home in Oregon we are continuing on that path with more work slated on the Angular side of the world.
+
+
+Friday 04
+Last night at 3AM I discovered that raft, the concept of consensus is tightly related to the whole future work of the block chain.  Also, the universe, with Clara as the catalyst and driver has gotten me naturally back into looking at the blockchain.  It makes sense, you were heavily involved and invested in Noms but this concept is actually real, up and running and viable from a business point of view.  Also, spending more time on Angular is a must, as I need a UI.  I always have and I always will and this time around Angular just feels more right and simple for me to understand especially now that I have the block explorer up and running and talking to Ethereum and after reviewing the source code of it, and seeing how simple it is, gives me the incentive and passion to pursue down a parallel path of both the UI and the back end.
+
+
+Sunday 06
+Understand RLP encoding in the context of the rlp ruby gem.
+
+
+Tuesday 15
+Hb came home today and I wrapped up the blockchain work for now and started looking into Kubernetes.
+
+
+Thursday 17
+Start working on grabbing data from Hackernews in anticipation of storing this data in Noms, Elastic etc...
+
+
+Friday 18
+Start looking at Hackernoms for the first time.  It is actually mostly up and running.
+
+
+Monday 21
+Starting to look at splore in the context of Hackernoms.
+
+
+Wednesday 23
+I want to write Hackernews json files out to redis, leveldb, and bolt using the Hackernoms concurrency infrastructure.  So first I need to get Redis and Bolt back ends working with Noms again.  Then once this is mostly complete I can use the same basic interface to write the json files to the 3 storage units.
+
+
+December
+
+
+Thursday 01
+Spoke to aa and rafael about chunkstore and batchstore.  rafael asked me to help out with the concept of removing dependency on spec for adding new backend stores.  I got the boltstore working with the noms {log, show} commands.  This was a big breakthrough for me in general understanding of the spec and verifying the idea of using the dataset as the bolt bucket is going to work.
+
+
+Wednesday 07
+The major focus the past couple of days has been to get the noms diff command working on bolt.  The big problem has been that I was trying to open a bolt file a second time and it was locking.  So I came to the conclusion that the easiest way to work with bolt is to "open, {read,write}, close".  Yesterday I also found the spec tests which led me to a better understanding of where the localdatabase, batchstore, legacy term datastore etc. all works.
+
+
+Chinese folks pinged me this morning that they were here and wanted to come down to Corvallis.  I called Peter and he vehemently vetoed the idea.  And the universe looked down on us and later in the day they got back to me and said they were not coming.  I got lucky.  Moving forward the only way I will work with them is if I am interacting with an English speaking programmer who is fluent in Chinese.
+
+
+Saturday 17
+Hackernoms is up and running along with even part of the bolt store working.  This is great news !  Today I ported over the noms bolt and redis code to the latest and greatest version of noms housed in nomscs2 and then put that working code in hackernoms2.
+
+
+Thursday 29
+Got bulk requests working with the underlying JSON string instead of using a doc.  I am feeling pretty comfortable now with the Elastic Go client by olivere.  Its a nice clean, well designed piece of code.
+
+
+The year is finishing up on a good note.
+
+
+---------------------------------------------------------------------
+
+
+Plan of work, It = Data             2016/08/31
+
+
+Go, Python
+
+
+* Store It      {Noms}
+* Search It    {ES, Bleve}
+* Cache It     {Redis}
+* ML It          {TensorFlow, GoLearn}
+* Kubernetes {Deploy It}
+* Blockchain  {Secure It}

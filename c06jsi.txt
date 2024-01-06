@@ -1,0 +1,762 @@
+﻿2006
+January
+Sunday 01
+Saw Stephen Spielberg's movie "Munich".
+Monday 02
+Dinner at Rand's house, walk before that. Spoke to Peter Day.
+Tuesday 03
+Begin my Truman Biography that Rand gave me last evening.
+Wednesday 04
+Reporting Design and get things started.
+Thursday 05
+Lunch with Nick at Wild Oats.
+Friday 06
+Working on reporting infrastructure, Model, View, Controller.
+Saturday 07
+Thomas and Cindy for dinner, walk with them before dinner. It was their first time out to Placitas.
+Sunday 08
+Read my Biography on Truman and studied Spanish. Walk late in the day around the block to see the Llama's.
+Monday 09
+SunFlower Market after work. They were closing early for their Christmas party.
+Tuesday 10
+Arctic Natl Wild life refuge talk by folks who went up there in the summer. Sponsored partially by the NMWA.
+Wednesday 11
+Spoke to Peter Day, walk during lunch.
+Thursday 12
+Long talk with Mike and Michelle Giles. Whole Foods for lunch and work on our Mexico trip itinerary.
+Friday 13
+Working on the Dom and Dao aspects of reporting.
+Saturday 14
+Hb worked this weekend. Breakfast at Flying Star. Cook chile in my crock pot, plus chicken soup plus black beans. Work on getting my electronic statements in order. Walk late in the day with Hb on the ditches.
+Sunday 15
+Dinner in Corrales at Ojo Vieja, the old house. Walk along river in the afternoon prior to Diana coming over for Italy reservations. Work in the yard and clean house.
+Monday 16
+Ernie blows out on his ATV and is extremely lucky to be alive.
+Tuesday 17
+Marci's house Tuesday evening. First session since way before holidays.
+Wednesday 18
+Goodwill for my green plate at JSI. Ernie came home from the hospital.
+Thursday 19
+Reporting is now working in a very simple way from the UI. I am pulling real data from the database. I am also using the CaseService to add simulated data to the db.
+Friday 20
+More progress at work on reporting. Got the easy Report Status page working that only runs via Tomcat by showing all of the PDF in a particular directory. Then you can click on that file.
+Saturday 21
+Pam and James party. James was born in 1952 which makes him 54 years old. Hb and I went for a nice walk around the block at Pam's. This time we went in reverse and saw Jesus along the way. Last time we went into his humble abode.
+Sunday 22
+Mellow day at home. Andy went to Rand's to watch the Steeler's crush Denver. The Steeler's are headed on to the Super Bowl in two weeks in Detroit against the Seattle Seahawks. I went for a walk late in the day w/o Hb whose leg was bothering her a tad bit from yesterday's walk at Pam's.
+Monday 23
+Working on reporting UI.
+Tuesday 24
+Lunch at Whole Foods. Reading about Mexico in Border's. Marcy's in the evening, making progress on that front.
+Wednesday 25
+Lunch with Hb at Wild Oats. Laundry and cooking in the crock pot in the evening some cauliflower.
+Thursday 26
+Hood meeting with Pauline Sargent where we discussed traffic.
+Friday 27
+Major day of testing Accounting software with Martin.
+Saturday 28
+Marci's for dinner with Andy, Anne, and Hb. Excellent meal.
+Sunday 29
+Mellow, windy day at home.
+Monday 30
+Spoke to Ben Angerman and Jim Sigman left a message. Whole Foods and Border's for lunch.
+Tuesday 31
+Marci's house.
+February
+Wednesday 01
+Work on taxes in the evening.
+Thursday 02
+Lunch with Steve, our boss, at a Japanese restaurant near work, our whole team went. Code review with Dean.
+Friday 03
+More refactor on reporting.
+Saturday 04
+Fog the house with James and rake the front and back yard.
+Sunday 05
+Rand's for SuperBowl Sunday, the Steeler's won the game.
+Monday 06
+InheritableThreadLocal was the class of the day.
+Tuesday 07
+Marci's house for session number 4 of the year. Lunch with Dan, Skye, and Martin at Monroe's.
+Wednesday 08
+Andy does work on house, re-keying all of the doors etc, plus stucco and fix garage door frame.
+Thursday 09
+Work more on taxes in the evening. Wal Mart in the day for new keys to house.
+Friday 10
+All day on HttpUnit testing. Walk with Hb in the evening at my house.
+Saturday 11
+Dinner at Trombino's with Hb, Glen, and Diana. Work on taxes during the day.
+Sunday 12
+More tax work, pot luck for TuBishVat at Nahalat Shalom.
+Monday 13
+Complete taxes, yes ! Do laundry.
+Tuesday 14
+Dinner with Hb for Valentines at Mazanita's on Rio Grande.
+Wednesday 15
+Drinking with Mike, Martin, Dwight, Kevin, and Skye at Chama River Brewing Company.
+Thursday 16
+Finish HttpUnit testing, command objects etc.. Take Skye through the tour, he will be the first person to try it out. Spoke to M+D, pack for Taos.
+Friday 17
+Mellow day at work.
+Saturday 18
+Drive to Taos, lunch at Out Back Pizza. Walk around town.
+Sunday 19
+Hike north of town at the D.H. Lawrence Ranch. Lunch at a nice Middle Eastern Restaurant in the same complex as Overland Sheep Company.
+Monday 20
+Drive home and really nice hike in Dixon, lunch at Tesuque Village Market.
+Tuesday 21
+Start working on Case Ledger Report. I have a cold, boo hoo.
+Wednesday 22
+More work on Case Ledger Report.
+Thursday 23
+More fun at work.
+Friday 24
+HttpUnit drawing to a close.
+Saturday 25
+Dinner at Arturo Chavez and Jennifer's home for a farewell dinner for Andy.
+Sunday 26
+Lynn's Rabbi Emeritus party.
+Monday 27
+HttpUnit Retro plus more work on Case Ledger.
+Tuesday 28
+Got all of the data from accounting, ready for iText.
+March
+Wednesday 01
+Case Ledger Report is now in pretty good shape. I cranked out the iText objects in one and a half days.
+Thursday 02
+More work on Case Ledger. Solidify reservations in San Miguel.
+Friday 03
+More work on Case Ledger
+Saturday 04
+Lunch at Garduno's with Andy, Hb, Luke, Ronny, Logan, Ronny, and Rhonda.
+Sunday 05
+Mellow day in Placitas, study Spanish all day.
+Monday 06
+Finish Case Ledger report.
+Tuesday 07
+Work on HttpUnit DomSearch for CaseStatus page.
+Wednesday 08
+Unit Testing adding a case.
+Thursday 09
+Mellow day at home packing up for trip, what a life being at home for a whole entire day by myself. It is basically the first time I have been home all day since prior to joining JSI on October 24, 2005. Out to Hb's late in the day.
+Friday 10
+Morning in Placitas, and afternoon back here getting ready for our early departure to Mexico tomorrow morning.
+Saturday 11
+Guanajuato - San Miguel - Dolores Hidalgo - March 11 - March 19
+Day 1,  Year two in Mexico w/ HB and we are still in love w/ this place. Nosotros espanol esta poco mejor (better) than ano pasado and we are much more comfortable here. The energy in the Houston airport was rather oscuro but when we llegar in the airport of Guanajuato Hb said, dice, that nosotros en casa - we were home. The Bajio is green and fertile - the bread basket of Mexico and Guanajuato is muy amable and full of vida. We ate dinner proxima Casa Spirits and took the bus al centro. Our uno noche en Guanajuato - muy bonito. Gente of all ages, musica, bailares, etc. Our taxi ride home was 30 pesos w/ a 10 peso, uno dolar tip. Exchange rate esta 10.5 pesos per dollar.
+Sunday 12
+Day 2,  Desayuno estuvo excellente. Gente next to us at breakfast came late - but the asian girl and Houston lawyer were very nice. Our ride out to Valencina was fun and we met Randy who told us about renting places en Guanajuato for cerca de 300 dolares. We walked around the shops on the hill, met some gringos, learned about Sunday Gringo breakfast and were alegre. Back to town for lunch and had Honey Bun's birthday cookie which was a hard coconut macaroon. We had lunch at the outdoor cafe on one of the side plazas. The guy who served us had black hair and he was young and Honeybun thought he was cute. The table next to us was a family and friends. We took the bus back to Marfil for the first time and figured out where to get off the bus. Honeybun took a shower and I took an afternoon caminar around the hood of our casa to find my bearings. Vive de Mexico.
+Monday 13
+Day 3,  Walk from 7:30am around Marfil. Mexico is booming - as seen via the growth and construction in the Bajio region. Another muy bueno desayuno at Casa Spirits. Taxi to bus station. Arrive in San Miguel around 1pm. Lunch at nice taqueria near the plaza and the young man who's family owned the restaurant had been in Dallas for five years and just got back one month ago. Walk up steep hill to over look the city. Cookies (Galletas) and helado for Hb birthday at the Santa Clara ice cream store out near the Institute de Allende. I also bought a 5 gallon jug of water for 15 pesos, with a 45 peso deposit which I got back at the end of the week. So for 15 pesos we had enough water for our whole time in SMA including all of the water we ate out at meals by taking our own water bottle. This is certainly the way to go when traveling in Mexico. Our hotel is very nice and comfortable and Evangelina Vega is very nice and so are the rest of the staff. SMA is nice, like Santa Fe. I have always wanted to vengo a San Miguel.
+Tuesday 14
+Day 4,  Walked over to the Old Market and checked out the library. Then took a taxi to the botanical gardens - muy bueno. A really nice protected canyon on the edge of SMA. The man who worked there was very nice and spoke excellent English. We caught a cab ride back to town with a young boy and his father who was from San Antonio. Lunch at the Parroque. I had rabbit very good, Hb had rellenos. We took a nap and then went out in the evening and had some cookies on the plaza w/ tea. We walked the back streets of SMA and went home and talked to Pat and Lee Dolley from Manhatten Beach...
+Wednesday 15
+Day 5,  Breakfast at Casa Buen - ginger pancakes which Hb loved. Bus to Dolores Hidalgo, walked to Bus station in SMA from our hotel. One hour ride, teacher from South Padre going to spa. Met a guy on the plaza from Canada who directed us to the tile shop. Lunch in Mercado at food counter. First time eating local food - not in a restaurant. Ride bus home and siesta w/ Hb. Walk around SMA in evening. Art opening + margs at gallery for the art walk. We met a jewlery artist who moved to SMA about 5 years ago, just prior to 9/11. Cookies on the plaza. The guy from Oregon we met told us that Mexico City was fun and a nice place to go if you live in SMA.
+Thursday 16
+Day 6,  A big day for Hb with Tanzanite prior to dinner. Huge breakfast of mole and pollo enchiladas. Spent time at the library reading about Mexico's tumultuous history. Walk in the barrio and the other side of the canyon, while Hb got her massage. I learned my way around SMA today. We love Mexico, spoke to Jews staying at our hotel from Ct. They recommend Ecuador and the Gallapagos Islands. Our second rec on that country. Also Nicaragua too.
+Friday 17
+Day 7,  A muy bueno dia en Mexico. Hoy esta San Patrick's Day so there was a nino parade at 10:30am cerca de la biblioteca in SMA. The energy of the people a la calle este fantastico. Also stopped by the library to read some Mexican history. Packed our bags at Vila Mira Sol and then went to the bank then had lunch at Bella Italiana. There was a table of ocho 8 Americanos sitting proxima nosotros which kind of summarizes SMA. Took the ETN, 100 pesos cada to Guanajuato and watched Bewitched the movie w/ spanish subtitles. Arrived at Casa Spirits and Angelica immediately turned us on to a party at Case Alma de Sol, the other B and B they have downtown. We were going to go to the symphony but decided to just hang out with Hugo, Angelica's brother, and drink Margaritas. We met a girl who had just gotten back from one year in Darfur. Their new B and B is very nice and Hugo is a super fantastic guy. Great evening drinking Margs and listening to the symphony next door.
+Saturday 18
+Day 8,  Super desayuno at the Marfil Casa then downtown to the birth home of Diego Rivera, which is now a museum - nice mural plus great shots of Frieda Kahlo and Diego. Mexico loves them both, and they are certainly everywhere you look in Mexico. FOr our main meal of the day we had tortas with pollo, tomatoes, y avacado at a poco tienda near the panderia. Walk along river at dusk in Marfil w/ rain threatening. Super day in Guanajuato. Also spoke to Hugo in the jardin at our casa - great guy.
+Sunday 19
+Day 9,  Got up at 5:30am and Hb made coffee in our room. Angelica and Hugo's brother took us to the airport. He was at the Casa when I opened the door at 6:40am. We spoke Spanish the whole way to the airport. Went to my house and then Wild Oats. It was a stormy snowy day upon our arrival. A world class, super fantastic trip to Mexico was had by all.
+Monday 20
+Mellow day at Honey Bun's after our trip. Snowy, cold day in NM.
+Tuesday 21
+First day back to work after a super fantastic trip.
+Wednesday 22
+Drinking with the boys from work at Billie's. Kevin Adkins left JSI.
+Thursday 23
+More work on Subject Ledger Report. Lunch at Border's working on Spanish Kids Books again.
+Friday 24
+Fun at work.
+Saturday 25
+Santa Fe, lunch at Italian restaurant where we had Bill and Michele's party. Hung out with Scott, dinner with him at Harry's Road house. Watched a movie on 9/11. Kathy and Alex were in Michigan.
+Sunday 26
+Mellow day in Placitas.
+Monday 27
+Subject Transaction History Report plus learn some Ruby.
+Tuesday 28
+More fun work.
+Wednesday 29
+Dinner with Marty O at Los Equipales, the Mexican restaurant Henrique Valdovinos helped open in Abq last year.
+Thursday 30
+Hb and I go for a short walk.
+Friday 31
+Art exhibit at the National Hispanic Cultural Center on Frieda Kahlo and Diego Rivera, saw Jen Muphy at the event.
+April
+Saturday 01
+Breakfast at El Camino with Gabe, Diana dropped him off at my house at 9am. Gabe's soccer game out on Paseo and San Pedro. Out to Placitas for dinner.
+Sunday 02
+Ben Angerman comes over in the afternoon for a nice meal and a hike afterwards. He leaves at Sunset after hanging out in the sweat.
+Monday 03
+Code review with Dean, refactor reporting.
+Tuesday 04
+Refactor reporting, dig up front of house bed for corn.
+Wednesday 05
+Mom and Dad leave Florida heading back home to McKeesport.
+Thursday 06
+Complete Subject Transaction History Report plus refactor of reporting infrastructure.
+Friday 07
+Work with Martin on Victim Restitution, Day One.
+Saturday 08
+Marcy and Anne for dinner, hike afterwards around the block. Saw Bill chasing after the llama.
+Sunday 09
+Mellow day at home in Placitas. Out in afternoon looking at homes for Hb's friends from Ca. Once again, saw that home in the village.
+Monday 10
+Walk late in the day, continue working with Martin on VR.
+Tuesday 11
+More fun at work.
+Wednesday 12
+Hb's house after work, walk, and watch movie on Elijah Wood going back to the Ukraine.
+Thursday 13
+First time doing a JSP page from scratch, walk after dinner over to the track at dark.
+Friday 14
+Mellow evening, I worked on ASM and CGLib for the first time.
+Saturday 15
+Old town early in the morning, walk around, Hb got a cup of coffee and puppy got a donut from some folks. Sima's play at the Abq Little Theatre, then dinner at Trombino's with Rand, Tessie, Sima, Bruce, and Jenny.
+Sunday 16
+Hb books a hotel in Milan. Ride bikes in the afternoon. Community Seder at Nahalat Shalom.
+Monday 17
+More work on Victim Restitution.
+Tuesday 18
+Meeting on San Juan River Diversion Drinking Water Project. Dean was there along with his wife Susan. They discussed the project and how to make sure and videotape your house prior to the tunnel machine coming thru.
+Wednesday 19
+Meet and Greet the new Rabbi at Joan Robin's home, along with Loey, Eve, Lisa Jacobs, and Robin.
+Thursday 20
+Plant first batch of corn in the front yard.
+Friday 21
+Electricity out at work. Home at 10am. Arrive at work at 6:30am and discover that the electricity is out. Then go for a walk around Wolfe's Bagels. Back to work to find out we can go home by Ernie. Got Zrato up and running under Eclipse and cut a version with the new code.
+Saturday 22
+Teguex Park for Abq 300 Year birthday, breakfast at Flying Star. Saw Jim Palmer and Paul, Hb's old B-friend and his new girl friend. Party at Pam and James house. James just finished up their new shop / second story room with a killer view.
+Sunday 23
+Mellow day at home, worked on the ASM Toolkit understanding.
+Monday 24
+More work on VR, Victim Restitution. Scott turns over the helm to Jonathan at Sun.
+Tuesday 25
+More work on the Java VM. I bought my first Spanish book at Border's next to Whole Foods on the vida del Pancho Villa.
+Wednesday 26
+Walk late in the evening, more work on learning HQL queries thanks to Martin's help.
+Thursday 27
+Lunch with Hb at the park on Matthew. Hb bought us lunch from the coop. Mellow evening, Hb readies for her trip to Italy.
+Friday 28
+Hb leaves for Italy. Meeting at work with Steve Corn where we watched a movie on the Apollo program. Met with Martin to discuss the state of our VR program.
+Saturday 29
+Great day ! Marty O came over for dinner. In the morning I went to Sun Flower Market. In the afternoon I cleaned up my kitchen sink. I have never cleaned it since I moved into this house in February of 1999, believe it or not !
+Sunday 30
+In the morning Rand and I went to Temple Albert for a speaker on Israel relations with the US. Then Rand and I went for a walk. The corn is starting to come up. It was planted exactly ten days ago. Pretty good return from seed to plant in 10 days.
+May
+Monday 01
+Fun day at work, got all of the Test Cases up and running in the new world order.
+Tuesday 02
+More work at home on cglib related to hibernate.
+Wednesday 03
+Planted corn outside round two, exactly two weeks after round one. Meeting at work, agree to work Monday evening's till 7pm. Complete Victim Restitution validation.
+Thursday 04
+Hood meeting with Joan and Pauline Sargent. Discuss north valley transition and land acquisition around the hood. Work with Steve at work on our new world build order.
+Friday 05
+Spoke to Michael Berkowitz in the evening.
+Saturday 06
+Santa Fe to visit Scott, Alex, and Kathy. Lunch at Harry's Road House. Climb Sun Mountain to the top at around 4pm. Gorgeous.
+Sunday 07
+Mellow day at home. Tessie's gig downtown at Civic Plaza with Rand and Simma. She did an Asian gig there.
+Monday 08
+Begin Miscellaneous Payments.
+Tuesday 09
+Electricity gets knocked out for hours in the evening.
+Wednesday 10
+More understanding of how accounting works and major study of it with Martin.
+Thursday 11
+Dinner with Mom and Dad at Il Vicino, saw Leo Neufeld.
+Friday 12
+Lunch w/ Mom and Dad at the Cracker Barrel. Bot acas for the first time. Dinner at Flying Star. Pick up Hb at the airport at 9:30pm.
+Saturday 13
+Lunch with Mom and Dad at Whole Foods. Hb and I go to Trader Joe's. Dinner at the Range.
+Sunday 14
+Mom and Dad come out to Placitas. Went on the Placitas Studio Tour, dinner at Hb's house with Mom and Dad.
+Monday 15
+More work on Accounting. All General Ledger Entries get populated via the Standard Accounts. All access to Standard Accounts is via Transactions, and not Financial Judgments. BBQ dinner at work, stay till 6:30PM.
+Tuesday 16
+Begin working on Miscellaneous Payments User Interface, had better days.
+Wednesday 17
+Work outside and water corn.
+Thursday 18
+Mellow evening.
+Friday 19
+Dinner at Scalo. The lady we saw at the Holiday Fair is now managing the whole restaurant and the food was excellent. Mom and Dad arrive in the late afternoon.
+Saturday 20
+Dinner at Trombino's and then walk around the Wild Oats shopping center after. During the day we went to the Abq Museum and saw an exhibit on African Art. Our docent tour was by the same lady who gave us the tour last time at the TriCentennial exhibit.
+Sunday 21
+Listen to the podcasts of Java One from last week including a big Thank You to Scott McNealy who just stepped down as Sun's CEO. Also, lots of new words from the Pancho Villa book. Major deep watering of my corn crop which is planted in my front yard. Late lunch with Mom and Dad at the Flying Star. Hang out at my house all day with them and decide NOT to go any where. Dinner at Season's. I had never been there before, and was basically un-impressed but courteous to my parents and HoneyBun.
+Monday 22
+Martin comes to me and tells me he is leaving, five days after telling me he was going to stay. No word is released to Ernie or the team. Mom and Dad leave their hotel at 6:30am with an 8:30am departure.
+Tuesday 23
+Martin informs Ernie and the higher ups that he is gone. At 4pm Mike announces to the team that Martin is leaving and that I am taking over the Accounting project.
+Wednesday 24
+I meet with Dean and dump on him, saying I am not sure I want to under go the effort of stepping up to the plate and trying to fill the shoes of Martin based on our current situation. Dinner with Simma at Yasmine's which has gone down hill, maybe a switch in owners. Need to find out.
+Thursday 25
+Up at 2am to think about things and where we are at with the project and my life to date. Life is very interesting.
+Friday 26
+First day breathing and dealing with Martin leaving and me taking over accounting.
+Saturday 27
+Go and see the Divinci Code, pretty good. After that we went to my house, and then to Marcy and Anne's. Dinner on the corner of Gibson and San Pedro at Cervantes.
+Sunday 28
+Mellow day at home, studied Spanish a lot.
+Monday 29
+Mellow day at home, decided NOT to go any where, this was a good thing.
+Tuesday 30
+Long talk with Martin on accounting.
+Wednesday 31
+Long talk with Martin on accounting, and also clean up table of papers in the living room. Finally, after many months, found the Bug in the Case Ledger Report. I was pulling CourtCase Id's from the database based on the case sequence. Wrong ! Cause you can have different Case Types with the same sequence number. Spoke to Marty O, he got his new job and officially started on May 22. Jonathan Schwartz announces that Sun will lay off 5,000 employees. The text to his statement is posted on his blog.
+June
+Thursday 01
+Claude's meeting with Hb on MRCOG. Jonathan said the presentation was terrible and got the crowd a bit riled up. Debbie OMalley showed up at the end of the talk and gave her two cents.
+Friday 02
+Tagged and branched the pilot for Overland Park.
+Saturday 03
+Placitas Appreciation Day at the Merc. Lunch at Noda's, then on to the old church at Corrales. Hb vacuums my whole house and I do the steer manure pit. Party at Nahalat Shalom for Rabbi Brin's installation. Hb and I eat like hogs after the ceremony.
+Sunday 04
+Mellow day in Placitas. Walk at dusk.
+Monday 05
+Major code re-factor of Bonds, now that the pilot has been tagged.
+Tuesday 06
+Martin's last day at JSI, review Bonds with him and get a good understanding. Lunch at Monroe's w/ the team plus Tamara and Joe Poerschke, who left JSI last week. Peter Day arrives at my home in the afternoon and we have dinner here with him in the evening. Cloudy afternoon but NO rain was produced.
+Wednesday 07
+Dinner with Peter's parents at the El Pinto.
+Thursday 08
+More work on understanding accounting. Two days after Martin left.
+Friday 09
+Mellow evening in Placitas.
+Saturday 10
+Tamaya for art fair plus lunch. Hb bought me a hat too. Dinner at Janet Davis's party for singles. Sat next to Steve Ventre, MaryAnn, Beth, Ed, and his finance. Wild evening at the party.
+Sunday 11
+Mellow day in Placitas.
+Monday 12
+Work late then water till 10:30pm. Speak to Mom and Dad.
+Tuesday 13
+More work on understanding CasePayments as it is tied to Bond Conversions. Also, Dan Brown installed my new heater today.
+Wednesday 14
+Going for walks at lunch time when the temperature outside is around ninety degrees, which is working out quite well. The key is walking with your shirt off and changing into shorts before the walk. Planted some stuff outside in the evening including some lavender, mint, and chamomille. The corn is doing really well, which is great news.
+Thursday 15
+More work on CasePayment and understanding how the heck it works.
+Friday 16
+Work by 5:30am to score a victory and get the Dispose, Assess, Pay cycle all under automatic testing. In the evening we went to become Joycean Scholars on BloomsDay at the home of some folks who live on the corner of Roma and 12th Street in a very old stone home.
+Saturday 17
+Early morning breakfast at Flying Star followed by our first trip to the Farmer's Market this year.
+Sunday 18
+Mellow day at home.
+Monday 19
+Start working on the other areas of Bonds.
+Tuesday 20
+Water garden from the ditch.
+Wednesday 21
+Skye back, work with him on Bonds. Go to Dr. Bells for the first time and get my dental appt.
+Thursday 22
+Go to Dr. Bell's and get my teeth cleaned. Got lucky that things were not in worse shape.
+Friday 23
+Drinking with the boys at Kelly's. The wives came along on this Friday afternoon to watch Dan Clark prance around the bar with his "man" bag on. He lost a bet to Dean. Also, Martin showed up with his wife Jessica and their young son Max. Martin left JSI about two weeks ago.
+Saturday 24
+Hang out at my house and Harvey starts trimming the Cotton Wood Trees. Breakfast at Flying Star then Farmer's Market.
+Sunday 25
+Mellow day in Placitas.
+Monday 26
+More work on accounting with Skye.
+Tuesday 27
+Huge rain storm in the evening.
+Wednesday 28
+Fix computer bug at work on my machine caused by the USB device acting strange. Had to disable the device using the device manager in the end.
+Thursday 29
+Mellow night at home watering corn etc...
+Friday 30
+Great night at home knowing next week is the July 4th holiday.
+July
+Saturday 1
+Party at Pam's house, very nice mellow party.
+Sunday 2
+Worked outside on the mandala and digging up weeds in the front yard.
+Monday 3
+Work during day, back home to Placitas in the evening.
+Tuesday 4
+Party at Anthony and Carol's house, very nice party with Pam and James.
+Wednesday 5
+Back to Hb's in evening. Creek was running, met the guy who lives in Pancho Villa's house and he gave us a tour of his yard.
+Thursday 6
+Mellow evening at home, first night home in a week.
+Friday 7
+Rand's house in the evening, first time seeing him since his Prostate surgery. First time to Erna Ferguson library during lunch. Walk at 6:30am north on the diversion channel off of Washington near work.
+Saturday 8
+Lavender festival with Marcy and Anne at Los Poblanos. Breakfast at Flying Star with them after going to the Farmer's Market.
+Sunday 9
+Worked some on the Labyrinth.
+Monday 10
+In Placitas, more work on Labyrinth.
+Tuesday 11
+Bonds, more work. Slammed in evening by Mom concerning trust agreement stuff.
+Wednesday 12
+Out to Hb's in evening for a mellow walk.
+Thursday 13
+Water the corn.
+Friday 14
+Saturday 15
+Mexican Art Exhibit in Santa Fe, followed by lunch at Guadalupe Cafe. Next time get the salad. 2pm docent tour of Mexican Exhibit PLUS Marsden Hartley.
+Sunday 16
+Mellow day in Placitas. Walk late in day in Creek bed East of Hb's past Road, never walked that way before. After the flood its very cool, cause you can walk with out any obstructions in the creek bed.
+Monday 17
+Begin BondTransactionHistory table for the first time.
+Tuesday 18
+Out to Placitas after work.
+Wednesday 19
+Hb's Big Day at Anna Kaseman, we had a freaking blast hanging out with Dr. Connors. What a way to celebrate our anniversary !
+Thursday 20
+Back to Honey Bun's in the evening and we went for a walk around the block. This is a good sign that Hb is feeling better. Also, meeting at work to discuss that we are far behind schedule and how long it will take us to finish things up.
+Friday 21
+Party at Jim Palmer's to celebrate Moon Day. Wet met Barbara and Paul, really nice folks, Hb already new them. Late in the party Stephen Hunt came by for some laughter. He is doing really well.
+Saturday 22
+Breakfast at Flying Star then Rand's house to pick him up for the Farmer's Market. Then back to Rand's house to hang out for awhile. Then work on clearing out some weeds in the garden and general outside stuff at my house.
+Sunday 23
+Lunch at the Range in Bernalillo. Walk around Bernalillo after lunch over to the park and then along the ditch. Very nice day. Start reading the Mexican Survivors by West.
+Monday 24
+Final shipment to Overland Park. Begin next phase of Bonds, which is Cash Bond Conversion. A new world order has emerged at work with Steve Corn coming to our stand-ups.
+Tuesday 25
+Work on Financial plans by converting over yet another account.
+Wednesday 26
+Cash Bond Conversion research on track. Dinner at Il Vicino with Hb. After there was a talk at UNM by an Acoma Indian named Simon Ortiz.
+Thursday 27
+Meeting with Steve Corn to discuss his emergence in the product as a micro-manager. I decline an invitation to travel to San Antonio for the company trade show. Walk in morning with Pauline Sargent and we spoke a bit of Spanish.
+Friday 28
+Raining on the way home to work. This has been one heck of a rainy summer in my mind. Wow ! Started working on the service tier level for Cash Bond Conversion and actually got it up and running for the first time. Rand's in the evening for 3 games of chess, Hb talked to Tessie all night. Sima was out on the town.
+Saturday 29
+Breakfast at Flying Star, then the Farmer's Market. Jsi party at the Zoo, had a nice time. It sprinkled while we were having lunch, but not too bad. We sat with Roy Cox and his wife. It was my first time to the zoo. In the evening we went to a party at the home of Moira and Michael Gerity parents house. It was Kathy's birthday, and Michael is a friend of Scott's. We had a really nice evening.
+Sunday 30
+Memorial for Bob Levin, very nice service. I spoke about Bob and the power of nineteen, as he was born on July 24, 1919 and died on July 19, 2005. After the service we went home to Placitas.
+Monday 31
+Evening in Placitas, very rainy. July was the wettest month in the recorded history of Albuquerque. I don't ever remember having such a wet month since I have lived here, its really incredible.
+August
+Tuesday 01
+More work on Manual Distribution, and start the Automatic Distribution algorithm.
+Wednesday 02
+Got Manual Distribution working on the UI side.
+Thursday 03
+Hb bought a new camera. Lunch with Steve at Trombino's, he took the whole team out to lunch. Working on Automatic Distribution. Went to Stanley Lovato's Memorial Service.
+Friday 04
+Mellow evening.
+Saturday 05
+Pam and James house in the evening with puppy, very nice and mellow. Breakfast at the Barealas coffee house, don't get the pancakes at the Barelas Coffee house.. We already knew that from last time but forgot.
+Sunday 06
+Rained all day in Placitas, I never really even went outside. More progress on the book by West about Mexico.
+Monday 07
+Conversation with Ernie in his office about doing business in Latin America, PTO (extra time off), and Private Equity firms such as ACAS. Went to David and Susan Gutt's house on our walk and then stopped by Bill and Denise's house, they put a new porch on their house.
+Tuesday 08
+Cash Bond Conversion work, what disaster, I melt down with Dean over Victim Restitution.
+Wednesday 09
+Walk with Honey Bun.
+Thursday 10
+Walk with Honey Bun.
+Friday 11
+Nahalat Shalom for Freylich Shabbat, spoke to Maria for quite awhile. Finished up the Cash Bond Conversion iteration, quite an ordeal and week. Dean took me out to the wood shed on NOT putting asserts in my Unit Tests and NOT adding value to the code by putting skips in my unit tests. It also distracts him from re-factoring when I have junky unit tests. Begin working on JMock tests for the core accounting DOMs.
+Saturday 12
+Breakfast with Michael Gerity followed by Farmer's Market. Dinner at Martin and Jessica's lovely home near the University.
+Sunday 13
+Drove out to Placitas at 7:30am.. Party with Pam and James, Marcy and Anne at the winery for their summer jam down with Music. Mania's husband Cass died last evening.
+Monday 14
+Out in Placitas.
+Tuesday 15
+Finishing up the Standard Account re-factor to all Standard Accounts.
+Wednesday 16
+Day off in Ponderosa Valley out in the Jemez, gorgeous.
+Thursday 17
+Il Vicino tap room after work, retro at 4pm with Phil, Ernie shows up at the end of the day.
+Friday 18
+Made reservations to go to Aguacalientes, Mexico on October 27, 2006 thru November 5, 2006...
+Saturday 19
+Early morning walk around the big block, across Rio Grande and up to Montano. We saw Benay walking her dog. Breakfast with Luke and Ashley at the Frontier. Walk around Nob Hill, saw Joe Lindsay playing ultimate at the Johnson field. Today is Eliot's Leo party. Party at Ronny's parents house in the ghetto, it was a graduation party for Ronny's sister... Luke and Ashley came in town for the party which was very nice...
+Sunday 20
+Up early and drove out to Placitas.. Graduation for Thomas at the Sandia Casino. It was Michele and my first trip to the Casino since they remodeled it.. Pretty tacky. Home and had dinner and then worked on the road damage from all of the rain.
+Monday 21
+Honeybun's in the evening. Went for a walk around the block.
+Tuesday 22
+First big day of writing Mock Tests. Actually had the time to the tests, after Dean wrote a practice test for the BondServiceDefault. In the evening, I walked around the track and did some weeding...
+Wednesday 23
+More work on Mock test...
+Thursday 24
+More work on the Mock test...
+Friday 25
+Walk around Old Town with Hb in the evening, there was some Salsa music playing at the Museum, and we watched from the side. Very nice... Today I got the Mock test working for CaseService too.
+Saturday 26
+Drive out to Placitas early afternoon after starting up my lawn mower and letting it run for awhile... I hadn't started it in 6 months. Went to the Farmer's Market and also had breakfast at the Flying Star.. Did some weeding outside too... Was up at 2am working on cleaning up the remainder of the Sfi stuff... Marcy comes over for dinner around 3pm along with Gabe, Diana, and Malaya...
+Sunday 27
+Andy arrives around 11am and Gabe stays with us to 8pm at night. Went for some nice walks during the day including a talk with Bill Patterson as Gabe got to see his chickens. Learned about the rock yellow cake and that it contains Urananium. The movement to the geology around Placitas with this summer's rains is astounding. Bill balled out some guy and told him on his motor bike never to come back or next time he would go to jail...
+Monday 28
+Placitas in the evening, walk with Andy and Hb.
+Tuesday 29
+Planning game in the morning, accounting credits and debits in the afternoon. Walk in the evening around the track.
+Wednesday 30
+Mellow evening.
+Thursday 31
+More work on Accounting refactor.
+September
+Friday 01
+Dinner at Geezamboni's, now called Johndi's.
+Saturday 02
+Lunch at Flying Star followed by the Farmer's Market. Weeding in the afternoon.
+Sunday 03
+Work all day up at Steve Brodeur's land w/ Andy. Went over the hill on the back road up to the Sandia Ski Basin.
+Monday 04
+Pam, James, Tessie, and Rand for a BBQ.
+Tuesday 05
+Placitas in the evening, walk around the block.
+Wednesday 06
+Make AccountingTransaction one class.
+Thursday 07
+Work on Mock Test for Case Payment. Gas at $2.49 at Lowe's. Laundry.  Saw article about Writely and decided to start using it.  This application I know today, I will use every day for the rest of my life, or something like it.  Having a FREE web based application that allows me to edit documents on line is the only way to go.
+Friday 08
+Did gave a retro on the service tier, finished up the Mock Test for Case Payment, I really now have these Mock Tests down...   Start using Writely for the first time.
+Saturday 09
+Start out by reading about the post election situation in Mexico.   Start for the first time really working on studying the Spanish verbs and all of the tenses.  Do some weeding around Hb's house.  Gabe arrives and we go for a walk.  We had salmon for dinner, I went to bed early.
+Sunday 10
+Early morning walk with Gabe up the hill that we drove to near the house.  More studying of the Spanish verbs.  Hang out with Arturo, Jennifer, and the kids at their house, after going on a walk with Gabe up the creek...  Kids are really cute.
+Monday 11
+First day on Java 5 at Jsi, we finally made the leap and did it.  Walk with Andy and Hb in the evening out in Placitas.
+Tuesday 12
+Got home to find my telephone line was dead, bummer...  Oh well, at least its not the inside wiring.
+Wednesday 13
+I love this Writely application, it allows me to add notes thru out the day to my diary, and also where ever I may be...  I can be at HoneyBun's on the road, at work, and I have one place to actually edit the same document.  Prior to this, I had to pull up an email in Gmail and then save it as a draft, which was NOT the solution, and this is THE solution...  Went for a walk at lunch today, on my favorite walk around the block starting at the Lazy Boy Showroom..  A gorgeous autumn day indeed, a tad bit hot, but thats OK.  Also everyone at JSI is in San Antonio this week, so its real quiet around work which is really nice.
+Thursday 14
+Got car maintenance done for the 30k checkup, see email for whats left to be done.  Gave a talk on my charter school, Dean has been bugging me for months to do this.  Got Menudo for the first time as a take out at my favorite Mexican Grocery store.  Learned the haber verb tenses top to bottom.
+Friday 15
+Hang out at Anthony and Carol's gallery in Placitas for an art opening.  Met Debby from New York who went to Bennington College.  Spent all day at work talking to Qwest about my phone that is still dead and making the first set of reservations for our Mexico trip.  Got our first reservations in Aguascalientes.  This was the final quiet day at Justice Systems as everyone returns from the week long conference in San Antonio on Monday morning.
+Saturday 16
+Hb and I went to the State Fair and had a nice time.  After the Fair we had lunch at the Mexican Bakery Store near where we park.  We had menudo for lunch, very tasty.  Breakfast was at the Range, so we had a full day of food.  That was my last food for the day.  In the evening we went to see Linda Cotton hosted by Anthony and Carol the portrait artist.  All in all a very glorious day.
+Sunday 17
+This was also a another beautiful autumn day in central NM.  Andy and I went on  a nice walk and then there was a party at our neighbors house Alvaro and Katrina.  Spoke to Lucy Noyes about Mexico and how she liked San Luis Potosi.  We also discussed election fraud in Mexico with her husband.  We also spoke to the young artist who moved here from Brazil.  We first met him four years ago with his wife when he had first moved to this country.  A full circle was had by all.  The food was scrumptios too, and Andy made a delicious cake.
+Monday 18
+Trying to finish up the Mock Tests for Bonds.  Hb made pizza for dinner. Bed early to avoid trying to get a cold, which Hb has.
+Tuesday 19
+Final day of work before vacation.  Got the StandardAccount refactored by deleting all of the subclasses underneath StandardAssetAccount and StandardLiabilityAccount.  Walk during late lunch, as I was busy checking in the StandardAccount code.
+Wednesday 20
+Worked all day on my taxes for major sell off of dog stocks in my trading account.  Lunch with Hb at Sophie's, very good.  Went to the sdb to confirm purchase price of some stocks.  Out to Placitas at dusk.
+Thursday 21
+Ride out to Pagosa Springs.  Stopped briefly in Cuba to see the devastation of Bruno's burn to the ground.  Very disheartening.  It appears they may be rebuilding which is good news.  Got gas in Dulce for $2.21, mind you gas was over $3.00 a gallon back in July.  Note, Amarinth Capital lost 5B on this debacle.  The commodoties trading pits are not for the faint of heart.  Arrived in Pagosa and had lunch at the Mexican restaurant over looking the river.  Got to check into our hotel and then went for a glorious walk up the valley on 4 mile road.  This was walk number one, walk number two would happen two days later up the other side of the valley.  We took many pictures of this valley.  The snow/rain storm had already moved into Pagosa and so all we saw were clouds but no rain.  Back to the hotel and then we did our first hot tub thing, very nice.  I always love the first hot tub of the trip, in a certain respect its the best one, and also usually the longest one.
+Friday 22
+It rained all day, and it was an opportunity to relax.  We had breakfast at the Elk Horn and then came back and did a hot tub, and that was pretty much the events for the day.  We got to lay around the hotel and I took two naps I believe.  Just at dusk, as we were heading out to dinner at our favorite Italian restaurant the weather broke, and the blue sky emerged.  We got some good shots of the mountain snows which turned out to yield about two feet in the higher elevations.  Dinner was good, but not great, they got new owners and the prices went up a bit. But the meal was still passable and we would go back again.  We did not do a hot tub this night.
+Saturday 23
+Early morning hot tub before breakfast.  We got in about 6:30am and soaked till about 8am.  It was a beautiful morning.  We then had breakfast at the Rose and came back to our hotel and checked out.  And then we went for our second glorious walk up snow ball road.  We ran
+into some llamas along the way, and took tons of pictures.  This valley which is within walking distance of downtown Pagosa is absolutely glorious and we truly captured the moment in our minds.  We came back from our walk, stopped by the bakery and hb had a sandwich and then we headed off for Taos.  There was some snow on the sides of the road going over Hwy 64 between Tierra Amarillo and Tres Piedras -- very beautiful.  Before coming into Taos we stopped at the Gorge Bridge and then headed into town.  We stayed at the Fechin Inn.  After arriving we walked around town and hit two gallery openings.  We met a woman by the name of Michele who was from Austrailia and Hb thought she may have been part Aborigine.
+Sunday 24
+We headed up into the forest and after a couple of false starts on some hikes, we found the forest road that we wanted and it was truly beautiful.  We hung around the wilderness for a couple of hours on a perfect autumn day and then headed back into town and swung by my gallery where I picked up my Gorman photos and bought one more new one to round out my set.  Diana Nelson told us about the DragonFly Cafe and so we ate lunch there, it was superb, it is located adjacent to the Post Office.  After lunch we walked around Taos till about 6pm and then headed back to our hotel for the evening.
+Monday 25
+Went on a great walk after a nice breakfast at the Taos Inn.  We walked out past Chuck's place and then headed down some of the roads that fall off that street.  We walked down one street and back up the next.  After heading back to the hotel and checking out we got some snack material at Sid's and then had a nice snack/lunch in Tesuque at Shidoni on our way home.  We arrived back home around 4:30pm.  It was a glorious trip, and the reason we are alive.
+Tuesday 26
+I learned first thing upon arriving at work that Vitria was going private.  That night Mark came to me in my dream, I guess to say that everything was OK.  Needless, to say I have had better days and having to battle the first day back at work and that was not great.  But then, right before going to bed Hb told me about her friend Elise who was septic, which means her blood was infected and that certainly put my problems into perspective.  "Everything in life happens for a reason." This is a quote by Rishma.
+Wednesday 27
+Work before 6am.  Working on the ChartOfAccount Ui.  Spoke to Bruce Sawhill.
+Thursday 28
+Luke's Birthday.  First day of working on the Yahoo UI Toolkit.  Beers after work at Billy's.
+Friday 29
+Finish up the ChartOfAccounts UI Part I using the GenericListAction.
+Saturday 30
+Work all weekend on Javascript and the Yahoo Yui toolkit.  Hang out all day and didn't go anywhere -- very nice..
+
+
+
+
+October
+
+
+Sunday 01
+Katrina and Alvaro for smunch at 2pm.  Very nice, Hb made lamb.  We went for a nice walk at dusk.
+Monday 02
+Patsy Madrid party at the big new house across the street from Flying Star.  Tail end of Yom Kippur at Nahalat Shalom.  Work on second Chart of Accounts Mapping Ui.
+Tuesday 03
+Out to Placitas in the evening.  Finished off the food from Sunday's party.  Bought (2) pair of nice shoes at Big Five for the winter.
+Wednesday 04
+Hang out with Rand after work, Sophie's for dinner then chess at Rand's house.
+Thursday 05
+Hood Board Meeting with Joan, Ida, Pauline.  I wrote up a flyer to encourage people to support the church selling their little league fields to the State of New Mexico.
+Friday 06
+Lunch with Martino at Wild Oats.  First day using Google's Picasa Photo application.  Very cool, we uploaded Hb's shots we have taken so far.
+Saturday 07
+Breakfast at Flying Star, Farmer's Market.  Work outside on front yard.  Drumming party in Placitas.
+Sunday 08
+Breakfast at Pam and James house, there till 1pm.
+Monday 09
+Dinner with Jim at Hotel Albuquerque.
+Tuesday 10
+Jim comes by the house and we walk over to the Flying Star for dinner.  Hangs out at my house  for awhile and we discuss the politics of the times.
+Wednesday 11
+Completed getting reservations for Mexico.  Dean gives a retro on the potential future direction of the web tier part of our product.
+Thursday 12
+More work on the dreaded ChartOfAccounts Ui.  Dinner at La Mazanita's, we had a coupon which was to expire on Nov 01.
+Friday 13
+Finish the ChartOfAccouns Ui -- good.  Party at Ty and Barb's house in the evening.
+Saturday 14
+Mellow day, huge nap around noon.  Did a nice sweat in the evening.
+Sunday 15
+Hike out in Ponderosa.  Typical autumn day with scattered clouds.  Breakfast at the range.
+Monday 16
+Mellow day at working on Bond Transfer.  Placitas in evening.
+Tuesday 17
+Got tchecks during lunch.  More selling on 401 side.
+Wednesday 18
+Temple Albert with Rand to hear a talk on why we are the chosen people.  Very inspirational and got me re-excited about life and the possibilities it holds.  Incident at the Range last weekend with Hb regarding the sticky bun holds true.  You always have to be in your complete integrity.
+Thursday 19
+Mellow evening, went for a walk down Griegos towards 12th.  I was a gorgeous autumn evening in the North Valley.  This time of year is splendid.
+Friday 20
+Mellow day at work, everyone was gone.  Started working on a Mock Test to tie together all of the StandardAccounts asserting into one spot.  Party that evening at Arturo and Jennifer's to honor Janice Saxton who is running for State Representative district here in Placitas.
+Saturday 21
+Dinner at Marcy and Anne's.  Unfortunately, they acquired a Cat, yikes !  Not good...  But I still had fun with Hb and Andy, as always it was very entertaining.  Earlier in the day we went for a short walk up the creek, but all in all it was pretty windy so we cut our walk short.
+Sunday 22
+Mellow day at home, worked on some Spanish.  Windy so I did not go for a walk.
+Monday 23
+Made chile at home for Ernie's potluck birthday tomorrow.
+Tuesday 24
+Listened to the Verisign Earnings Conference Call.  Planning game in morning where Tessa drops the bomb and gives us a production date of March 2, 2007.  Later in the day we had a meeting about what we can do about getting more efficient.  Also, today we had a potluck for Ernie's 51st birthday.
+Wednesday 25
+Mellow last day at work.  Walk with Roy at lunch, finish up Mock Test for Standard Accounts infrastructure. Walk after work around the block.
+Thursday 26
+Spoke to Mike Giles, John Gutman and Iris.  Pack for Mexico.  Listened to the Sun earnings call.
+Friday 27
+Lunch in Houston at Pappadeaux.  We had a 3 hour wait.  Left Houston at 6:30 and arrived Aguascalientes at 8:30pm.  Got a ride to Quinta Real w/ the captain of our airplane...  Lovely hotel, walked a bit.
+Saturday 28
+Gorgeous day.  Breakfast y Cena at the hotel. Caminar todos dia.  Galletas at noon, tortas at uno. No bus, walk into town y walk home.  Our waiter at dinner was very nice.  Aguas feels muy bueno.
+Sunday 29
+Bruch was sabrosa, exquisite.  With a 4 piece string quartet and people from all parts of Mexico. An absolutely perfect morning in a tropical setting.  Bus around town, ended up at a dead end.  Walk then pick up another bus which took us near our hotel.  Cookies, swimming in afternoon. Back into town for Day of Dead celebrations and dinner at Fiesta Hotel for fajitas.  Orchestra back at hotel for party.
+Monday 30
+Bus to Zacatecas.  Walked around town in the late afternoon, and met a nice lady at the Justice Center who told us some stuff about Day of the Dead.  Walked around town in the evening and checked out what was going on...
+Tuesday 31
+Museum in Zacatecas.  Hb got a massage and I walked the town towards the top of one of the hillls.
+
+
+
+
+November
+
+
+Wednesday 01
+Trolley ride around the center of town, tour was in Spanish, oh no...  Climbed the hills of Zacatecas.  Took the cable car ride which was fun... Walked down the other side of the hill back to our hotel.
+Thursday 02
+Bus from Zacatecas to San Luis Potosi.  Watched a movie about some car racers.  Beautiful ride, but not as nice as the ride from SLP back to Zacatecas.  That is the priemier country.  Dinner near our hotel at a nice restaurant, had Fajitas, took some pictures of our hotel...  Walked around down town.  Gorgeous old colonial architecture.
+Friday 03
+Early morning walk west on the street our hotel was on...  Ended up near park and Sam's Club.  Nice breakfast and got turned on to http://www.librevia.com.  Walked towards Tangamanga Park and finally arrived there after getting lost.  Then took a bus into town -- walked around a bit, hb had potato chips with some great hot sauce.  Then back close to our hotel for a delicious torta.  There is a nice torta place across from our hotel in San Luis Potosi.  The name of our hotel was Hotel Real Plaza and it was around 600 pesos a night, a very good deal.  Walked into the evening under a misty drizal.  SLP is a cosmopolitan town.
+Saturday 04
+Early morning walk north of our hotel, back at 8:30am. Breakfast at same spot near our hotel in SLP.  The local bus back to Aguas, got right on when we arrived at the bus station.  Very interesting ride thru Ojelos...  Saw some beautiful country side and saw some interesting people.  Early dinner at our hotel.  Then very nice walk along park then into a newer neighborhood in Aguas.
+Sunday 05
+Early breakfast from menu at hotel...  Taxi to airport.  Lunch in Houston at Pappadeaux.  Met Jill on the plane home from Houston to Abq.  She lived in Santa Fe and went to Penn in 1976.  Very nice woman and Hb and I enjoyed speaking to her.  Home by 9am.
+Monday 06
+Breakfast at Flying Star.  Out to Hb's in the afternoon.
+Tuesday 07
+First day back to work, voted in the evening.
+Wednesday 08
+Democrats got back the House of Representatives.
+Thursday 09
+Mellow day at work.  Spoke to Lisa Wehrung, Brian was on travel to Asia.
+Friday 10
+Feeling sick today, got a small cold which wasn't a big one.
+Saturday 11
+Dinner with Andy, Rand, Simma, and Tessie at Pars restaurant for Simma's birthday.
+Sunday 12
+Mellow day, Andy and I went for a walk in the morning around the village of Placitas looking at that lot with 2 houses on it that has been for sale for about 1 year.
+Monday 13
+Ok day for a Monday, winter is starting to set in here in NM.
+Tuesday 14
+Spoke to Bill and Michele, reviewed and signed off on concept of a one to one mapping between AccountingTransactions and a Set of Standard Accounts.  Also, spoke to Kami.
+Wednesday 15
+Lunch with Hb at Wild Oats.  Work on Mock Test Infrastructure for Accounting.  Spoke to Nick Secor briefly to have him call me when he gets out for Christmas.  Got an email from Cherie Hawkins.
+Thursday 16
+Bruce Berk's Birthday,...  Happy Birthday Bruce !.
+Friday 17
+First time to the new outdoor shopping mall where the Apple Store is along with the new Border's.  Dinner at Bucca Di Beppo, not very good.  We will NOT be going back there.
+Saturday 18
+Breakfast at Flying Star.  Picked up Peter at the airport at Noon.  Nice afternoon in Placitas with Peter.  Eggplant parmigiana for dinner.  Took Peter back down to the Parking Lot on I-25 to meet his parents.
+Sunday 19
+Holiday Fair, had a really nice time...  Arrived at around 1pm and stayed till about 4:30pm.  Saw lots of people, and checked out some cool art work.
+Monday 20
+Work at 5am.  Laundry mat in the evening to wash both blankets for winter.  Had a burrito at John Brooks.  The Arris mat looks great, as the Candelaria streetscape project really improved the property.  Mr. Arris was happy with the work, and luckily I talked him into doing it many years ago.
+Tuesday 21
+Early morning wash sheets, make bed, and write checks to give money away for the year.  Nahalat Shalom didn't make the cut this year, maybe next year...  Left work at 4pm and made two pumpkin pies in the evening.
+Wednesday 22
+Work at 6am.  Went for a walk.
+Thursday 23
+Thanksgiving with Rand and Tessie, Sima went snowboarding at Wolf Creek.  She is now 16 years old, and quite the little adult. Sima grew up fast, I remember when she was born in 1990.
+Friday 24
+Saw the movie Bobby.  Went to bed early at 6pm.
+Saturday 25
+Santa Fe, bought some pants at Brooks Brothers.  Lunch with Scott, Alex, and Kathy at Harry's Roadhouse.  Mellow afternoon hanging out at Scott's house.
+Sunday 26
+Mellow day at home.  Walk in afternoon up the creek and around to Windmill Trail.  Bought lamps earlier in the day at Jackalope.
+Monday 27
+Placitas Monday evening.  Walk with Andy around the block twice.
+Tuesday 28
+Peter arrives in the evening at 5:30pm.  Dinner at the Flying Star.
+Wednesday 29
+Peter and I discuss the house re-model project.  Dinner at the Flying Star.
+Thursday 30
+Peter leaves to go home to Silver City for the first time.  He is buying his house tomorrow.  There was snow on the ground this morning and the temperature was seventeen (17) degrees.  This is the first morning of winter, -- Wow !!
+
+
+December
+
+
+Friday 01
+Dinner with Marcy and Anne at Geezamboni's.  Afterwards we did the Old Town Stroll -- got there late so it was way less crowded.  That turned out to be a blessing in disguise.  Getting there later is the way to go to this thing...  At work we finished up our huge major push to get to Overland Park.  Dean and Mike saved the day by realizing that Tomcat was running out of memory -- and not showing any messages.  The simple solution was to raise the perm gen limit on the Virtual Machine and everything was hunky dory.
+Peter closes on his house in Silver City.
+Saturday 02
+Hb worked this weekend so I stayed home.  We went to Diana's house for Gabe's birthday party.  Andy came along with us.
+Sunday 03
+Cleaned out my garage while Hb went to work.  Out to Placitas in the evening.
+Monday 04
+Mellow day at work.
+Tuesday 05
+Walk with Roy, we have really enjoyed each other's company and going on a walk at least once a week.
+Wednesday 06
+Out to Placitas in the evening.  Hb needs to pick up her car tomorrow after work, so she is going to use my car tomorrow.
+Thursday 07
+Went with Andy to Home Depot to make my initial purchase and get my 10% discount.
+Friday 08
+Begin the House Remodel project that we have been talking about for years.  Getting here wasn't easy, and thanks to lots of help from Hb, Andy, and Peter to get me here.  Walk with Roy.
+Saturday 09
+Andy is at my house in the North Valley working on painting the two small bedrooms.  Andy's father was born in 1907 and died in 2001 at the age of 94.  We went to the Tamaya for the JSI Christmas Party and sat with Roy and his wife Laura.  I sat next to Marlin McNeil.
+Sunday 10
+Mellow day in Placitas.. Nice walk at the end of the day, wow this time of year can be incredibly beautiful, especially when its rather warm like yesterday...  Andy went to the Harmonic Convergence in 1987 -- at that time he did not know Michele.  Hb was there also.
+Monday 11
+Got home to find a beautiful ivory/light yellow color in the bedrooms...  However, I can't live in my house while Andy is remodeling, so this was my last night staying there until the remodel is done, I am moving out to HoneyBun's.
+Tuesday 12
+Walk with Roy.
+Wednesday 13
+Lunch with Martin at Wild Oats.  Mom and Dad back home from South America cruise, talked to them for the first time since they got back.
+Thursday 14
+Walk with Roy.
+Friday 15
+Got to work before 5am.  Talked to Steve Ventre.
+Saturday 16
+We spent the day in Santa Fe...  Gorgeous and warm.  Lunch at the La Fonda buffet.  I bought Hb some gloves at Overland Sheep.  Saw my old boss Roxanne from Downtown Subscription.
+Sunday 17
+Mellow day at home.  Hb and I went for a walk late in the day.
+Monday 18
+Windy night in Placitas, big storm possibly blowing in.
+Tuesday 19
+As of this morning, -- no snow but still windy.  Spending lots of time working on JavaScript.
+Turned out to be a disaster day...  Huge snow storm. Drove all the way to Whole Foods and back to work after Ernie let us go home early.  It took two hours to drive to Whole Foods and back to work..  I was going to sleep at JSI and then Hb talked me into coming home.  We had dinner at Flying Star and I read about Marie Antoinette and her guilotine during the French Revolution.
+Wednesday 20
+Breakfast at Flying Star, walked over there thru the snow.  Work by 10am, potluck at noon for Christmas.
+Thursday 21
+Mellow day pre - Christmas at work...  Got to work late.  Hb drove me into work, as we got more snow last night.  We had to go around near Pam's house to get out, because the hill near our house was full of ice and snow.
+Friday 22
+Got to work late due to snow on roads.  Went to Keller's at lunch to get the turkey for this weekend.  Wild Oats after work to pick up some salad stuff. Luke arrives around 10pm with Ashley.
+Saturday 23
+Mellow day at home -- pre Party...  Luke was in town for breakfast.  Intense focus on reading the Javascript book.
+Sunday 24
+Christmas eve party at our house, with Luke, Ashley, Pam, and James...  Hb made turkey.
+Monday 25
+Missed party at Rand's house for the second year in a row.  Hb and Andy gone for most of the day at a movie and then dinner at Rand's.
+Tuesday 26
+Home from work -- sick.  Went to Lowe's with Andy, then back to my house for some clean up.
+Wednesday 27
+Home from work -- sick.  Walk at home with Hb in the mid afternoon.  Mellow day at home.
+Thursday 28
+My only day at work this week, because tomorrow we were snowed in.  Also, went to Mick's Chile Fix, blah humbug -- this place is rotten, don't go back there.  Its on Candelaria, just west of Carlisle.
+Friday 29
+Snowed in -- while -- the most snow Hb and Pam have ever seen in Placitas.  In the late morning I went outside and took the snow off of Andy's pavilion, and then dealt with getting the snow off of the solar panels.  A gorgeous day was had by all.  Turns out really in the past two weeks I have hardly worked at all, which is great because January and February are going to be really busy.  Last week I got to work late every day towards the end of the week, plus we got out early one day...  So, by next week I should be ready to do some more work for awhile.  Also, spending lots of time working on the Javascript and Firefox.
+Saturday 30
+Awoke this morning to another foot of snow, and this time the city of Abq got hammered too.  Mind you, I had missed work yesterday due to snow, and today was even worse.  Its amazing how powerful Mother Nature is...   For the most part today I was wondering around in waist high snow shaking my head.  I had never in my life seen this much snow outside of Vail, Colorado in the winter during a ski holiday...  Yowza, this was almost scary.  Spoke to Peter later in the day, and then tucked in for the remainder of the day.  We had no Sun today, no gas for our generator, unsure about the status of the propane level in our tank and just plain old in-experienced with this much white stuff...
+Sunday 31
+The final day of the year was nice.  We walked over to the end of the road and met Arturo and gave him our gas can so we could get some gas for our generator.  We spoke in Spanish briefly, Jake, Arturo's next door neighbor was there too.  We had a nice chat.  From there we started working outside.  We looked for our propane tank and to our amazement found that it had just been filled several days back.  That was a relief...  I did lots of shoveling today, digging out my car.  Also, took some nice pictures of the snow.  Our New Year's Party at our house was canceled and so we had a mellow evening...  Going to bed early as usual in the winter months... Happy New Year !

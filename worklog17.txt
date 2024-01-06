@@ -1,0 +1,713 @@
+﻿------------------------------------------------------------------------
+This is the 2016 worklog that I decided to leave here because it was such a short year. Note that 2016 was mainly about picking up in mid August after finishing up work at BuzzSumo.
+
+
+I have decided to keep going in 2018 on this blog and just rename it worklog18, but keep my copy of worklog17 when the year ends.
+
+
+2016
+
+
+August
+
+
+Tuesday August 16, 2016
+Fired from BuzzSumo at 9AM.  Henley called me and James was on the phone.  It happened in 5 minutes, that was it.
+
+
+Wednesday Aug 17
+Day 1 of my new life and my new job.  Focus today was ML.  Will be one of the things I pursue besides search, Python and Golang.
+
+
+Friday Aug 19
+Start looking at Gensim.
+
+
+Tuesday Aug 23
+Up and running with Gensim.
+
+
+Wednesday Aug 24
+Jason is arriving this evening from Abq.  Up and running with Tensorflow.  Not able to build it from scratch, but able to run all of the examples in the {contrib, example, python} directories.  In the early afternoon I was pretty bummed out as I could not get it to build from src, but by the end of the day I was happy when I was able to run everything in the above 3 directories including the tests.  So I am now pretty much all set with Python, all I have to do now is understand gensim and tensorflow better, write some code for practice and then move on to Golang.  At that point, I should be able to start going out and talking to people about jobs and seeing what is available.
+
+
+Thursday Aug 25
+Took the day off and went to Newport with Jason and went for a boat ride out on the ocean.
+
+
+Friday Aug 26
+Started working on gonum and golearn which uses gonum.  It wasn't a real productive day but it appears from first passing that golearn in particular is no longer being developed in a serious way meaning that the repo is basically dead.  Will monitor closely over the next number of months and see what happens.
+
+
+Saturday Aug 27
+Taking a look at noms. Day 1 of noms is official, keep going.
+
+
+Monday Aug 29
+Day 2 of Noms and up and running on their Slack channel.
+
+
+Wednesday Aug 31
+Day 4 of Noms and I pretty much have the code base figured out.  Today I reviewed how the data is being persisted to goleveldb in anticipation of possibly writing another backend store to Bolt.  But in further review I decided not to.  Leveldb is so clean, and the transactions are covered magically in their code base.  Where as Bolt requires some transaction management which would add complexity to the back end store.  Today I also reviewed the final two Noms packages I had not yet covered including {dataset, types}.  "A dataset is nothing more than a named pointer into the DAG."  Types is much more involved and the most interesting and complex part of the code base.  Everything else is pretty straight forward.  More notes on types but for now it looks like there are native types and user contructed types and that all types implement the Value Interface.
+
+
+September
+
+
+Thursday September 01, 2016
+Starting to look at Pulling data from a remote Db to a local Db and everything associated with that concept including writing a program to sync one db to another.
+
+
+Thursday Sep 15
+Lots of Go programming related to getting data into Es.
+
+
+Friday Sep 16
+Successfully storing go slices into Es using the Bulk Api.
+
+
+October
+
+
+Tuesday October 04, 2016
+Starting to talk to Noms with a Bolt ChunkStore.
+Thursday Oct 06
+Bolt is up and running
+
+
+Friday Oct 07
+Starting to work on talking to Noms with Redis.
+
+
+Saturday Oct 08
+Redis is up and running and talking to Noms.  I am going on vacation, and will start working again upon my arrival in Pittsburgh.
+
+
+Friday Oct 14
+Arrived in the burgh where the plan is to work on and understand the type system.  Upon return to Oregon we will continue to work on the bolt, redis back ends.
+
+
+Saturday Oct 15
+Got all of the big datasets up and running and synced to my local machine.  Re-familiarized myself with all of the noms commands.
+
+
+Sunday Oct 16
+Noms hits the top of hackernews again today.  My next step in the Noms front is to work both on better understanding hackernews along with becoming an end user.  Meaning start building stuff and storing the data in noms.  First application will be the golang doc tool, and see if that is a good fit.  Also might look at the hackernews noms tool.
+
+
+Monday Oct 17
+In Ruby I used Nokogiri for scraping and parsing HTML.  Now I need to find a way to do the same functionality in Golang.
+
+
+Tuesday Oct 18
+Start working on a way to get the number of github stars for golang importers of a particular package like redis.
+
+
+Wednesday Oct 19
+Up and running with goquery.  This looks really rock solid which makes me very happy.
+
+
+November
+
+
+Wednesday November 02, 2016
+Lots of progress was made while in Pittsburgh on numerous fronts.  Still driving towards my first project of gostar.  Got the whole angular side working today after one long day of effort yesterday.  So we are back up and running with Angular.  Also made an executive decision yesterday to stick with Angular 1 for now until there is a pressing reason to upgrade.  I spent some time on Angular 2 which was released 48 days ago.  Its not ready for prime time and there is just too much momentum behind Angular 1, so for now just stick with that.
+
+
+Also, I got an email a few days back from Clara in China and she got me back into looking at the blockchain, decred and Ethereum.  
+Note at this point in time I have been back from Pittsburgh for less than one week and its also the first mention of Ethereum.
+
+
+Once the gostar project is done I might spend more time on Ethereum and possibly even Kubernetes because of this article on Walmart.  While back home I was firing on all cylinders and was incredibly productive on the Go front and now back home in Oregon we are continuing on that path with more work slated on the Angular side of the world.
+
+
+Friday Nov 04
+Last night at 3AM I discovered that raft, the concept of consensus is tightly related to the whole future work of the block chain.  Also, the universe, with Clara as the catalyst and driver has gotten me naturally back into looking at the blockchain.  It makes sense, you were heavily involved and invested in Noms but this concept is actually real, up and running and viable from a business point of view.  Also, spending more time on Angular is a must, as I need a UI.  I always have and I always will and this time around Angular just feels more right and simple for me to understand especially now that I have the block explorer up and running and talking to Ethereum and after reviewing the source code of it, and seeing how simple it is, gives me the incentive and passion to pursue down a parallel path of both the UI and the back end.
+
+
+Sunday Nov 06
+Understand RLP encoding in the context of the rlp ruby gem.
+
+
+Tuesday Nov 15
+Hb came home today and I wrapped up the blockchain work for now and started looking into Kubernetes.
+
+
+Thursday Nov 17
+Start working on grabbing data from Hackernews in anticipation of storing this data in Noms, Elastic etc...
+
+
+Friday Nov 18
+Start looking at Hackernoms for the first time.  It is actually mostly up and running.
+
+
+Monday Nov 21
+Starting to look at splore in the context of Hackernoms.
+
+
+Wednesday Nov 23
+I want to write Hackernews json files out to redis, leveldb, and bolt using the Hackernoms concurrency infrastructure.  So first I need to get Redis and Bolt back ends working with Noms again.  Then once this is mostly complete I can use the same basic interface to write the json files to the 3 storage units.
+
+
+December
+
+
+Thursday December 01, 2016
+Spoke to aa and rafael about chunkstore and batchstore.  rafael asked me to help out with the concept of removing dependency on spec for adding new backend stores.  I got the boltstore working with the noms {log, show} commands.  This was a big breakthrough for me in general understanding of the spec and verifying the idea of using the dataset as the bolt bucket is going to work.
+
+
+Wednesday Dec 07
+The major focus the past couple of days has been to get the noms diff command working on bolt.  The big problem has been that I was trying to open a bolt file a second time and it was locking.  So I came to the conclusion that the easiest way to work with bolt is to "open, {read,write}, close".  Yesterday I also found the spec tests which led me to a better understanding of where the localdatabase, batchstore, legacy term datastore etc. all works.
+
+
+Chinese folks pinged me this morning that they were here and wanted to come down to Corvallis.  I called Peter and he vehemently vetoed the idea.  And the universe looked down on us and later in the day they got back to me and said they were not coming.  I got lucky.  Moving forward the only way I will work with them is if I am interacting with an English speaking programmer who is fluent in Chinese.
+
+
+Saturday Dec 17
+Hackernoms is up and running along with even part of the bolt store working.  This is great news !  Today I ported over the noms bolt and redis code to the latest and greatest version of noms housed in nomscs2 and then put that working code in hackernoms2.
+
+
+Thursday December 29, 2016
+Got bulk requests working with the underlying JSON string instead of using a doc.  I am feeling pretty comfortable now with the Elastic Go client by olivere.  Its a nice clean, well designed piece of code.
+
+
+The year is finishing up on a good note.
+
+
+Plan of work, It = Data             2016/08/31
+
+
+Go, Python
+
+
+* Store It      {Noms}
+* Search It    {ES, Bleve}
+* Cache It     {Redis}
+* ML It          {TensorFlow, GoLearn}
+* Kubernetes {Deploy It}
+* Blockchain  {Secure It}
+
+
+
+
+                             End 2016
+---------------------------------------------------------------------
+                             End 2016
+---------------------------------------------------------------------
+                             End 2016
+2017
+
+
+January
+
+
+Thursday January 05, 2017
+Yesterday I got the Bulk processing working from the elastic json test data into Elastic.  And today I started working on raft in the context of learning the whole channel thing better.  I realized in the past couple of days that I really didn't understand channels and go routines well enough and I thought that this might assist me in that project.  I will keep you posted.
+
+
+Tuesday Jan 10
+Day 2 of working back again on Ethereum in the context of learning go routines and channels better.  I might be on to something with Ethereum.  Eventually I will highlight my whole foray into the blockchain work, but for now its still in development.
+
+
+Thursday Jan 12
+Up and running on the Ethereum Swarm network.  This is very good news as it serves as a great application (I think) of their P2P software.  Also using gitter (for the first time) as this is where Ethereum does their talking.  Some folks use Slack and some use gitter.
+
+
+Wednesday Jan 18
+Working on the p2p testing files to better understand the p2p network in ethereum.  Yesterday I went up to Albany to the unemployment office.
+
+
+Friday Jan 20
+Lots more work to be done on P2P as far as understanding channels etc, but the big picture of how P2P is used in Ethereum is pretty well understood.  Its mainly only used in one place and that is in the eth package in a file called peer.go which basically calls Send on both blocks and transactions.
+
+
+Monday Jan 23
+Start looking at Nats after spending a few hours on nsq and realizing it still doesn't work great.  I ran into the same errors back in November 2014 when I was still working for Spinnakr and coding up my and living in Ashland.  Nats looks pretty cool and its another good example of communication which is related to the P2P genre of coding and also depicts go routines and channels.
+
+
+Tuesday Jan 24
+Spent the morning on go-datastructures and looking at queues.  I spent the whole rest of the day doing my couple times a year massive cleanup of my github accounts.  I really did a super job purging, moving things around and creating this file.
+
+
+Tuesday Jan 31
+Completed for now understanding p2p-1128 which is a standalone p2p testing framework by zelig.  I am now going back up the stack into whisper to better comprehend protocols and peers.
+
+
+February
+
+
+Wednesday February 01, 2017
+First time going to the Death Cafe !  Also, first full day looking at Whisper which looks really nice and is definitely another great topic to better understand the Eth Framework.
+
+
+Sunday 05
+We are now exploring the bootnode, and running multiple geths on the same machine attaching to the boot node.  In my opinion we are making great progress in the ethererum world pealing off more layers of the onion from the bottom up.  The P2P layer and everything that touches it is the bottom of the stack and that is where I have been spending all of my time to date in the eth world.
+
+
+Friday Feb 10
+So it was a good week working on Ethereum.  Today is my last day of work prior to taking a week off and going down to Ashland and Chico.  I ended the week on an extremely good note understanding solidity and smart contracts.  I am just getting started in this area but it will drive me to my first job.  This is the final shoe to drop so to speak.  Once I get this down I can go out and get a job working on Ethereum.  This stuff is very cool and I am excited to move forward in this area.
+
+
+Monday Feb 20
+Eve's birthday and more work on solidity contracts and starting to understand how to send in Transactions.
+
+
+Tuesday Feb 21
+Lots of work on getting contracts to work, at the end of the day I found Ethereumjs Testrpc which looks to be very interesting and was the magic that got the truffle tutorial to work.  After spending all day to try and get it to work with geth.  At the end of the day I fired up Testrpc and everything fell into place.
+
+
+Thursday Feb 23
+Day 1 webpack understanding in concert with Truffle.  Prior to today I had NEVER looked at or heard of webpack.
+
+
+Friday Feb 24
+Much deeper dive into Truffle, starting to look at all of the individual repos in concert with automatic download of them all via trufflesuite download.  This is my first major DEEP DIVE back into Javascript.  In fact this is the first reference of Javascript in this worklog file.  All of 2016 was spent either in Henley land messing around with Ruby and or Golang afterwards.  It was the need to be able to deal with, compile, and deploy contracts to Ethererum which got me back into the Nodejs, Javascript game.  And so today I dove back into callbacks, promises etc....
+
+
+March
+
+
+Thursday Mar 02, 2017
+So I am cranking along on the Solidity contracts, searching for examples that make the most sense for me to master and discovered the 3 examples on the Ethereum website.  So now I am going to use those to implement them in Truffle and write my unit tests which should give me the confidence to move forward on being an "expert" in Solidity contracts with something that is relevant to what I am doing.
+
+
+I spent most the day cruising around looking at Dapps and found out that I just needed to focus on the core Solidity code that will get me up to speed on what I need to know along with the Truffle Testing framework to make sure I understand how to do the testing correctly of the contracts.  Being able to really hit and test the contracts hard is mission critical to what I will be doing moving forward in the contract space.
+
+
+Wednesday March 08
+Beginning of the week was all about a deep dive into Web3.js and Testrpc.  Lots more work to to on Testrpc but at least I have a decent handle on what Web3.js is all about.  Now I am back into cranking out more working Truffle contracts and if need be, will look into Testrpc and Web3 to help debug getting running examples delivered to Github.
+
+
+Thursday March 09
+Going back and re-reading the complete Solidity documentation set from the top now that I have a better handle on what is going on.  I did this with Truffle recently and it all made more sense to me the second time I read it.  I also got the Solidity docs now on one HTML page and one PDF document which makes it easier to read and review.  Will use the examples in the doc to drive all of my Truffle examples for now.  Once this is done and I complete the testrpc and web3.js stuff I should be in really good shape and could actually possibly get back into doing some Go coding again.  At that point I will be ready to look for a new job.
+
+
+Thursday March 16
+Huge progress on Truffle and reading through the solidity docs including writing contracts having to do with Structs, Arrays, and Mappings.  Based on completion of this work I am now ready to go out and start looking for a job in the area of working in Ethereum in coincidence with the Ether price going from 10 to 40 in the past 2 weeks.  We live in interesting times.
+
+
+Friday March 17
+Day 1 of looking for a job on Angelist.  Also looking for work as a CTO as well as a software developer.  This is my least favorite fun part of my professional life, but something that needs to be done.  I will also continue to flush out and get better at the Solidity contracts in concert with Testrpc and Truffle.
+
+
+Spring 2017
+
+
+Tuesday March 21
+Completed initial work on understanding the solidity iterable mapping, having worked on it over the weekend.  Long talks with Dotun and Alex on Skype re: Ownage.  First cut at looking at the Opcodes for the Ethereum VM in the context of better understanding Peter Borah's ether-router code and his inline assembly calls.
+
+
+Wednesday March 22
+Day 2 of talking to people about work etc.  Be patient on this job search and craft a path that makes sense to you.  There is no hurry to take the first job that comes along unless it makes sense to you and feels right.  For example, after reading through Deepak Rao from Pivotchain's About Us/You website blurb I decided to not even talk to him until I get back from Nashville.
+Also, had the final 3rd talk with Jack du Rose, it went well.  He is an interesting guy as well.  So now I have spoken with all 3 of the 4 co-founders.
+
+
+Thursday March 23
+Another round of speaking with Dotun from Ownage this time with a more technical bent to it.  I reviewed Swagger / the Open API spec for the first time and that was the fuel from which I started my diatribe and speech about my technical knowledge.  We continue to live in interesting times.
+
+
+Sunday March 26
+Tomorrow we go to Portland and Tuesday we go to Nashville.  I am in pretty good shape all around for looking for a job.  Solidity contracts round one are in good shape.  Yesterday, I dove into Gnosis and realized its not yet ready for prime time.  Lots of interpendencies and compilation issues with include files, it took me several hours to evaluate and give it a NO for now.  But it was an interesting experience in looking at bigger projects surrounding contracts.  Probably lots of useful info in there.  So now we kick back go on vacation, and come back ready to talk to more companies after doing a first round with Ownage as the basis for thinking once again about looking for work and a path forward with my new venture.  I will update here with my thoughts from Nashville and what I am working on there in preparation for another round of talking to folks after my return.  Continue to do your meditation, stay calm, and realize how lucky and fortunate you are to be in this position.
+
+
+Connected with Nick Johnson of the Ethereum Foundation regarding his interest in possibly using Noms for Geth.
+
+
+Monday March 27
+So I was curious to know how long it took to learn Solidity contracts and basically it took from the time we were in Chico till now which is approximately six weeks.  And with this knowledge I can go out and start talking to people about work, but at the same time I can now circle back with a complete picture and move forward in areas that make sense for better understanding.  I am off to Nashville, the next note will be from there and a path forward.
+
+
+Thursday March 30
+Arrived in Nashville, its a very cool town.  Got an email from Dotun this morning at Ownage, looks like I have a green light.  Had I not heard back from Ownage I was going to spend my time in Nashville looking into the Noms NBS code base so I could report back to Nick Johnson, but instead I am going to come up to speed on Node in concert with Redis and Express.
+
+
+Transitioning COMPLETELY away from anything having to do with the blockchain.  From here forward, and starting full speed in May its all about React and its subsidiaries.  You can ignore the rant about why Javascript is not good.  Because starting with my React work its clearly all I will be doing.  
+Editied on August 30, 2017
+
+
+April
+
+
+Saturday April 01
+Sharon's Bday !  So as noted in the previous post I am starting to get into Javascript.  As with Bitcoin and Ethereum and my interaction with the chinese folks, ownage and dotun specifically is getting me into Javascript and the place to look for cool projects is the P2P IPFS projects.  Also motivated by a talk yesterday with David Mondrus of Orbit.mn.  Noms is missing the P2P aspect, but probably not for long.   Started looking at IPFS.
+
+
+Back home from Nashville on Tuesday evening April 11, 2017
+
+
+Insight to drop Javascript as a language for me going forward.
+
+
+Thursday April 13
+Early morning talk with Dotun and Jack at Ownage.  Spent the rest of the day looking at the Javascript version of libp2p and at the end of the day started looking at the go version of libp2p and am literally stunned at the ease of programming in Go compared to the FUCKING UGLY callback hell that Javascript has to offer.  It is just pathetically overly complicated, and for me a SHOW stopper.  I need to be able to read and understand the JS but actually having to write JS code professionaly is not that appealing.  Its just not worth the callback BS you have to deal with.  In the past number of weeks I got away from JS by diving into the contract stuff, which is reasonable and then for the past 2 weeks in Nashville exclusively looking at JS code and being stumped by hard it is, and then tonight looking at the Go code again after being away from it for awhile and going this is so much cleaner and easier to understand and write.
+
+
+I am glad I spent the past couple of weeks programming and looking at the JS code prior to possibly accepting a job with Ownage and I believe the fact that I didn't get the offer letter today because of the time difference and then spending all day on the JS code and at the end of the day looking at the go code gave me a respite from possibly making the wrong decision.  As well as my gut has continued to tell me that its not the right job, despite the fact that these guys seem pretty cool is a good sign not to go with it.
+
+
+This possibly reopens the idea of taking another look at the Noms code as well as the libp2p code on the Go side of the world. 
+
+
+And this should be another hint
+
+
+The fact that the Noms folks completely dropped their Javascript version of Noms after more than a year of work on it says alot.  Here are some very bright programmers, who used to work at Google, who are productive Go programmers saying its just not worth it.  For me, its an executive decision.  For me, I was lucky to go down the path of Javscript for 2 weeks in Nashville and just cut my losses and move on.
+
+
+And it all came to me this evening, when I went back to look at the Go code and saw that its just a cleaner simpler language.  However, I did learn that being able to read and understand Javascript is very important, its just not the language of choice for writing professional code.  Period, end of story.  AND going forward long term, why not make the decision now, be confident with it, and move on...
+
+
+Wednesday April 19
+And then there was this post today on Hacker News
+
+
+So the above note from a week ago was confirmed with a very long conversation with Rafael from Attic Labs.  I have documented our conversation where he reconfirms for numerous reasons why Node.js is NOT a good language for building databases.
+
+
+This week I am back into coding redishacker where I am getting back up and running the reading of the hacker news API and cacheing the data in Redis and writing that data from Redis to Elastic.
+
+
+Friday April 21, 2017
+Helped David Mondrus with the Trive paper on Swarm and P2P.  Also starting to get up and running yesterday with an understanding of the Hashicorp sofware stack.
+
+
+Tuesday April 25, 2017
+Back into massive programming in Golang with a focus on getting a job programming in Go.
+
+
+Thursday April 27, 2017
+My final cover letter (for now) looks good.  I am going to start sending out at least five resumes per day (or more).  I am starting to get "serious" about looking for a job.  Coming more up to speed on Golang channels and goroutines in the context of moving data from Hn to Redis to Elastic.  I am so/so about finding a job doing blockchain work.  I am just not sure its the call for me, similar to doing work with financial markets.  For some reason the whole money field is just not that appealing to me.  But I wouldn't rule it out either.
+
+
+Friday April 28, 2017
+"after much ado about nothing" I am finally moving data from hackernews to redis /// and then from redis into elastic.  I finally have channels and goroutines marginally figured out and my redishacker and elastichacker repos are up and running.  This is actually a fairly HUGE step and gives me more confidence moving forward with my Golang coding abilities.  Keep on coding in Golang, don't stop and keep on coming up with problems and projects that keep you cranking out code which is what I need to do.
+
+
+First mention of the word graph and react in my work log.
+
+
+Monday May 1, 2017
+Work all day on GraphQL.  So the question is this...  Initially how did I come to look at GraphQL; and I think the answer is Noms.  This is really the initial motivation that got me to look into Noms.
+
+
+Tuesday May 2, 2017
+I am now back into looking at Javascript from a front end point of view only, and not back end work like Dotun was attempting to do at Ownage.  So the main driver behind this for now would be React and possibly in the future D3 once again.  I remember starting to look at D3 back when I was at Caltech ?  After more research I noted that it was Protovis, initially released in April 2009, that I got into while I was at Caltech.  D3 was released in February 2011 at the tail end of my tenure in Buenos Aires.  Any way, also spent some time looking at a better understanding of webpack and got yarn up and running for the first time.  It is a replacement for npm from FB.
+
+
+Wednesday May 3, 2017
+Spend more time applying for jobs from Hackernews and write up another cover letter this time targetting API development with Graphql.
+  
+Friday May 5, 2017
+Installed dgraph along with the companion RocksDb, which was a bit of an effort.  Will update over the coming days with progress in this area.  Got cayley up and running as well.
+
+
+Saturday May 6, 2017
+Big breakthrough last evening in the understanding that the RDF framework is closely related to Prolog and ML in general.  Besides the fact that it is related to Graphql too.  So there and some really big wins with a better understanding of graph databases.  In the past I have looked at graph databases and not "gotten it".  Now I get it, and with both cayley and dgraph both out there now, and an ecosystem surrounding both of them on slack it might be the next big wave of research for Arcadian Group.
+
+
+Monday May 8, 2017
+We are now understanding the key point behind protocol buffers, especially in the context of dgraph, which uses them heavily.  I think I am finally starting to understand why they are so cool and important.  It gives you a way to generate out code very quickly, for things that have to do with data and methods that are called by grpc.
+
+
+Tuesday May 9, 2017
+The doc in dgraph is good and explains things well including PostingLists which are an important part of dgraph.
+
+
+Wednesday May 10, 2017
+So I was pretty bummed out yesterday about my job search thing as I realized everyone wants to give you a test and had some email interactions with folks who wanted me to work for them for free meaning equity.  Then today I discovered the keyword DEVOPS and now I have a better handle on new jobs to look for on hackernews.
+
+
+Thursday May 11, 2017
+I had my first Slack conversation with Manish R Jain, Founder and CEO of dgraph labs.  He told me that soon he will be coming out with a new k/v db that will replace Rocksdb.  Our conversation started out because I noticed that the license on the files in rdb was wrong as it was copied over from tecbot's gorocksdb.
+
+
+Friday May 12, 2017
+Spent all day running queries in the dgraph UI against the 21 million data set in benchmarks.
+
+
+Sunday May 14, 2017
+Hackernews home run.  Did this post on the Dgraph Badger.  It is my first ever big time post on Hackernews.
+
+
+Monday May 15, 2017
+Starting to understand how to query Predicates and schemas in dgraph.
+
+
+Friday May 19, 2017
+Got to a good place with dgraph in understanding Postinglists.  See more details in the Slack May dgraph archive.
+
+
+Monday May 22, 2017
+After a nice talk yesterday with Mohsen Hejrati from Tensorport I did a write up today on Distributed File Systems including Fuse and GoFuse.  It was interesting to note that Ethereum Swarm uses Fuse bindings for Go.
+
+
+Friday May 26
+
+
+Starting working on Redux in the context of React and the Dgraph dashboard and other UI components.  The dashboard uses react and redux and so this is the logical place to start into UI development.  Its actually fairly easy, as I have done lots of this stuff in the past, and I have a problem to work on which is kind of cool.
+
+
+Wednesday May 31
+Huge push into React and the whole Fb ecosystem including Todo, Immutable.js, Relay...
+
+
+June
+
+
+Friday June 2
+Completed working on understanding my repo immutable-todo, and now moving on to the details of graphql including graphiql.
+Stay tuned for more updates on this topic soon.
+
+
+Sunday June 4
+Spent all day working on Relay and by the end of the day I got the general concept of what it is doing.  This is good news, as for now I think I can move on from it and use it in real products for customers if its needed.  At least now I understand what its good for and how can be used in future projects.
+
+
+Thursday June 8
+Getting in to the graphql-js tests and how they work.  Then once that was up and running realized it would be cool to roll your own schema now that you understand the Star Wars Test.  So I started in a BIG way getting into the Github Schema.  Their doc is good and their explorer is good too.  So I got lots of work to do here, but I am up and running with it.
+
+
+Saturday June 10
+swapi-graphql is a great example of building a graphql server and so I am examing the details of this implementation.  This will allow me to better understand how to build graphql servers with new schema systems.  We are making really nice progress on this whole graphql ecosystem.
+
+
+Wednesday June 14
+Feel real comfortable with my understanding of graphql schemas, source code, ready to launch back into github and start building out the schema in javascript.
+
+
+Thursday June 15
+Day 1 of building out the github schema in Javascript.  Went over to Mushroom's house and set up his new iMac.  He gave me a painting in return which I will pick out at a future date.
+ 
+Summer 2017
+
+
+Wednesday June 21
+Start coding up the github schema with topics.  Actually put a small dent in getting this started.  Was on vacation the past few days down in Florence, OR visiting with Jim Sigman, Susie, and their children {Scott, and Sam}.
+
+
+Thursday June 22
+The Node interface is up and running and is being used by Topic.  I got the uriType working today.  My plan is paying off as I am starting to understand how all of this stuff fits together.  This is probably one of the most productive days of coding I have had in quite awhile.  You have to get all of the balls in the air and then keep going.  I am several days away from really starting to look for a job in this exact space.  Which is coding up new graphql servers in Javascript.
+
+
+Friday June 23
+Spent all day sending out resumes.  At the end of the day I realized that I was not going about this the correct way.  You need to understand who is doing real work in Graphql and pursue these companies.  See the doc in this folder called Graphql Lead Strategy.
+
+
+Monday June 26
+So I made good progress today getting Repository, RepositoryOwner etc.  up and running.  Tomorrow I will start working on automating getting data from Github that will then be stored and compared against my local queries.
+
+
+Wednesday June 28
+Interview at Alyrica networks.  I spoke to its CEO.  It was a good experience, they use UBNT equipment which I learned subsequently when I saw the service guy the next day across the street.
+
+
+Thursday June 29
+Starting to look at Relay for a 2nd time in the context of bridging React and Graphql together now that I understand Graphql much better having forayed into the whole Github Schema.
+
+
+This is where I start really working on React full time having completed my initial understanding and foray into Dgraph and Graphql. This is the first mention of reactabular.
+
+
+July
+
+
+Wednesday July 5
+Starting to understand React better.  I have got the tables and layout working together and stored under the repo tabulartwo.
+
+
+Thursday July 6
+Now that Reactabular is working in the most basic way, I am diving more deeply into dealing with what the data is going to look like.  Starting out by looking at the package table-resolver to see if it can be used to deal with the data that will be coming back from different applications that will use this React component.  I think investing time into this "particular" react table ecosystem is worthwhile as the concept of tables are used everywhere in UI building systems.
+
+
+Tuesday July 11
+I just a had a four day vacation, so getting back to work today had a slow start.  Yesterday we got new internet cable infrastructure so NO work got done.  Today I launched back into REACT full hog.  If I keep up this focus I should be in pretty good shape in short order.
+
+
+Wednesday July 12
+Interview at Block 15 with Joseph Sullivan and Jonathan Woo from Active 911 owned by Alyrica Networks and Joseph's brother Kevin.
+
+
+Thursday July 13
+Day 1 working on the react-hn.  This is my first BIG React application and it will show me in more detail how to put the bigger pieces together.
+
+
+Friday July 14
+The major pieces of react-hn are falling into place nicely.  Today was spent understanding local, session storage and how the code uses it for persistance.  Got my last paycheck from Unemployment.  I got 26 weeks of money.  First time in my life I exhausted my benefit.
+
+
+Friday July 21
+Huge week of React.  Got bluerock1 up and running.  In other words I am now able to pull the data from the Hn Api and stuff it into a Table.  At the end of the week I realized I need to spend mucho tiempo trabanjando de CSS.  So I spent all of today starting to look into the jxnblk ecosystem along with the corrolary styled components.  If I can get the CSS and the styling correct I will be in pretty good shape.  Keep on going and staying focused.
+
+
+CSS is now a HIGH Priority in my general understanding...
+
+
+Monday July 24
+Starting to look into better understanding CSS via my first cut at the jxnblk ecosystem.
+
+
+Wed July 26
+Styled Notes is in a good place and I am starting to get a handle on the whole Flex / Box paradigm in the context of styled components.
+
+
+Friday July 28
+Fully engaged in the React ecosystem and today was a huge day in understanding the purpose of Redux in relationship to Redis on the server side.  This was in the context of the Hnapi that uses Express with Redis as the cache.  These 2 topics are orthogonal and I didn't realize how these pieces really fit together to now.  Also was exposed to connect redis.  When I first looked at it I did not understand why this was important.  But as I further pondered, think of millions of clients out there hanging off a set of web servers.  In the react world each has a different state system in their Redux.  That is not related in any way to Redis.  I was trying to store that state in Redis which makes no sense.  The idea would be to think about which parameters you want their session to store, think banking application or trading application but not store the entire state which is what Redux does.  So all of these ideas are coming into my head and I am starting to appreciate why Node.js / Express is such an important concept to be an expert in / with the relationship to know where Redis fits into the picture and where Redux fits into the picture.
+
+
+Wednesday Aug 2
+Heavily into Redux and its source code.  I am debugging some Redux apps and have the redux and react-redux src code in my code base starting to mess with the underlying src code of redux to figure out why my combine-reducers is not working properly.  Lots more work to do in this area.
+
+
+Sunday August 6
+Completely re-read the redux docs again and this time I think it is starting to sink in along with understanding static propTypes when defining a new Component.  Its amazing how this stuff is so subtle and it wasn't obvious to me that those are the parameters / properties that get passed into the React component.  In either case I am feeling better about all of this stuff.
+
+
+Monday August 7
+I "think" I finally got React and Redux.  I launched into the whole React ecosystem initially around May 1, but diverged in the Graphql / Dgraph ecosystem and then got back into React around the very end of June / early July.  So its been about 5 - 6 weeks of full time study of React.
+
+
+Wednesday August 09
+Starting to work on shopping cart redux example.  Part I was to eject the code from create-react-app which is the standard for most off the shelf examples in redux and react and then move forward with the server.js / express way.
+
+
+Thursday August 10
+All day on getting a "Remove Button" to work on the out of the box Redux Shopping cart example.  Good progress on this, and realized in the early evening that I had to pass in my removeFromCart function PropTypes function because I was passing it into CartItem and it had to be passing into the CartContainer.  Seeing this is the WHOLE reason why I am doing all of this work.  There is no other way to figure this stuff out then do the work.  I like UI development because it is fairly easy and you can do some cool stuff with it.   And there is just so much demand for people who have these skills compared to doing back end development work.
+
+
+Friday August 11
+So I finished the shopping-cart-remove repo which is the redux shopping cart example with my additional remove button.  this was a very nice little short, and sweet project.  It was my first "major" redux project, and should be a nice starting point for getting into the next phase which will be dealing with possibly reactabular.
+
+
+Monday August 15
+Committed code to redux/examples/shopping-cart to add remove button to code.  Start working on the tests which failed when I did the commit.  I forgot to deal with the tests, and its the first time looking at how to test react code.  So that is my next thing to learn and do.
+
+
+Wednesday August 16
+So I came up to speed on the Enzyme testing framework in relationship to my work with the shopping-cart example in redux.  They use Enzyme as their testing infrastructure which appears to be very nice.
+
+
+Wednesday August 30
+Mom and Dad are leaving today.  I got some good work done while they were here.  I finally wrapped up round one of the reactabular-shopping-cart.  The key work was getting the state correctly injected into reactabular and understanding how to do that.  Now that its completed, I can move on to the whole shopping cart / table ecosystem of saving data to redis and mongodb, a front end inventory control system, and a back end receipt system showing the receipts from each checkout.  In other words a complete store.  And this will enable other table driven concepts like buying and selling financial instruments and keeping track of the orders, and showing monthly statements etc.  This is simple minded stuff, but great infrastructure code to better acquaint yourself with all of the issues surrounding redux, reactabular, mongodb, redis, react.
+
+
+Core Competencies and Core Focus Groups 
+as of September 1, 2017
+
+
+React
+Redux
+Reactabular
+Redis
+Mongodb
+
+
+Monday September 4 Labor Day
+Just did a nice walk along the RR tracks to Herbert.
+
+
+So now that phase I of the shopping cart is complete I decided to spend a few days looking at Passport apps which I did.  That is in a good place, along with the simple process of talking to Mongo as well via Mongoose.  I am now ready to continue on my develpment path but also to move ahead on looking for a job.
+
+
+So here we go with a big push to find the right job.  I am ready.  I have been "in school" for the past year and passed all of the courses, done the homework, and passed all of the tests.  We are now officially ready to get to work.  The only thing standing in your way is "finding the right job".  Quickly filter out stuff that isn't right and only go with stuff that is in your heart and feels right.
+
+
+Thursday Sep 7
+Got lodash up and running in the es6 environment and then used omit to modify "removing" items from the cart.  This enabled the tests to start working as well.  So this is actually a fairly big step forward as I now have access to all of the lodash functionality inside my redux.
+
+
+Friday Sep 8
+Start working on getting the receipt up and running in Redux.
+
+
+Sunday Sep 10
+A very minimal first cut of receipt is up and running on Sunday morning.
+
+
+Thursday Sep 14
+Talk with Alex @ Brainbot could have possibly redirected my efforts "once again" towards crypto.  Take a relook at Testrpc and Truffle into whether your concepts are feasible.
+
+
+Friday Sep 15
+After a HUGE slog through the woods Receipts is finally starting to work.  All of the tests are passing and I am displaying receipt data in the browser in a Reactabular table.  It turned out to be a VERY long week, but success arrived just in time on Friday afternoon.
+
+
+Spoke to Habib Moody at Literably.  Might follow up in a few months once he hires his FIRST engineer.
+
+
+Tuesday September 19
+Spoke to Fabio from Tesorio, he grew up in Albuquerque and went to the Academy.
+
+
+Wednesday September 20
+It took me about 20 days to fully get receipt up and running.  But at around 4PM today I finished this project.  I basically started working on this project on August 9; and last night I had a big breakthrough on how the flow of redux works.  The event fires and updates the state tree and you connect the change in the state tree of redux to your react components.  And in summary, it took me months to digest and get this very simple point.  But last night I think I finally got it and understand.  And that led to the conclusion of my receipt project today.
+
+
+Thursday Sep 21
+Deployed receipt to gh-pages via create-react-script which is very cool.  Also got my Marionette Backbone Jobs repo back up and running on stormasm.
+
+
+Friday Sep 22, 2017
+Begin working on d3 project and coming back up to speed on d3.  Back on May 2 when I initially launched into this whole React ecosystem you will note from my log that my whole intention initially was to possibly work on d3 as well.  And here we are almost 5 months later having completed the initial groundwork with React and so part two in this whole react roll out is to look at d3 and possibly other graph visualization libraries.  Now that the receipt work is done, it was a moment to ponder and choose my next step and part of me once again considered the whole ethereum world with truffle, but for now, unless I get hired by someone doing crypto I am going to move forward with graphs and data visualization.
+
+
+Wed Sep 27
+So I got the concept of a menu up and running using pure.css.  React Router is well understood now as well.  When I upgraded react-redux-d3 from the old code to the new I needed to learn about react-router as they changed the way the code worked in V4.  So I blended react-router with pure menus in my new aspen release.  Also, I understand the concept of a Navbar and what it is in the concept of the refresh button which must stay at the top even as the D3 graphs scroll down the page forever.  The Navbar concept is pretty cool.  Yet another reason to be up to speed on how CSS works, as it is a mission critical piece of the "front end" puzzle.
+
+
+Tuesday Oct 3, 2017
+So we are now on to my first D3 framework which is called Semiotic.  Its a good one and the author is good too.  He wrote a book on D3, he works at Netflix and his code is good.  And I discovered yesterday he is using Material Design React components for the CSS layer.  Very cool.  I like the menu folding concept, it just feels right to me.  So moving forward the CSS design concept along with D3 as the application is a good combination.  Move foward with data visualization, React, D3 and CSS.  Do not do Python for now.  That is on the back burner until after you land your first job doing front end development, unless someone wants to hire me to write Python code.  Also, spoke to Habib Moody yesterday from Literably.  I told him I wanted a job and not to be a one off worker for his pet project of statistics on his data in a 50 table Postgresql db getting it via Python.
+
+
+Wednesday October 11
+So we are hard at work on understanding Semiotic.  Both as an end user and as a developer.  On the developer side of the world I am now in good shape with understanding how everything is Frame and that XY, OR, and Network all return a Frame so when you look at the HTML you simply see a frame.  Today I started getting into the individual D3 packages that are used by semiotic.  This is a HUGE ball of wax and one that will take months to truly understand.  So don't get too defocused on D3 in and of itself but be slightly more general with React and then have D3 as a speciality.  So I guess that is true for all of the data visualization field.
+
+
+Thursday October 12
+Starting down the uber road of react-vis and their whole testing framework of their react components.
+
+
+Sunday October 29
+So we are getting ready to leave for Ashland and I wanted to do a quick update prior to leaving.  So I have spent the past several weeks coming up to speed on the docs folder of material-ui which will be one of my core platforms going forward upon which to build nice new websites that can be deployed to gh-pages.  The architecture is very clean, simple and easy to understand and is based on Next.js and JSS.  My strategy to date has been to use D3 as my application layer upon which to develop an underlying core infrastructure initially based on the Semiotic custom framework but once I discovered that Semiotic was using Material-ui and that Material-ui was using Next.js it just all came together.  So the next step from here is fairly obvious.  Continue to get better at understanding both D3 and the CSS framework JSS and how it integrates all sorts of different D3 Css concepts inside the stylyzed component hierarchy.
+
+
+Friday November 17, 2017
+So for the past couple of weeks I have been working on react-vis and coming more up to speed on d3.  Yesterday I discovered vx after going through the code of all of the the react d3 repos in my list.  It took me awhile to get here to understand what is going on; and it took me looking deeply into d3 and what the frameworks are actually providing.  Vx appears to be the most low level framework plus it is written by a guy who knows what he is doing as he wrote the Javascript guide at Airbnb.  I have come to the conclusion that semiotic is too much and too complicated from a code point of view.  Vx seems to be at the right level of complexity and is close to the SVG spec and the D3 Api.  So over the past 2 weeks in Ashland I have honed a bit more my skill set with D3 and continued to put more emphasis in getting better at D3 development in concert with its integration into React.
+
+
+This is where I finish up the understanding of material-ui and start building things for it using graphql as the query language to get interesting data and put something into a website.
+
+
+Monday December 11, 2017
+So I recently made 2 commits to material-ui which is kind of cool.  I am up to speed on material-ui.  I feel good about it.  The next step is a conscious fork in the road.  I could either dive deeper into material-ui or I could take all of my knowledge and start to build something.  Something real, something that is kind of interesting and will leverage my react / d3 skillset to show something that I am interested in.  My first foray into this will be taking another look at graphql.
+
+
+Wed Dec 13, 2017
+Started working on parsing markdown with the goal of grabbing a bunch of github links from awesome github repos Readme.md files.
+
+
+Thursday Dec 14, 2017
+Continue on the Markdown parsing strategy.  Found Markdown-it, and I will use this code to drive myself forward.  Yesterday I took a look at marked first and then found markdown-it at the end of the day and it is further along, in continual development and is much more clearly documented on how it works.  Stay tuned.
+
+
+Tuesday Dec 19, 2017
+It will be a week by the time Markdown is in good shape, but I am not yet completed building out the link filter.  I am making better progress now.
+
+
+Monday Dec 25, 2017
+Markdown is in good shape almost.  I now have all of the github repos from the original markdown file and have regexed out all the stuff I do not want.  It took less than 2 weeks to get here.  So the markdown tangent was not in vain and did not waste too much time.
+
+
+Tuesday Dec 26
+The Markdown project is done and I now have all of the github repo urls I want for now.
+
+
+Wednesday Dec 27, 2017
+First time ever using code sandbox.  Very nice for short demos and debugging and isolating issues.
+
+
+Friday Dec 29
+Figured out the forking model in codesandbox.  Also, got all of the mui-demos in one github repo.  Very cool.  No longer need to haul around all of the other crap associated with running the demo.
+
+
+Sunday Dec 31, 2017
+The final day of the year was looking into porting the core drawer code in mui into my own custom version.

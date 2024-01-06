@@ -1,0 +1,691 @@
+﻿2003
+December
+
+
+Monday 30
+Worked on UberMq, got the JUnit test cases up and running. Cleaned the house, swept up the floors. Did some laundry, and plunged the bathtub by sticking a black plastic bag in the whole that I un-screwed. Thought about going to Italy with Michele, but USAir doesn't have any available seats in March or April.
+Tuesday 31
+Opened some holiday cards, looks like Rob Currie is back from his multi-year jaunts around the world. Sent an email off to a new friend of mine Marty Philip Kantrowitz, meg and I met him the other night at Stephen Landau's going away party at Bob Levin's. Also, sent off an email to Nina and David wishing them a healthy happy New Year. Mellow New Year's Eve at Meg's with Trout cooking an awesome Thai dish. Trout moved in on this day.
+January
+Wednesday 01
+Worked during day, late afternoon walk. Watched Lord of the Rings in the evening.
+Thursday 02
+Gorgeous day. Talked to Trout after breakfast till noon. Tune up Michele's computer by installing Internet Explorer 6, along with patches for Windows 98. Review Source code for UberMq and also begin to look at Jxta docs. Walk at 4pm with dogs including Orbit. Mellow evening.
+Friday 03
+First time to Sunflower market at 8:30am. Fruit Basket then talk to Maria for about 2 hours. Cook some chicken soup. Walk with Michele in the "ghetto" north of Montano on the ditch. Chicken soup and chicken for dinner.
+Saturday 04
+Lord of the Rings, Part II. The two towers w/ Rand. The movie was way too violent for my taste. I liked the first movie much better, none the less I would really like to read the books. Learned that T.D. Waterhouse was withdrawing money from my account with quarterly fees without me knowing about it, that is a big bummer. Work in morning, run after movie, meg gets new running shoes. Mellow evening in front of the fire. Really warm unseasonably mild temperatures.
+Sunday 05
+Meeting in morning at JCC. Hang in afternoon at Meg's, James fixes drains in sink. Nice late evening walk, plus dogs bummed out about worms.
+Monday 06
+Work all day on test cases for UberMq. Deal with T.D. Waterhouse fiasco and transfer. Spoke to Nick Secor, he thanked me for helping him out with getting his school license. Disaster meeting with Ralph Sims on a GATED community across from John Brooks. Infill development and politics in general is NOT pretty.
+Tuesday 07
+Good day all in all. Got my oil changed early, after an online messaging session to tmartin. Also, worked outside, beautiful day, after finding a big tumbleweed which was the basis for filling in the hole which used to be my old fountain. More UberMq and spoke to Mom and Dad who are hanging out in Palm Springs, Ca. Daddy updated me on his messed up going out of business sale, bummer. Bad news about Vitr, lots more people let go, on the order of possibly 100, according to the Yahoo message boards. Also, jmc steps down as President, but retains the CEO title. This continues to be a BIG roller coaster.
+Wednesday 08
+Long talk w/ Mike Giles, I am finally realizing how long I have been fooling myself for on Vitr. Oh well, live and learn. Meg and I went for a run, another beautiful winter day in Abq. More work on nio package as related to UberMq. Nice talk w/ Scott, they got back from their trip to Michigan. I think one of my resolutions for this year, is to take ONE year off from the stock market, spend that time and energy on something else which has NOT yet been determined. First goal, is not to follow Vitr any longer, just write that whole thing off as a big lesson I needed to learn, which is in line w/ Michele's thinking on life.
+Thursday 09
+Got stuff done today on UberMq. James gave me RW in SourceForge. This is my first RW for a sf.net project. Played pool with Rand while Sima was at Karate. Hood Board meeting w/ Joan et al.
+Friday 10
+Run with Meg in afternoon, breakfast with Nick in the morning at Flying Star.
+Saturday 11
+Long walk up Placitas Ski basin road, home late, chilly and cold. Work during day on UberMq. Trout arrives.
+Sunday 12
+Early morning walk w/ dogs. Made awesome bread, trick was a bit of cumin and cinnamon combined. Carrot, banana, Quinoa toasted seeds, brown sugar, teaspoon of baking powder, 3 cups of water, 1/2 package of yeast, poppy seeds. James over for dinner, really nice weekend.
+Monday 13
+Book trip to Italy, leave May 13, return May 27. Spoke to Pedro, cleaned housed, did laundry, and began the Jms Web page, along with sending out 6 resumes. Worked some on UberMq.
+Tuesday 14
+Got three things done today. UberMq datagrams much better understood, sent out my daily 10 resumes (minimum). Begin converting arcadian group web pages to forrest. This eliminates the need to have to know that much about cocoon, and focus more on the tool that uses cocoon. Plus, I can have detailed instructions of how to integrate in the xml content with the forrest infrastructure. Goal is to drive towards having a new web page infrastructure for the UberMq documentation.
+Wednesday 15
+Meg for dinner, meeting w/ North Valley Coalition. Main point of discussion was the homeless shelter.
+Thursday 16
+Men's group meeting with Hershel at his shop.
+Friday 17
+Head out to Meg's in afternoon. Hang w/ Nick Secor in the morning at Flying Star. Run in early afternoon.
+Saturday 18
+Mellow day at Meg's followed by an evening in town. Had dinner at the little taco stand near UNM called Perico's. Then saw Amy Goodman at Pope Joy hall. Home at midnight. Worked during day on Forrest.
+Sunday 19
+Worked during day on Forrest. Jason came out with Gabriel and we chatted for awhile. Then we went on a hike, and Trout was there when we got home. Real nice discussion w/ Trout on life.
+Monday 20
+Cleaned up front yard in afternoon. Worked on Cocoon and Forrest combination.
+Tuesday 21
+Walk with Trout in early afternoon around the North Valley. Dinner here with Meg and Trout, then swimming.
+Wednesday 22
+Talk w/ Jeff Mankoff about business.
+Thursday 23
+Up and running with Jeff, walk w/ Rand in the afternoon. Hood meeting in the evening at library. Guy from Sr. Services spoke about the way the city helps people in the city. Listened to Siebel earnings call.
+Friday 24
+Compact not to view stock market on daily basis. Pt29 created, please review and update this document periodically. Spoke to Rick Miera's wife about Jose Barrera, who owns the Arris Laundromat. Work with local library to get bmtfoundation application up and running. Walk in afternoon with Meg along ditch north of Montano. Cruise Italy sites in evening. Disaster cooking cranberry bread, do NOT ever use the juice from the cranberries as a water substitute in bread. Don't put grapes in bread, use the hard cranberries.
+Saturday 25
+Breakfast at Barrelas Coffee house, Exit 169 hike after breakfast, its about 45 minutes down north of Socorro. Walked down arroyo, then crossed small stream adjacent to Rio and south for awhile along the banks of river. Cloudy, slightly ominous day, the energy was weird. Stopped at Jerry's market for Carne Adovada. Drive back here, then out to Placitas.
+Sunday 26
+Fixed Meg's road in morning, after reading piece in New Yorker on Free Speech at Harvard. Hike near town, up to top of hill, then back down. Run in with woman who owns land, about climbing hill.
+Monday 27
+Liz Duffy gets Headmistress job at Lville. Clean house, start reading Ed Roman's book on Ejb's. Bank in morning to organize the drawer, and start thinking about doing taxes. Spoke to Colorado about how to file, minus refund. See line 19, of 1040 is the answer.
+Tuesday 28
+Swimming at pool.
+Wednesday 29
+Meg and I go to Denise's for a party for Marcy, and Denise is leaving Sandia Healthcare in a couple of weeks. Meg drank too much marg, and was feeling a tad bit drunk. Abqjug meeting on JUnit by Dwayne Coles.
+Thursday 30
+Go for a run in afternoon. Men's group meeting at my house, w/ Bob, Hershel, Leo and Bert. Lots of progress on understanding EJB's by reading the Sun tutorial, which is top notch. Vitr earning's call. Spoke to Scott Friedman, he started a company with Hans Moravec called http://www.seegrid.com and also moved into a new home, and sold his old company called CareFlow.
+Friday 31
+Begin taxes on line. Enter and verify W2 info. Understand Transactions in Ejb Spec based on Chap 17 and Sun tutorial. Trout hike w/ meg. Dinner here, egg plant baked with yams. Hillel service at temple Albert, Jason was supposed to come w/ us but only his ghost was there.
+February
+Saturday 01
+Spoke to Steff and Nava about Bisbee. Saw (2) movies, Kissinger, and Frieda, both excellent movies. Walk in afternoon from new parking lot on rio grande just south of paseo.
+Sunday 02
+breakfast at Garcia's on Central, then Bound to Be Read bookstore to read about Italy. Back to Placitas, mellow evening.
+Monday 03
+Call w/ YClip folks in Austin.
+Tuesday 04
+Swimming.
+Wednesday 05
+Thursday 06
+Friday 07
+Saturday 08
+Santa Fe visited John Miller, then Scott Williams
+Sunday 09
+Worked on Meg's taxes. Hike in afternoon.
+Monday 10
+Work all day.
+Tuesday 11
+Swimming till 8pm. Conf call w/ Esc Loyalty
+Wednesday 12
+Conf call w/ Security guy. Meeting w/ Marit
+Thursday 13
+Drive out Hwy 550 to Farmington, awesome lunch in Cuba sitting next to the fireplace. Arrived in Farmington, and went for a nice walk along the San Juan River.
+Friday 14
+Drove to Cortez, met Tom at the Visitor's center who pointed us towards Delores. Hung out in Delores at Lar's place, called the Delores Mtn Lodge. Walk in afternoon, hung at local book store, then excellent Valentine's dinner at the German restaurant across the street, had a fish fry and a really good meatball soup.
+Saturday 15
+Drove home, back to Placitas, after a nice breakfast in Delores w/ really big pancakes. Drove South towards Farmington, then cut over to Aztec. Nice walk when we got home.
+Sunday 16
+Hang at Michele's, work on UberMq. Walk in afternoon.
+Monday 17
+Continue working on JBoss matching engine. Last week was basically wasted on exploring Axis Web Service, which I couldn't really figure out how to work in JBoss, might want to do a standalone version. Jog in afternoon, spoke to M&D in the evening.
+Tuesday 18
+Studying Ejb Cmp 2.0, swimming in evening, long talk w/ Susie Sigman
+Wednesday 19
+Paid bills early in morning, use Forrest to write up Vme Technical Spec, got Crime example from paid jboss docs working "out of the box". Peace Now dinner at David Broudy's w/ David Pine as the guest speaker. Walk earlier around UNM Golf course w/ Meg.
+Thursday 20
+Worked all day on EJB Query Langauge -- Chapter 11 from the spec, this is kind of a bear, but I learned a lot along the way, plus I figured out how to assign static primary keys to different rows, so then later I can go back and get them. Also, went for a short walk and saw Joey who is installing electrical stuff to get the score board up and running on the baseball diamonds at the church. Michele's son Jason got married yesterday to his girlfriend Rochelle. Also spoke to Jane Underwood at Vitria, she said everything is on hold with the reverse split until April 21 which is 90 days from Jan 21, which was the last dead line. Also, spoke to Lionel who I hadn't spoken to for months, he called me.
+Friday 21
+Mellow day, went for a jog in afternoon. Meg and I went to the macaroni grill for Jason's wedding party and met Rose, the grandmother, Theresa the Mom, and Richard the boyfriend. It was a nice evening and then we went to Denise's going away party. I spoke to Johnny the whole time.
+Saturday 22
+Andy arrives early in the morning. Went on a hike with him and found the new connection on the north side mesa. Home and had Diana and Glen for dinner. Really nice day.
+Sunday 23
+Got into plumbing in the morning, and learned how to use a snake to clean out meg's sink drain, we un-clogged, Andy and I. Went for a hike in the afternoon at Diamond Tail, mellow evening.
+Monday 24
+Sun Microsystem's analyst day with Scott McNealy. Figured out to use Oro for Matching Engine, and to look at multiple credit card numbers in the same document. Snowy, rainy day. Cleaned house. Spoke to M&D too.
+Tuesday 25
+Nice talk with Mark Lawler, he is a good guy and is my contact for Stone, which is a cool chinese computer company. Pool w/ Rand and Simma Karate. Worked on vmematch.jar, got it to a Phase I state.
+Wednesday 26
+Michele and I go for a long walk down to Matthew, then double back to Montano along the ditch. Beautiful rainy, snowy, winter day with a rainbow in the sky for kicks. Worked hard all day on driving to completion of Version Zero of the VME Matching Engine.
+Thursday 27
+Worked w/ Bert and Carlos to dismantle the playground at a demolished McDonald's on the Southwest corner of Lomas and San Pedro across from the beginning corner of the fairgrounds. Loaded up equipment into truck and then over to Nahalat Shalom to unpack Bert's truck. Worked very hard all day, including till midnight to finish the first cut of the VME Matching Engine. Spoke to Dad at work.
+Friday 28
+Mellow day, work on taxes. Meg picks me up and we head out to her house.
+March
+Saturday 01
+Hike with Andy on trail at end of road heading up into Sandias.
+Sunday 02
+Hike behind Diamond Tail to ridge top overlooking yesterday's trail. Met Jeff Hunter who is spraying trees for Skip Good who owns land all the way to Hwy 14.
+Monday 03
+Work on taxes all day, and file electronically late at night.
+Tuesday 04
+Pool w/ Rand, won all 3 games, went to bank to drop off tax forms. Lunch with Joe Lindsay here at my house. Swimming in evening.
+Wednesday 05
+Work on Web Service all day. Walk w/ Meg late in day, pork sirloin for dinner.
+Thursday 06
+Men's group at Bob's house. Went out for awhile. Worked all afternoon, and late into the evening on getting JBoss to talk across the network from client to server. See interest example to get it working.
+Friday 07
+mellow day, no work, torah study, lynn tells us she is taking a full 9 month sabattical after high holy days. walk around block in evening
+Saturday 08
+walk with Andy on BLM land
+Sunday 09
+leave for Tucson, drive to Globe, dinner at old funky mexican restaurant in town, 2 sides of lettuce, drive thru Salt River Canyon between Sho Lo and Globe. Springerville is the only town west of Socorro on Hwy 60.
+Monday 10
+Hwy 77 South to Tucson, lunch at Thai restaurant, discover Westward Look Resort, 245 East Ina Road, 85704. Nathan Leonard check in. Pool in afternoon, dinner at Thunder Creek brewery. Hike around resort after dinner.
+Tuesday 11
+breakfast, eggs benedict at resort. Gas, Trader Joe's, drive straight to OPCNM. Cook dinner, then tent set up. Evening show on critters of desert. Moon lit hike to discover what the heck an Organ Pipe is.
+Wednesday 12
+breakfast, sausage and eggs, open meg presents, drive to Ajo Mtn 21 mile loop road, hike to over hanging shade spot, lunch w/ photo guy from San Diego, Visitor center for 15 minute slide show, dinner w/ burgers, talk on Natl Parks and short walk to bottom of hill.
+Thursday 13
+lunch in Tombstone, drive to Bisbee, walk down town (hill) to dinner at Bisbee Grille.
+Friday 14
+drive home, Douglas, Animas, Hatchita, Deming (lunch), Hillsboro, T or C, rest stop just north of Socorro. Leave at 10:30, arrive at 8pm. Total mileage = 1450. Abq to Tucson = 500, Tucson to OPCNM = 150.
+Saturday 15
+mellow day, hike w/ Andy in Canyon north of Meg's
+Sunday 16
+Rainy day, made bread and beans. Sent out OPCNM email. Walk w/ Andy late in day thru village of Placitas.
+Monday 17
+Clean house. Post office, bank, acclimate back from week long vacation in southern Arizona.
+Tuesday 18
+Swimming. Begin work on Web Service infrastructure.
+Wednesday 19
+North Valley Coalition, Transportion review to 2025. Very rainy week, shopping at John Brook's for pork ribs.
+Thursday 20
+First homeless meeting w/ Meg. Night at Meg's.
+Friday 21
+Got JBoss <-> Jetty/Axis <-> Client working at Sfi on (3) different machines. This is good news. Run in afternoon, dinner at Diana's w/ meg. Great food, got to know Diana better, really nice.
+Saturday 22
+This was Gabriel's day, he arrived here at 7:30am, we hung here in the morning and headed back to Placitas in the afternoon. Went for a nice walk and studied some Italian with Andy.
+Sunday 23
+Long talk with Trout. Lunch, then drive to Arcadian, walk. Dinner at Rand's for Academy Awards.
+Monday 24
+Work all day on VouponEnroll and VouponActivate, driving towards first real live WebService test. Walk in the evening.
+Tuesday 25
+swimming
+Wednesday 26
+meg here, short walk
+Thursday 27
+Joan's meeting
+Friday 28
+Santa Fe with Scott, install engine, meet Scott's friend Michael. Head back to Placitas late in day, walk with Alex, absolutely freezing day. Bot coffee at Sage, and saw Melissa.
+Saturday 29
+Dinner at PfChang's with Cass and Mania. Walk in afternoon up back arroyo.
+Sunday 30
+Cut down trees, Luke for dinner
+Monday 31
+Sick all day, Clean in morning, meeting with Reagan to discuss Alpha test.
+April
+Tuesday 1
+work, sick.
+Wednesday 2
+work
+Thursday 3
+Men's group here, fire in the evening.
+Friday 4
+dinner here at the house w/ Andy and Diana.
+Saturday 5
+Jason's birthday. Mellow day, dinner at May Cafe, Vietnamese, then drove around and checked out Meg's old places she lived.
+Sunday 6
+Breakfast at Garcia's, then out to Placitas, nap, walk w/ Andy, mellow evening.
+Monday 7
+laundry, started working in the afternoon.
+Tuesday 8
+work, meeting with Mayor Marty Chavez on Science Charter School.
+Wednesday 9
+Lots of work on alpha testing. Dinner, walk w/ meg.
+Thursday 10
+Michele's LAST DAY OF WORK, after 26 years at the same gig, plus Helen forgot to tell her about the going away party with cake. My last day of work before going to Dallas. Alpha testing is done, and we cut our release candidates. Post Office, then my favorite grocery John Brooks, steak for dinner with Michele. Walked over to Homeless meeting, met Phil on return at the pool, that is the first time Michele met Phil.
+Friday 11
+Lunch at El Norteno on Zuni, then REI. Meg bot some nice green and gray shorts, Weeding in evening.
+Saturday 12
+Therese Howard died at 5pm. May she rest in peace. First day of pulling water off the ditch. Food security in morning with Rio Grande Community Farms. Walk in evening.
+Sunday 13
+Therese Howard in morning along with Sun Flower Market.
+Monday 14
+Flew to Dallas, Derek picked me up and we had lunch with Chris Meredith. Dinner at David Kleiman's house, with David's mom. Went out for Humus.
+Tuesday 15
+Dinner with Berk, David, Dana Zale, and Jeff at Italian restaurant on MockingBird. Lunch of pizza at the office.
+Wednesday 16
+Seder at Jeff's parents house. Lunch at Sushi on McKinney with Jeff and Derek.
+Thursday 17
+Baseball game, Dallas beat the World Series Anaheim champions, gorgeous day. Flew home next to Tim Wilcox from Tulsa, Oklahoma.
+Friday 18
+Meg had Friday off, and we finished washing the windows, and cleaned up. Not feeling very good, went to Thai, Siam Cafe, for lunch; got bread at Wild Oats, walk in evening.
+Saturday 19
+Went home in morning, and went to Home Depot, and Sunflower. Trout left in the afternoon, and we watched Walking Dead, which set a somber tone for the rest of the evening.
+Sunday 20
+Mania's house for Easter, services at church in Placitas.
+Monday 21
+Meg's first day of work at Pres, fix all of the bugs from Alpha test.
+Tuesday 22
+Pick up Peter at airport at 4:30, pizza for dinner.
+Wednesday 23
+Took Peter to get hand controls, he forgot his wallet so we had to drive all the way back home. Asian market, Thai food with Meg, short walk.
+Thursday 24
+Drove Peter to Santa Fe at 6:30am to meet with Mitch for pump testing. Worked all day on multiple DB. Break through on single set of session beans.
+Friday 25
+Finally, finished the multiple database problem, it is working. Drove out to Placitas.
+Saturday 26
+Party at Pam's with Peter Day, Meg and I had fun partying.
+Sunday 27
+Moved rocks from the new driveway to around the garden, little walk up the arroyo. Into town, Wal Mart to buy pots for plants, mellow evening.
+Monday 28
+Web service working for Multiple Database problem. Hang with Rand and Sima.
+Tuesday 29
+work
+Wednesday 30
+Sent Jeff a bill early in the morning for April. This was a big issue for me, but I am dealing with it.
+May
+Thursday 1
+Homeless meeting w/ meg, went well.
+Friday 2
+Drove to Santa Fe after dinner, watched Joe Day's video on the Rio Grande was very interesting.
+Saturday 3
+Mesa all day with Peter, dinner at Harry's Road house, then stopped by the old house, they are paving the road.
+Sunday 4
+Cold, windy day in Santa Fe. Watched the heroin video by Joe Day, drive home around lunch time. Walk in Placitas late in the day.
+Monday 5
+Major work day..
+Tuesday 6
+Revamped VME, now talking directly to the database.
+Wednesday 7
+Tidying up VME, last day of work, cut final version before Italy.
+Thursday 8
+Crazy day, had to re-arrange airline reservation due to US-Air schedule change. Also, researched Rome and made a reservation for the first 2 nights. Spoke to Rand also for awhile.
+Friday 9
+Had my first baby at Meg's in the evening, quite a rough time in my life, to say the least.
+Saturday 10
+Sunday 11
+In Italy thru end of May.
+June
+Sunday 1
+Hang out here with Meg.
+Monday 2
+Jeff informs me I am no longer needed.
+Tuesday 3
+Start SVG work.
+Wednesday 4
+99 Market for shrimp, walk in evening. Spoke to Derek.
+Thursday 5
+Spoke to Rand and Peter Day, nailing down fractal transformations in SVG, this is very cool stuff. Talk with Jeff in evening.
+Friday 6
+Jeff agrees to break up payments into 3 terms.
+Saturday 7
+Dinner at Marcy Zaffron's and Anne Byrom's house. They have a lovely home and we had a great time. She made chicken cordon bleu. Also, told us about her brother who lives in the Northwest territory.
+Sunday 8
+Planted Meg's garden with tomatoes and some herbs.
+Monday 9
+More SVG work, getting colored squares to work. Got Jeff's first check and cashed it immediately.
+Tuesday 10
+Bot some new running shoes at Big 5, and went for a run after I got home from there in the evening. Completed SVG work part one by finalizing the colored squares.
+Wednesday 11
+Went to OfficeMax and bought a 50 pack of CD's and a 50 pack of Jewell boxes so that I could burn some CD's for Linux. Bought all of them free with a rebate. Worked late into the evening installing RedHat on my old computer from the Silicon Valley days. Downloaded the iso images and burned them on to the CD's.
+Thursday 12
+Lunch with Jim Scarantino, Exec Director of the N.M. Wilderness Alliance at a Thai restaurant downton. Interesting homeless meeting in the evening, and got the "true" story from someone about the real homeless problem. Also, got RedHat Linux rpm tool figured out, and installed over the net the libgtk package. This is the only package besides Mozilla that is needed to get up and running on the RedHat install.
+Friday 13
+Broke down and bought a Dell computer for about $820 after the mail in rebate. Got a monitor too for this price. In the afternoon, I got turned on to PHP, which is a really cool simple scripting language. Cruised out to Meg's for dinner, and a short walk.
+Saturday 14
+Interesting Las Huertas Creek informational meeting on a school bus. Started out at the Merc, and cruised up to the mtn's. Then down to a woman's home on the creek, then had lunch at the Community Center. Invited Peter to the party and met MaryAnne McGraw who works for the state of N.M. in the Environmental dept. She used to work for the Highway Dept. Her husband is a world famous astronomer who teaches at U.N.M. and his name is Jim McGraw. They used to live in Tucson, and he got his PhD. at U.T. Austin Mellow afternoon, and nice walk in evening around the block. Made some great thai food. Found out more info about the Open Space in Placitas, and it looks secure again according to Lolly.
+Sunday 15
+Really nice hike in early afternoon on the north hill of the Open Space. Had Stephen and Denise over for dinner, we had barbecued chicken, and Meg's kick ass potato salad, all in all, a very nice day and weekend. Serious talk late at night about life and going home.
+Monday 16
+Worked all day trying to figure out how to larm, Lucence Retrieval Machine to get my data stock data. In the end, thanks to Mike Giles, I simply used the httpclient at jakarta/commons and did the whole thing in less than 30 lines of code. This was a no brainer, also had a very long talk with Bill and Michele.
+Tuesday 17
+working on getting financial data parsed and into a clean XML format.
+Wednesday 18
+Nahalat Shalom Community meeting, very positive.
+Thursday 19
+Got data into a clean XML format that I can easily insert into DB. Wait around all day for Dell computer to arrive. Got here about 6pm, then headed off to Cost Plus and Walmart for party supplies.
+Friday 20
+Mellow day, bought Carne Adovada, went for a run, no work.
+Saturday 21
+Walk in afternoon, party at Meg's in evening. Rand and Scott came alonw with Bert Lopez.
+Sunday 22
+Hike up in mtn's on Hwy 165 at the meadow we discoverd last weekend on Las Heurtas Creek tour.
+Monday 23
+Work all day.
+Tuesday 24
+Got new Dell Dimenions 2350 Linux box up and running, a bit of a hassle calling Dell and finding out that it was a Broadcom chip set, as Dell does NOT document this on the paper work. Evacuate in evening cause of Bosque fire, largest ABQ fire in 23 years.
+Wednesday 25
+Death penalty meeting at NM Conf of Churches, walk w/ meg in evening to see second day of huge bosque fires. This one unfortunately was set. We got to ditch, and tried to make a left heading south on the little trail west of ditch and a cop on a motorcycle said, "Hey, get out of there !" We were extremely lucky he said that, otherwise we might have been trapped in a major incinerator. Its bizarre how the human mind is attracted to the flames. In fact, as we were walking over I said to HoneyBun lets walk into the fire.
+Thursday 26
+Woke up smelling like a chimney, and feeling like I smoked a pack of cigarettes. Finally, the data is sitting in the database, ready for phase II. Walk over to Homeless meeting, met with HAC. Talked to Bks, he is coming to NM next week.
+Friday 27
+Jog in morning, clean kitchen cabinets where food is, and put back stuff, ants are no longer an issue, for now.
+Saturday 28
+Santa Fe all day with Rand. Bakery for coffee and bread, dish store, lunch at Salad Bar. Hang out at photo gallery, pool with Scott and Michael, late nite snack at Upper Crust.
+Sunday 29
+Mellow day, late evening hike. Rake road from telephone box mess up.
+Monday 30
+Work all day. Clean house.
+July
+Tuesday 01
+Got Texture class up and running. This is HUGE, using the SVGGraphics mode, now drawing pictures using Java2D, instead of raw SVG. Dinner at Geezamboni's and then hike across Montano in the ghetto.
+Wednesday 02
+Jog in morning, shopping at Fruit Basket.
+Thursday 03
+Head out to Placitas late in the day, pack for camping trip in morning.
+Friday 04
+Drive to camping spot at top of hill past Mora Valley and after you crest hill and start coming down hill its that valley. Set up tent and read New Yorker.
+Saturday 05
+Great day hike up old logging road and loop back on ridge, then bush whack down the hill. Read New Yorker in afternoon, awesome late evening hike along a lush stream with tall grass.
+Sunday 06
+Head home after mellow morning of breakfast and packing. Lite lunch in Las Vegas at Storrie Lake, then blizzard at Dairy Queen. Home around 3pm, clean up and read for awhile.
+Monday 07
+Work on turning data in database into Xml format. Also, start cranking on XPath to retrieve certain pieces of data from that file. Got 2nd check from Jeff of 3 checks. Spoke to Mom, and Mahesh. He gave me an update on his trip to Brazil. Its the first time I spoke to him since he graduated.
+Tuesday 08
+Skipped 1000 Friends of N.M. meeting and went on a walk with meg.
+Wednesday 09
+Work, late nite walk with H.B.
+Thursday 10
+North Valley Coalition meeting w/ new president Ken Balizer. Talked about moveon.org concept in Abq, a web site to poll and vote for issues.
+Friday 11
+Finally, got the Xml Data and Svg Picture generation integrated. Placitas for dinner plus nice walk.
+Saturday 12
+Mellow weekend. Started reading Lewis and Clark by Stephen Ambrose. Nice walk in evening
+Sunday 13
+Mellow weekend.
+Monday 14
+Unm for lecture on Guaymas. Saw Marty O at the old mexican bakery which shut down on Central. Too bad, that place was really good, but just didn't make it. Its now a mellow nice, asian restaurant.
+Tuesday 15
+Realized that I didn't need Axis, but that servlets would work. Started working on servlets.
+Wednesday 16
+Rand's for weeding garden. Got servlets to work.
+Thursday 17
+Read ALOT of Svg postings on the news group, and came to a HUGE conclusion, since I am not doing interactive images, I don't really need SVG, but instead can go with JPEG's generated from the Graphics2D. This is a huge breakthrough in the design of the system and really solves lots of problems related to SVG in browsers. Can also convert SVG's to JPEG's too, but that is probably not needed. Men's group in evening, first one since before Italy. Talked about Bert Lopez NOT being there any more, bummer...
+Friday 18
+Believe it or NOT, I got the integration working all the way from the servlet to generating the images, this is HUGE ! Pot luck in the evening at Hershel's, had a really nice time. Joan and Denise were there, along with Bob and Julie, Benay, Ruth, Richard, and Carol Spizman.
+Saturday 19
+Breakfast with Nick at Flying Star, then Pond w/ Nick. Saw movie Nowhere in Africa, awesome, at the MadStone. Dinner at Melting Pot, and then walked around Old Town.
+Sunday 20
+Mellow day, late evening walk.
+Monday 21
+Got Jpeg image processing to work. Dinner with Hb at Saggio's. Talk on Mayan hieroglpyhics.
+Tuesday 22
+Work all day on Servlet Framework research, Turbine & Struts. Got Turbine Tdk working at 10:30pm. Talk at Nahalat Shalom on Brazil. A friend of Andrew Stone's. Saddam Hussein's sons were killed in a fiery shoot out. Mom breaks her arm and goes into surgery. She is OK.
+Wednesday 23
+All day on Turbine, Torque, Velocity. Walk in eveing. SunFlower Market and Walmart.
+Thursday 24
+Very interesting homeless meeting. We finally all figured out what the heck we are doing, and are now all on the same page. Also, the light went on with Turbine, and now I understand the design of what these folks are trying to do, and it all is very intuitive and clear. Jog in the morning and met my angel Jack, who told me to allow more love into my heart, which is EXACTLY what Hb and I were discussing in depth last night in relation to why I didn't tell Hb about my Mom's surgery until after it was over. Did some good irrigating today too, of the front yard.
+Friday 25
+Farmer's Market.
+Saturday 26
+Swimming at Tamaya.
+Sunday 27
+Dinner with Pam and James.
+Monday 28
+Jim's son Quinn's Birthday party at Anna's house. Fiasco with Hb trying to buy a used Camry.
+Tuesday 29
+Risk with Rand. Charter school meeting with Mike Albers and Robin.
+Wednesday 30
+Hb goes to Guji's for massage, I work at home. Mike Alber's signs off on charter school.
+Thursday 31
+Got title at bank. Work all week on Velocity.
+August
+Friday 01
+More work on Velocity, very close to having it work by displaying images on web page with Velocity. Really starting to understand Velocity, its very cool. Morning with Nick, R.B. Winnings, then Wild Oats so he can drop off his car and sell it. Three movies with Honey Bun at High Ridge on Indian School and Tramway. Saw Whale Rider, Seabiscuit, and Winged Migration. Officially sign over 1993 Toyota Corolla to Meg.
+Saturday 02
+Leo's daughter Bella Bat Mitzvah. Party Sat night at bar and restaurant on Central just north of Carlisle.
+Sunday 03
+Jcrc meeting, mellow afternoon, walk with HoneyBun, Hb goes home after dinner. Discussion about Indian Affairs from UNM Law Professor who heads up this office at UNM.
+Monday 04
+Leave my home at 4:45AM for Pitt / Ocean City, see journal for further details.
+Tuesday 05
+Wednesday 06
+Thursday 07
+Friday 08
+Saturday 09
+Sunday 10
+Monday 11
+Tuesday 12
+Wednesday 13
+Thursday 14
+Friday 15
+Saturday 16
+Sunday 17
+Monday 18
+Tuesday 19
+Wednesday 20
+Back home from Pitt. Received final check from Jeff. Long talk with Robin Troup about Charter School. Talked to Peter Day. Mother got her cast off. Hang at Rand's house after dinner with Meg. Short walk on Anderson Field, awesome sunset.
+Thursday 21
+Meeting at Wild Oats with Robin, Lisa, and Celia. This was the FIRST meeting with the team. Our final Homeless meeting with Elise Welch et al, Ken Balizer showed up for the meeting. Spent night in Placitas.
+Friday 22
+David and Dana Kleiman came for lunch.
+Saturday 23
+Bar Mitzvah of Ian Brody, son of Jeff and Linda Brody. Out to their house in the evening, 50 miles back to Meg's via Hwy 22.
+Sunday 24
+Mellow day, hike in evening.
+Monday 25
+Meeting with Mike Albers and Robin at City Hall. Work some on Turbine.
+Tuesday 26
+Meeting with Bill Reynolds and David S. Dixon of LeastSquares Software, pack for Silver City. Better understanding of Velocity and Turbine combination, I am really in good shape to get going on building out a really nice Web Ui based on this technology.
+Wednesday 27
+Drive to Silver City, pick Peter up at airport at 10am. Lunch in T or C, arrive Silver at 4:15pm.
+Thursday 28
+Tough day with HB, dealing with early morning fiasco of not being back in 10 minutes. Breakfast at Vicky's. Pinos Altos hike in afternoon, to work things out.
+Friday 29
+Very mellow day at home. Mid afternoon walk into town to show HB around town and look at some cute houses. Mike and Megan come over after dinner to hang out.
+Saturday 30
+Lunch at Nancy's Silver Cafe. Home, party down with Peter during rain storm. Drive out Cottage San, then back and out Little Walnut. Thinking about buying land in Silver City. Great Nori roles for dinner.
+Sunday 31
+Drive home via Reserve and Plains of San Augustin. Late evening walk over to final night of Fiesta at church.
+September
+Monday 01
+Work during day, out to Placitas at night. Paco is missing.
+Tuesday 02
+Begin working on charter school pieces.
+Wednesday 03
+Four rabbis at Unm, question ? What does God have to do with it ? God has always been here. Ie. Universe is infinite, and has always been here.
+Thursday 04
+Juan Melendez was on death row for 18 years and he was innocent. He was a poor migrant worker who was set up by the government as a guilty party in a murder. When Florida let him go in 2001 they gave him a pair of pants and a shirt and $100. He had to borrow a pair of shoes from a friend. PLUS, the state of Florida did NOT apologize. He knew other people on death row who were innocent and were executed. Please tell every one you know that our government is executing innocent people on death row and that the death penalty should be abolished. We are the only country in the western world who still has a death penalty, every other country has abolished the death penalty but us. The reason they have abolished the death penalty is because the system is flawed and innocent people are getting murdered.
+Friday 05
+Complete one good week of charter school work. Peter Day heads off to Brazil. Larry, my neighbor kicks the bucket from Hodgkins.
+Saturday 06
+Simma's Bat Mitzvah, walk in afternoon, Rand's house for party.
+Sunday 07
+Rand's house for breakfast, nap in afternoon. Excellent walk late in day, park at end of road, and head up the ditch paralleling the road up towards the ski basin. This the first time meg and I have parked at this spot, and the first time walking along the ditch. Late in the day there are NO cars up that road, it was peaceful and beautiful.
+Monday 08
+Work on Cs stuff. Discoverd Yu-Koo company thanks to Mike Bobick.
+Tuesday 09
+Work on Cs stuff and ets code. Long talk with Mike Giles.
+Wednesday 10
+Met Paul outside walking the dogs. Filled him in on what is going on at the end of the road regarding the 1 acre lot for sale with the shitty house. Navin is leaving Vitria. Nina for dinner, had Thai food. Awesome cloudy, rainy weather. This is definitely the first MAJOR hint of autumn in the air.
+Thursday 11
+First hood board meeting of year, decided NOT to resign, as the number of annual meetings was greatly reduced, plus I like the folks in the group, and so it does not take up much time. Run in afternoon, glorious autumn days. Cranking along on Turbine / Velocity, learned more about the global tool aspect of Turbine, getting close to having these ideas figured out.
+Friday 12
+Mark Saul dies mysteriously. I spoke to John Gutman and in his honor decided to attend the 25th Lawrenceville Reunion Apr 30 -> May 02, 2004. John convinced me to come by offering to me the first reservation in his nine bedroom home with a dishwasher that cycles in 90 seconds.
+Saturday 13
+State Fair all day, stopped by bakery at the end of the fair to buy some tortillas. Watched Bowling for Columbine.
+Sunday 14
+Mellow day, walk near Mania's house, visit with them for a short while.
+Monday 15
+All day meeting at Robin's. Money issue came up. Run when I got home, then SunFlower Market. Vitr hits new 52 week high of $6.52.
+Tuesday 16
+Sun Meeting with Scott, Ecollege Buys DataMark, Stock hits $20.00.
+Wednesday 17
+Spoke to Maria on Lionel's Mom's Death. Download new Turbine 2.3 along with new Torque, late evening walk with HB.
+Thursday 18
+Bill and Michele were supposed to come to dinner, but their flight from Ca. got cancelled due to Hurricane Isabel. So, instead Bruce came to dinner. We did a barbecue. Turbine 2.3 and Torque 3.1 up and running, this is a major accomplishment and a lot of work. I am officially decoupling the ets from zrato. The ets knows nothing about the user interface. So you can actually have completely different UI's with the same ets.
+Friday 19
+out to Placitas late in the day.
+Saturday 20
+Spent the whole day in Santa Fe. Bot a gift for Eve, lunch at the Thai restaurant. Was there once before with Joy and Scott. This time it was much better. Hang at Edward's house for awhile, drop off gift. Then go for a hike up near Audubon Center. Met folks who lived near Meg's old house on Upper Canyon Road. Park at Downtown Subscription and walk into town. Dinner at Pranzo, very nice.
+Sunday 21
+Hike up canyon going east of the ditch for the first time. This is big wilderness, and we felt un-familiar with this territory, so we have a lot more exploring to do in this area.
+Monday 22
+Meg here for reading with Logan. Keith called me today, haven't talked to him in a LONG time.
+Tuesday 23
+Robin drops off Charter CD and I read the entire manuscript.
+Wednesday 24
+Go over corrections with Robin on the Charter CD. Candidate forum for Council District 2. Amendment 2 off by 23 votes, looks like 78 million dollar stimulus package for education from permanent fund may fail. Log4j review with Turbine, Torque, Velocity, and Jetty.
+Thursday 25
+Lorenzo Dominguez caught a cab, suicide. Everything now working on Turbine 2.3, Torque 3.1 etc... Problem was not including Flux.properties inside TurbineResources.properties and also Velocity path to the flux vm's. Rand over in evening.
+Friday 26
+All day at Mike Alber's office putting together final printing of charter school document. Rode bus home at 2pm, caught the 8:25am bus down town. Mother and Dad out here Oct 29, Thursday thru Nov 05, Wednesday. Oneg at NS, then walk home. Spoke to Bert's ex-wife Melissa Binder.
+Saturday 27
+Breakfast at Garcia's. REI, ran into Philip Clark, wow. Corralles Harvest festival, hay ride, fun...
+Sunday 28
+Walk in afternoon on BLM north of Meg's.
+Monday 29
+Work.
+Tuesday 30
+Work, Rand's after dinner for Risk and story about Mormon's that he told me.
+October
+Wednesday 01
+Spoke to AbqJournal about Charter School, document was deliverd yesterday afternoon. Front page story this morning on school.
+Thursday 02
+More work on Ag. Meeting in evening on Fourth Street Project.
+Friday 03
+Cloudy chilly day. Complete portfolio's finally. Start reviewing paper work for taxes, EIN's, and LLC's.
+Saturday 04
+Saw Under the Tuscan Sun starring Diane Lane. Dinner at Thai Restaurant, research at book store on LLC's. Long walk in open space until dark.
+Sunday 05
+Got wood near Glen's house in the Jemez. Dinner at his home, meg and I partied and saw G-d over looking San Antonio Canyon. We were able to look into each others eyes and see ourselves. Wow ! Drove home and unloaded wood in the dark.
+Monday 06
+Filed Arcadian Group LLC paperwork. Lunch with HB here. Work all day on web page look.
+Tuesday 07
+Spoke to Elisa Rubin, her baby's name is Matthew Logan Affinito, bday is Aug 07, 2003. Got navigation more up and running on zrato. Talked to Lionel.
+Wednesday 08
+Talk to Robin about meeting tomorrow. Meeting w/ Jens to discuss Ralph Mims effort, got to meet the artists working on project.
+Thursday 09
+Meeting with Mike, decide on new contract. Meeting with Joan on hood assoc board meeting.
+Friday 10
+Continue working on Turbine all day. House cleaning.
+Saturday 11
+Mellow day at home in Placitas, walk at end of day. Started seriously reading the DaVinci Code.
+Sunday 12
+Eve's wedding. A fun gorgeous day in the mountains, the aspens sparkled the whole time.
+Monday 13
+More work on Turbine, understanding session level Application Tools.
+Tuesday 14
+Version zrato00acf.zip is done, awesome. I have FINALLY finished navigation for now, and can move back into Batik and the Svg world of generating images. Went with meg to Sunflower to buy food for our trip, we spent $40 each for food, $80 total. Got up at 1:15am this morning to complete this huge task. Listened to WebMethods Conf call, they bot 3 companies for 32 million, and got 40 employees.
+Wednesday 15
+Drive to Farmington, arrive at 10pm. Stay at La Quinta Inn.
+Thursday 16
+Drive to our camping spot in Canyon Lands via Monticello. Set up camp.
+Friday 17
+Hike up west side of Lavendar Canyon.
+Saturday 18
+Hike up east side of Lavendar Canyon.
+Sunday 19
+Drive to Durango, walk around downtown.
+Monday 20
+Breakfast in Aztec at the Aztec restaurant. Home, unpack, pick up Paco at dark.
+Tuesday 21
+Get back into work, lots of errands. Update ets to work with the new yahoo finance site.
+Wednesday 22
+Met Moira Gerety, CIO of New Mexico at the ITEC conference.
+Thursday 23
+Joan's hood assoc, won raffle for $33, and gave back the money, good pot luck. Made banana bread.
+Friday 24
+Got EIN number, CRS number at state tax office. City of Abq Business Permit, and bank account. Run in afternoon. Dinner at Taco Cabana, major accident on Alameda, back up to Placitas going south. Fortunately, we were going north.
+Saturday 25
+Cold, windy day. Luke came out to the house and hung house. Nice dinner, bed early.
+Sunday 26
+Arts Festival in Bernalillo. Worked in garden, mellow walk w/ dogs.
+Monday 27
+Steff shows up and we hang out. "Enchanted Valley Education Foundation" name is proposed. Start looking into JFreeChart, men's group at Bob's with Leo, Hershel, and Bob.
+Tuesday 28
+Dede Feldman signatures for election day.
+Wednesday 29
+Awesome day, election results were the best in recent memory. All of the progressive candidates won, and Paseo Del Norte extension was shut down. Yahoo ! Vitr earnings release, neutral to slightly positive, NOT negative.
+Thursday 30
+Mom and Dad arrive, dinner at Los Cuates.
+Friday 31
+Hang with M/D for lunch at Flying Star. Lots of shopping at Keller's, Wal Mart, and Sun Flower. Dinner at Scalo.
+November
+Saturday 01
+Santa Fe, lunch at La Fonda. Walk around town, cool Awakening Museum piece, a whole room of art.
+Sunday 02
+Cook and prepare for Thanksgiving meal. Rand, Luke, Mom and Dad.
+Monday 03
+Dinner with Mom and Dad at Scalo.
+Tuesday 04
+Dinner with Mom and Dad at Cafe Voila, french restaurant on Jefferson, near the Journal Center. M&D came by in morning for one hour. Completed majority of estimated taxes.
+Wednesday 05
+Mother and Dad fly home. I go for a run. Meeting with NRD on Indian School presentation of how the land is going to be used.
+Thursday 06
+Walk with Rand around Anderson fields. Got bbq for take home at Powdrell's.
+Friday 07
+Completed lots more work on Pic01. This is the first of many pure svg pics, since this is the first one I am calling it pic01. This is a generic 2d matrix with rows and cols. The rows and columns can be any size, and any data can be written in the grid data.
+Saturday 08
+Walk with Hb along Rio Grande just north of Hwy 550, along back road to Santa Fe. Met an interesting Indian by the name of Nick.
+Sunday 09
+Mellow day.
+Monday 10
+Men's group at Bob's. Hanover Direct Conference call.
+Tuesday 11
+Work, run in early afternoon.
+Wednesday 12
+Pay taxes, oil change, deal with Robin and Mike over what year school will open, we might have to wait until Autumn 2005.
+Thursday 13
+Sell Ecollege around $25. Coldest day in Abq since March of this year. First major winter storm of the season.
+Friday 14
+Meeting with Mayor Martin Chavez. Run in morning. Paco almost killed by coyotes. Go visit him after meeting downtown.
+Saturday 15
+Visit Paco in hospital. Early afternoon with James and Julie at the Riverside near Montano. Met a Ralph and talked about Group Souls. Also, met a woman who had an IR camera and was doing thermography. Home, walk in afternoon. Homecare Ball at JCC. Denise brought a quart of Vodka to the party.
+Sunday 16
+Mellow day, continuing to read "Under the Banner of Heaven" about the the Mormon church, walk in late afternoon.
+Monday 17
+Reading with Logan. Got a free safety deposit box at a local bank, move paperwork associated with Arcadian Group LLC to this spot. Talk to Bill about his idea, and possibly doing some work with him and David. Work out this whole concept in my mind.
+Tuesday 18
+Frustrating day, just never got things off the ground. Skipped going to the Ecuadorian movie that was being shown at UNM.
+Wednesday 19
+Got lots of work done today. Wrote the conversion package from flat.xml to cat.xml Run in afternoon with Star. Dinner with Hb here.
+Thursday 20
+Meeting with Mike at 10am at his office. Complete FlatToCat conversion. All of the Nasdaq100 companies are now in CategoryDataset form. Did a complete download of the companies and went thru the conversion process. Backed up the etsdata file set. Run with Star in the afternoon. After several years, found the math books I was looking for. They were buried at the bottom of that big box full of books I used to have in the closet. Made Carne Adovado for lunch. Helped Dad with the computer, especially doing downloads from Yahoo.
+Friday 21
+Happy Birthday ! Spoke to Mom and Dad at 6:30am. Scott called me and we had a long talk. He is hanging out in Michigan for the forseeable future. Took all my old paint cans and hazardous waste to the city facility. Torah study with Bob and Shad Goldstein. Peter Day called me and we talk for awhile. I told him about group souls and my reading with Logynn. Cleaned out the garage on one side, and moved book shelves closer to the door. Gorgeous autumn day. Dinner downtown at Brazilian restaurant where they walk around and serve you meat.
+Saturday 22
+Placitas Holiday Fair. Hang out at the winery in late afternoon. Weather went from 60 degrees in the morning to 20 degrees at night. Walking around Placitas was really cold. We hit the tent, the elementary school, but missed Cedar Light. We went home as the sun was setting.
+Sunday 23
+Excellent lecture on Travel Writers by David M. Wrobel, UNLV associate professor. It was the 22nd Calvin P. Horn Lecture. Dinner at Yanni's on Central, excellent meal.
+Monday 24
+Started work on JFreeReport, this is the first time looking at this package in depth and I like it. Its Data Model is based on TableModel, which is a very clean idea and nice architecture. I am going to pursue using this software package and it has a nice interface for generating PDF, XLS, and HTML reports based on the data model. Very cool. Men's group at night, Andrew Stone was there which was nice.
+Tuesday 25
+Run with Star in afternoon, she stayed at my house. Completed first round of JFreeReport. I am now generating very simple reports based on XML file configuration.
+Wednesday 26
+Mellow day, shopping at SunFlower. PostOffice and Bank run. Short walk in afternoon with Honeybun. Cleaned front room. Marty O for dinner with stir fry and Hb made some good pork. First fire of the year !
+Thursday 27
+Awesome Thanksgiving day. Thanksgiving at Jason's grandma's house, met brose@brosenbex.com and richard@handsprings.com Dinner at Diana's, hung out with Glen. A beautiful Thanksgiving day.
+Friday 28
+Worked in morning. Got JFreeReport working with columns corretly sorted. Walked around Old Town. Lunch at Garcias. Home, walk in Open Space, really cold late part of the day.
+Saturday 29
+Santa Fe with James. Lunch at Pasqual's. One of the best meals I have ever had in Santa Fe. Superb, but long wait. Walk down Canyon road, park at Old Sfi.
+Sunday 30
+Gorgeous late autumn day. High 60's. Worked outside in afternoon gathering kindling in a bucket. In the morning did a hike up side of mountain on way to Natl Forest.
+December
+Monday 1
+Mellow day, not much work done.
+Tuesday 2
+Getting Velocity to work well with reports and Svg's.
+Wednesday 3
+Work all day. Hike with Star in afternoon, and Honeybun in evening. Made an Indian asparagus dish.
+Thursday 4
+Lunch with Nick Altiero, Dean of Tulane School of Engineering. Got a new driver's licence at the MVD. Nice evening at the Nob Hill Christmast walk.
+Friday 5
+James came over to pick up his oils and drop off Meg's new shirt she bought in Santa Fe last weekend. Long talk with Robin about High Tech High Replication and preparation for meeting on Monday with the School Board. Svg all day, studying different aspects of the spec and working out the first picture.
+Saturday 6
+Marcy, Anne, and Alan (Anne's brother) for dinner in Placitas. They are really nice people. Alan lives in the Yukon territory near WhiteHorse, and is fairly close to Alaska driving. We had egg plant parmesian which was really good.
+Sunday 7
+Cuba all day. Long hike off the road toward Fenton Lake. Lunch at our favorite Mexican restaurant in Cuba.
+Monday 8
+School board meeting at 5pm at 725 University, which is the APS Administrative offices. We passed this phase. Mike, Deirdre, and Robin were there.
+Tuesday 9
+Completed svg picture which shows sorted market caps. Getting this data up and sorted is huge. LaundryMat to clean up all of Star's blankets. She is getting a new bed in the other room. Hb gave me a big round pillow which Star can now sleep on. Cleaned up house, did laundry.
+Wednesday 10
+Shopping with Hb. Got 2 fleeces, and a pair of green pants at T.J. Maxx. Went for a run in the afternoon, the first one of the week. It was a nice warm day.
+Thursday 11
+Garbage day, threw away a big bag of cement that was in my garage. I cleaned my garage for the first time since I moved into my home in Feb of 1999. I moved my stuff to the back shed, that is getting ready to be thrown away. So the garage is pretty clean. Hb and I went for one of those glorious winter walks late in the day. Sun is setting around 4:50, its the darkest day of the year in sunset terms. Starting to understand viewBox in Svg. This is a very key, CORE concept that must be completely understood. Spoke to two companies today which could possibly provide me with quotes legally and also some fundamental data in a detailed quote. Working towards getting my contract worked out with the city. Nothing is final yet on this front.
+Friday 12
+Work during day. Complete Nasdaq100. Torah study at Bob's. Dinner at Hb's. Nice fire in evening.
+Saturday 13
+Late morning / early afternoon walk around house. Drive into town. Party at Dave Foreman's house. Spoke to Martin Heinrich, and saw former mayor Jim Baca at the party. He is also a short guy.
+Sunday 14
+Walk with Diana over to Valley High School. Saddam Hussein is FINALLY captured alive, this was an incredible journey. Wow.
+Monday 15
+VMWare bought by EMC for 635 Million in cash. Ed Zander named CEO of Motorola, set up a time to speak to Paul King. Learned from Mayor Chavez that charter school application might get nixed.
+Tuesday 16
+Woke up sick, throwing up. Worked all day on transpose and sorting data, and realized I needed to come up with my own Data Structure with source code I have complete control over. Missed meeting at city office.
+Wednesday 17
+The dreadful day. Made a speech at Alameda Elementary School chiding the school board and especially Leonard Delayo. Also, spoke to Paul King who is working on social networking software. Basically, he wants me to work for him for free, this is NOT going to work. Also, at Alameda Elementary School they had cookies and turkey before the meeting and I chowed down.
+Thursday 18
+Meeting with Mayor at 9:30am, followed by editorial board meeting at ABQ Journal at 11:30am, followed by 3:30pm meeting at the ABQ Tribune. Needless, to say it was a fun day. Met Richard Romero and Miles Nelson at UNM Law School at 6pm to discuss the upcoming election against Heather Wilson.
+Friday 19
+Torah study at Bob's. Hanukah party at Nahalat Shalom. Talked to Linda Brody. Lit the menorahs, and had a pot luck.
+Saturday 20
+Tamaya resort in morning, indian dances, and good bread. Stopped by Jackalope and Cedar Light. Mark Godwin caught a cab. Luke's house to drop off money for plane ride to Florida.
+Sunday 21
+Glen and Diana for dinner. Lowe's to buy a chicken. Partied with Glen before dinner on the ditch. Nice fire in the place.
+Monday 22
+Work, got Blue up and running with new picture scheme.
+Tuesday 23
+Signed contract down at the city. Got Pic05 up and running with new data structure. Run in afternoon, gorgeous cold day. Spoke to Lionel and Maria.
+Wednesday 24
+Pick up turkey at Keller's early in the morning. Make an eggplant dish. Bank, Post Office, and Fruit Basket.
+Thursday 25
+Jason, Rochelle, Damien, Gabriel for Christmas dinner. Hike with Damien after dinner he just sat down on the road and said I am not going any further.
+Friday 26
+Hb works all day, I stay home and sleep.
+Saturday 27
+Hike up canyon near Sandia man cave.
+Sunday 28
+Saw third movie in the Lord of the Rings.
+Monday 29
+Got multiple colored pictures working.
+Tuesday 30
+More fun work, things are cranking along. Bot 1 cord of wood for $100 from one of my neighbors who lives on Van Cleave.
+Wednesday 31
+Mellow New Years evening at home sorting thru New Yorker's. During the afternoon I hung out with Stephen Landau.

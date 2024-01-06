@@ -1,0 +1,798 @@
+﻿2012
+
+
+January
+
+
+Sunday 01
+Mike and Megan bring over Tamales for a nice New Years Day celebration.  They drank wine and we talked a lot about our lives over the past period of time.  Also, studied some new Spanish words.
+Monday 02
+Peter Day drives back home to Silver City.  Mellow day at home.  I work mainly on getting my diary in order and doing the annual send out.  Late in the day Hb and I go on a short walk and then I moved some rocks on to the road due to lots of mud.
+Tuesday 03
+First day back to work.  Step 1 was to file NM taxes.  Spend more time looking at backbone.js.  Nice walk mid day up on to the mesa.
+Wednesday 04
+Talk with Vinay.  It now appears that my days are numbered at Mw.  They are in a law suit with AA and plus for a full time gig he wants me to move to NYC.  Any way, I need to finish up this project ASAP and move on.  We will see what happens.  I went for a walk up on the mesa.  I am calling it that from now on you will know the mesa is north of here.  I walk down the arroyo and make a right turn and take the trail up to the top of the hill.  Then I walk east to Antonito and then come back around.  Andy and I did this walk while he was in town.
+Thursday 05
+Major day of work.  In fact it was the first focused day of work of the year.  I got the results part of the triprec up and running, this is very good news.  For the first time I walked out Cedar Creek and up Orno Creek Road to the end.  It was there that I made a right turn and headed back towards the pipe line road by crossing those peoples driveway who live on the edge of the arroyo that you prominently see from the other side of the arroyo.
+Friday 06
+Finish up first round of results presentation for triprec.  I finished up around 1PM and then went for a nice long walk on the mesa.  Hb and I watched a movie in the evening called Bloodworth with Kris Kristofferson.
+Saturday 07
+Nice day.  Hb started off with Yoga and I sent an email off to Vinay and Nick telling them I had finished the first round of results.  Hb and I went to the Range for breakfast / lunch and then went over to the Tamaya.  We went on a long walk north along the river.  It was our first time up there.  On the way home we stopped at the Merc to buy some bananas.
+Sunday 08
+Watched the movie “Skin” in the evening.  Earlier in the day we hung out in the morning and then just after lunch we went to Corrales for a talk on the time period in NM history just prior to NM becoming a territory.  It was at the old church.  I helped bring in chairs and then ran the slide projector.  Afterwards we stopped off at the SunFlower for some shopping prior to going home.
+Monday 09
+In the morning I wrapped up the triprec notifier.  After receiving an email from Vinay I realized at that moment and with some contemplation that the project and my days at MileWise are over for now.  I put everything to bed and moved on.  I went for a long walk and talked with the AX Propane guy upon my return.  He was waiting for me filling up the tank.  The tank on his truck is 2600 gallons.
+Tuesday 10
+Sent an invoice off to Vinay with my final bill.  He responded in a very positive manner.  In the evening I made my return flight home from Florida, therefore putting to bed my plans for the next month.
+Wednesday 11
+I will be back home from Florida in one month.  Started working today on better understanding Reds, Natural, Redis.io all in response to working on the concept of information storage, retrieval and most importantly organization.  My new project is all about this.  Stay tuned for more details.  In the evening we watched a movie called Metropolitan shot in 1990.  It was the first film for director and screenwriter Whit Stillman.  Also, got an email from a guy in Portland, Oregon with a company called Velocity Ventures who has programmers based in Buenos Aires.
+Thursday 12
+Starting to finally make progress on my work after a day or two of floundering.  You will recall that two days ago I sent off the final bill.  It was just today that Nick from Mw was back from his vacation.  He had not checked in any code since Dec 22.  Any way, I did not hear from Vinay about the project and so I successfully I believe wrapped up that project.  By the time I get to Florida, if I like I can start looking for jobs just as I get ready to return home.  I can do the research and then begin my search upon my return.  Also, good progress on Mocha testing framework in reference to Mongoose.
+Friday 13
+I finally got the pictures pulled off of the Seagate external hard drive.  First I pulled them off by tarring up the files from the hard drive onto both Mac Book Pros. Then luckily, there was software on that drive that allowed me to format that drive completely from scratch.  Now that drive can be read/write just like another regular disk.  It is like a giant thumb drive.  It was my last bout with windows.  In fact, now I can throw away, give away that Dell box that sits in my closet.  It is the old computer that Hb used after I left for California.  In fact, if I want I am thinking about possibly putting Ubuntu on it.  But on thinking about it further it is probably not even worth it.  Just take it to the computer recycle place across the street from Hb’s airconditioning car mechanics.
+Saturday 14
+Hb and I had a nice day.  In the afternoon we headed into town and parked at The Flying Star.  We then went for a nice walk along the ditch down to Candelaria and came back on the ditch just east of Rio Grande.  So we did a big circle.  Then we had dinner at Flying Star.  Afterwards we stopped by Flying Star for Hershel’s gig.  He was presenting in Nahalat Shalom’s Art Gallery a bunch of stools for cheap.  They were all less than $100, mas o menos.  Then we headed by TJ’s before the ride home.  Earlier in the day we cleaned the house and I did work on the computer early in the morning.
+Sunday 15
+Mellow day at home.  In the early afternoon Hb dropped me off at the corner of the Hwy and Homesteads.  I first stopped off at Dave Harper’s office and we must have talked for more than one hour about the potential road coming in from the East Mountains as well as his new development up on the mesa.  I then proceeded to walk home via the hoods in that area until I hit the Open Space.  In the evening we watched the movie “Smoke” with William Hurt.  It was a good movie.  Earlier in the day Hb went to the movies with Nancy and Sue to see Meryl Streep’s new movie called Iron Lady about Margaret Thatcher.
+Monday 16
+Spoke to Hamid and also spoke to Steve MacMillan at Velocity Partners dot net.  CRdata is shutting down, and talking to Hamid brought up some ill feelings about the whole situation at Caltech.
+See docs for more details and lessons from the conversation.
+Tuesday 17
+Jerry Yang is resigning from Yahoo, just two weeks after the new CEO Scott Thompson comes on board.
+Wednesday 18
+Wikipedia is blocked out for the day for the first time in protest of a law being considered in Congress to curb On Line Privacy.
+Thursday 19
+Working on mocha test cases for both Mongoose and Redis.  Also, looking into hooks, promises, express 3.0 tied into connect.  So basically, more details of the finer points of Node.  Several evenings ago I reviewed core Javascript concepts.  I will continue to do this over the next couple of weeks and into my trip to Florida with Mom and Dad.  It is a gorgeous spring day here in NM, around 60 degrees.  I headed into Bernalillo and did some errands.  It was my first time in the fruit basket like store across from the bank.  Also, stopped by the Merc for bananas.  James Dunbar is sixty years old today.
+Friday 20
+Sarah Burke died in a ski accident.  This story hit me hard.
+Saturday 21
+Hb goes to yoga and then we went for a long walk in the open space with Lalo.  Hb made a pie for this evening at Ana and Attilio’s house and I loaded CD’s of music into ITunes on my new computer.  We had a nice time at their house, they are lovely people.  Amazon figured out the music industry with their cloud player, just brilliant.  It rained a bit prior to leaving their house and it was a windy night.
+Sunday 22
+Converted my diary files to the new Google document.  Glen and Diana’s for dinner.  Diana served a nice Mole chicken and a great dessert.  I talked to Glen for awhile in the garage before dinner and he showed me the new fence he was building outside my house.  He had dug the post holes a couple of days back.
+Monday 23
+Driving forward on moving to multiple feeds in RedFork which means totally reorganizing the code to get it to work with multiple data feeds.
+Tuesday 24
+Rainy morning, mountains have a lot of snow in them.  Mellow final day before my departure to Florida.  More work on breaking out Craig code in RedFork and finish up on some packing details.
+Wednesday 25
+Fly from ABQ to RSW.  Hb took me to the airport.  Mom and Dad picked me up and then we went to Costco to buy some food and then we came home and had fish for dinner.  On the plane I sat next to a guy who worked on ports.
+Thursday 26
+First full day in Florida.  Went up to Miromar to walk around and look for a short sleeve shirt.  It was an absolutely gorgeous day.
+Friday 27
+Mellow day at home.  Went to see the movie Iron Lady with Meryl Streep in the afternoon, it was an excellent movie about Margaret Thatcher.
+Saturday 28
+The cleaning lady at my parents home came in to help them clean up for a party next Sunday.  I went for a walk most of the time she was here.  In the afternoon I started working on parsing the Biogrid data set.
+Sunday 29
+Mother and Dad went to play golf and I went for a long bike ride on Strike Road and then hit Old Hwy 41 for the first time.  The weather here is lovely.
+Monday 30
+More work on BioGrid and Promises combined.  Dad and I went for a nice walk over to West Bay in search of the water which we did not find.  Afterwards we went to pick up some pizza, dropped by the Torteria called La Frontera and then stopped by Target.  After getting home, I went for a bike ride up Three Oaks Parkway to Williams Road.  The same street that West Bay is located on.
+Tuesday 31
+Dad and I played tennis in the morning and in the afternoon I did some work on Biogrid.  We went to game night at the clubhouse and then I walked back home and went for a walk out on the golf course at dusk.  I came back and did some work on the Amazon bucket zratostore.
+
+
+February
+
+
+Wednesday 01
+We went to the beach in the afternoon.  It was a gorgeous day at the beach.  I walked the whole time we were there.  In the morning I worked more on Biogrid.  Marsha was going to come to dinner but canceled in the morning due to another meeting.
+Thursday 02
+Lunch with mother at California Pizza Kitchen.  Walked over to the Apple store and learned about the F5 key.  You have to push the function key first and then the F5.  Dad and I played tennis in the afternoon.  We are having fun with this.
+Friday 03
+Dad and I played some more tennis.  Day ended on a good note as all of the data is now sitting in MongoDb.
+Saturday 04
+Jason’s deli for dinner.  It is a cool place.
+Sunday 05
+Big party day !  Went off without a hitch.
+Monday 06
+Mellow day at home.  Went for a short walk as we got some rain. Got tests up and running with the BioGrid stuff.
+Tuesday 07
+Sanibel Island.  Wow !!  Very nice.  We also went to the shell museum after walking on the beach for two hours and then lunch at a nice grocery store close by the beach spot.  I had another Reuben.
+Wednesday 08
+Mellow day at home.  First day of a big push into D3.  D3 is back once again.  Let us see if we can use this technology to drive things forward.  In the evening we went to a fancy home for a Federation meeting.  I met Iris’s neighbor who works at the Federation.  Earlier in the day I did my first bike ride across the street from Strike road and road further south on a dead end road.  My bike riding has been fantastic.
+Thursday 09
+Mellow day at home.  Went for a bike ride at the end of the day.  More work on D3.  This week has been D3 and last week was putting biogrid data into MongoDb.
+Friday 10
+Went to the beach today after lunch.  I then went for a ride around the block on Daddy’s bike.  I rode his bike almost every day that I was in Florida.
+Saturday 11
+Final day in Florida.  I went for short walks in the morning and also walked with mother down the street.  I had rice for lunch with salt and then we went to the airport.  The plane from RSW to Atlanta was really full.  However, ATL to ABQ was nice, I had my own seats.  Hb picked me up at 9:15PM.
+Sunday 12
+Mellow day at home.  Hb made a killer new dish that she made in Austin which was kind of a Cajun sausage soup.  Earlier in the day we went to the Sandoval Historical Society 100th anniversary at an old house behind Santa Ana Star Casino.  It was a cold, snowy, cloudy day.  A fine day to arrive back home in NM.
+Monday 13
+First day back to work.  Spoke to Scott Conklin at Dynaprice for 2.5 hours about his project.  In the end I decided not to do it, but we had a nice chat.  Hb and I went for a nice walk at the end of the day.
+Tuesday 14
+Long talk with Peter first thing in the morning.  Starting a major push back into Biology.  While I was in Florida I worked on the Node side of the Biogrid and this week I am starting the Biology research side so I can bridge the two concepts of Node and Biology.  Hb and I went for a walk late in the day, and it was stormy and cloudy and the weather was changing dramatically.  Afterwards I took the ashes down the hill and got some kindling.
+Wednesday 15
+Huge progress in the Biology area.  This is my first week back from Florida and I am dedicating my time to learning more Biology and trying to drive something forward so that I can go out and look for a job and be able to show something, some work that I have done.  The big breakthrough last night was “finding” pub med central and understanding what it is.  It is a superset of BiomedCentral and the place you want to start for finding journal articles.  Yesterday, I finished my review of all of the review articles in Cell through this date including all of 2011 and the last half of 2010 after leaving Caltech.  But finding PubMed Central has and will take my research I believe to a new level.  It shows me that I do not have to pay Cell, the Magazine every year $223 and rising each year.  Also, huge progress in narrowing down my research area.  I have now decided to focus on pathways.  There are several websites dedicated to these things, and now I can start to look for genes and break them down according to this method.
+Thursday 16
+Big progress now on using the Node sax parser to pull off certain items in the XML file from Uniprot.  The concept of dealing with XML documents using a SAX parser is starting to make a lot more sense.
+Friday 17
+Started working on my resume.  This is good news.  Fantastic walk in the open space.  I am starting to build my rock structures.  The motivator is the mysterious person who keeps tossing my rocks off to the side.  We will see how this develops.  More work on the node sax parser.  Earlier in the week I spoke to Jeff Mankoff and we had a nice talk.
+Saturday 18
+Today we went into town and I hit the bank for starters having got my last check from MileWise upon my return from Florida.  Hb and I had a nice lunch at the Flying Star and I sat there for a long time and read some magazines.  Then we went to old town and walked around.  We met Gus, this old guy who has lived in ABQ his whole life and was very into Indian Jewelery.  We also met a woman from Ecuador who was from Otavalo.  After Old Town we hit the SunFlower and TJ’s and then went home.
+Sunday 19
+Nice day at the winery.  We met Reid Bandeen’s wife Vickie Peck for the first time.  She is a professor of Biology at UNM.  She had a friend there who is a medicine man from Mexico.  It was a very enjoyable afternoon at the winery.  At times it was blustery, cloudy and cold.  We had a nice fire upon our return home as well as watched the movie “The Third Wish”.
+Monday 20
+From here on out I am going to have a separate document called the work log where I will outline future work I am doing.
+Tuesday 21
+Mellow day at home, the spring winds are starting to pick up.  Massive train crash in BA kills 51 and injures more than 600.  This is a tragic event in the modern history of my recently adopted second home Argentina.
+Wednesday 22
+Long talk with Peter early in the day.  In the evening I went for a long walk up and down the hill on the pavement.  Hb went to Santa Fe today and I stayed home.  She made a beautiful pizza for dinner.
+Thursday 23
+First day working on backbone.js
+Friday 24
+Long talk with Diana Stephens.  In the morning I went for my walk past my rock structure on the way up the hill to the mesa top.
+Saturday 25
+Worked on taxes all weekend.
+Sunday 26
+Finished up my taxes.  Went to the library to renew my books then stopped by the Merc for some pork chops.
+Monday 27
+Massive winds all day, they started last night.  Chased down the new location for Bob Egerman.
+Tuesday 28
+Short walks during the day and then Hb and I go for a walk around the block in the evening.
+Wednesday 29
+Make reservations in Flagstaff and Sedona for our upcoming trip. Hb goes into town to get a new hood put on her car.
+
+
+March
+
+
+Thursday 01
+Wrap up prior to our trip tomorrow to Flagstaff and Sedona.
+Friday 02
+Drive to Flagstaff.  Check in at the LaQuinta.  Late lunch at the Oasis Intl Restaurant.  We both had Thai dishes.  Our waitress was very friendly, an older woman who lived down in Phoenix for awhile.  We then walked the town up and down the main streets towards the Medical complex.  It was a beautiful late afternoon and the sun was setting fast.  It was cold but not too cold.  High for the day in Flagstaff was 47 degrees with lows in the teens.  We walked into some galleries and a couple of hopping bars with students.  We got back to our hotel at dark and watched the Tony Bennett special with Lady Gaga, Nora Jones, Katy Lang et al.
+Saturday 03
+I started working at Vitria 15 years ago today.  We had a nice breakfast at MartAnne’s Cafe. We sat at a table at the window and la puerta.  The food was real good and we took home a lot.  Afterwards Hb went to buy a French Press.  The guy in the cooking store was real nice and holds cooking classes.  We learned about cook ware and the finer points of cast iron and stainless steel.  Then we drove out 180 and took a sharp turn right on the road to the ski basin.  We drove back a long way the Natl Forest boundary and saw a house for sale.  After buying gas we crossed the tracks and headed back through NAU.  It is a nice relatively modern campus.  We got back to the hotel and chilled out till check out time at noon.  Then we drove through Oak Creek Canyon.  Our first stop was at the Overlook --- a fantastic view.  We met a Peruvian guy selling long sleeve T shirts that says Sedona, Az.  We also met some Canadian guys who live in LA.  They were camping out in Sedona.  We drove down the switch backs and ate lunch at the National Forest Campground on the right.  Its the first one past the fish hatchery.  We ate our breakfast and I walked around the camp area while Hb fixed the earring she bought from an Indian lady back at the look out.  We arrived at our hotel Sedona Real and I walked up Dry Creek and right on Thunder Mountain.  I found a trail head and hiked up.  I saw all the way across the valley
+towards Cottonwood, Jerome on the hill, and Prescott Valley on the other side of the mountains.  A bit to the north was the camp site Hb and I camped at in Sedona back in the summer autumn of 2002.  Hb arrived after shopping and we did a second round of hiking.  She was happy to have found me, Hb loves me.  We went back to the hotel and then walked over to a super fantastic restaurant called Thai Spice.  I had Miso soup and a cucumber salad on a bed of lettuce.  Hb had a beautiful, delicious green curry dish.  This was some of the best Thai food I have ever eaten.  It was superb.  There is no Thai restaurant in all of NM that even comes close.
+Sunday 04
+I walked up Dry Creek back to the trail head and Hb picked me up at 9:30AM.  We went to have breakfast at the Coffee Pot.  I had pancakes and Hb had eggs, and sausage, coffee.  Unfortunately, the restaurant has gone way down hill.  I read the paper during breakfast and enjoyed the ridicule of Rush Limbaugh regarding calling a college student a bad name.  We then drove out to Cathedral Rock and climbed to the top.  At times it was scary going up but over time we gained more confidence and wellness of being.  The way down was easier.  We moved on to the river at Oak Creek.  We ate some lunch at the parking area and then walked down to the river.  As we walked along the river I saw the loop and it was cool.  The winter fauna and flora was bland and beautiful along the river bottom along with Sedona.  We had a lovely Mexican dinner at Plaza Bonita.  I had been at the restaurant before in Prescott I believe a number of years back.  Seeing across the valley on my first day in Sedona tied together the whole area.  I could see Jerome from Sedona and Sedona from Jerome.  This time of year in Sedona is almost perfect as you walk you are neither too hot or too cold.
+Monday 05
+I ate breakfast at the hotel and then we went over to the Hyatt parking lot and had breakfast at the Wild Flower Bread Co.  We ate here and spent quite a bit of time reading the papers of the day looking over the beautiful red rocks and across the Valley.  The morning wind died down and we headed out to the end of Dry Creek Road.  After turning right  we found our trail head spot.  There was a green Forest service truck parked there.  Prior to that we had drove to the end of the road and discovered a gated community. We parked our car and headed out on the trail.  We knew nothing about this trail.  We were looking for the Long Trail but instead settled on this one by shear serendipity.  It was an excellent choice.  Along the way we met some really nice people.  A couple from Pagosa Springs and two girls from California visiting Sedona.  The trail was very nice and ended up almost at the beginning of another Trail.  If you head up Long Trail and then catch Dead Man’s trail on the way back and then catch the trail we were on coming from the other direction you have a nice big loop.  We should do this next time.  Any way, the trail goes around a large beautiful Sedona style rock structure slash amphitheatre.  It was walking along the edge of the rock cliffs of this structure for a long way.  The day was perfect and Hb lead us back home.  We arrived back at our hotel and then headed out to the shopping area called Tlaquepaque.  Named after the place we went to visit in Mexico on our first journey when we stayed at Casa Flores in Guadalajara.  Afterwards we had a nice dinner at our favorite Thai place in Sedona.  We got to meet the owner.
+Tuesday 06
+Hb and I had breakfast at the hotel and then we drove home.  We arrived back in ABQ at 6PM and went to the SunFlower Market.  See the spreadsheet on the details of our mileage home.
+Wednesday 07
+First windy day back to work.  Just starting to turn the crank.  Hb and I did our bills and she went into town for some medical appointments.  I did kindling work at the end of the day.
+Thursday 08
+Mellow day, windy and not much walking.  Hb learns more about Social Security and how it works.  I talked to Mom and Dad.
+Friday 09
+Got out on a walk early and beat the wind.  Kind of a cloudy rainy snowy day here today.  I arrived back from Argentina one year ago and went to Mom and Dad’s house in Florida until March 23.  I know this because I renewed my annual cell phone plan yesterday, one day before it was due.
+Saturday 10
+Very mellow day at home.  Allergies are bad and in full bloom.  Hb went into town to visit Gabe at the UNM hospital.  He is doing better.
+Sunday 11
+Went for a long walk till the end of the paved road in Placitas via the BLM land.  This is the place where you make a left turn to go to Pam and James house.  Earlier in the day Hb and I had breakfast at the Range.  We saw Marcy and Anne there and Anne choked on her food when we walked up to talk to them.
+Today is the beginning of daylight savings time.
+Monday 12
+Today is Hb’s birthday, we had a good day.  I had a nice long talk with Peter.  We are continuing our research topic of “listening to the silence”.  I came up with this concept of doing this on Saturday, two days ago in the mid afternoon as I was transitioning from work to relax and Peter put some words around it.
+Tuesday 13
+Nice walk on the mesa.  The weather is gorgeous.  For the first time since late autumn set in.  I am wearing shorts.  We walked around the block with George and talked about Chaco as a young puppy and his run in with coyotes.  And since then he has been good around them.
+Wednesday 14
+Watched the movie Billy Elliot, fantastico.
+Thursday 15
+Real nice day with Rand.  Lunch at Weck’s.  Once again I paid for lunch.  Then we went for a walk in the Bosque.  Back to Rand’s house and did the tour of the front and back yard.  Wilda’s house is still for sale.  Then I hit SunFlower and Trader Joe’s.  Got home and went for a long walk up on the mesa.  There was a blue truck as I peaked the summit from the valley.  As they passed, I walked north towards Santa Fe.
+Friday 16
+Started working on streaming and found clarinet over the weekend.
+Saturday 17
+Long walk to the rock structure on the Indian due north of here.  I am learning my way around the BLM land.  As I climbed to the top I saw the horses and they looked at me and I at them.  Got home and buried the horse shit in the back yard in little holes that Hb and I dug.
+Sunday 18
+Awesome poetry reading by Rich Boucher.  Howard McCord was the other poet I loved.
+Monday 19
+It was a cold, snowy, rainy, windy day here.
+Tuesday 20
+Starting to warm up a bit.  Spoke to Mom and Dad.
+Wednesday 21
+Went for a walk right after lunch and talked to Bill Patterson.  Hb and I had chicken for dinner.  After dinner we went for a walk and then I went for another walk up the hill.  It was one of the
+first times doing this since last autumn.
+Thursday 22
+Read a Node book by mixu.net that really describes very clearly control flow in Node.  Hb went to her monthly moon party and I went for a second walk along the pipeline road and back down Orno Creek.  Earlier in the day I met Max who has the horses up on the hill north of here.  He retired at age 59.  Also, had a call with a company called Klout.  Also, got my craigslist engine generating out really nice content based on the reds index.
+Friday 23
+Pretty good day on the work front as I moved the whole craigslist infrastructure code over to a whole new way of grabbing the data.
+Saturday 24
+Nice walk with Angie at the Tamaya.  Prior to that we had an early dinner with her at the Range.  Earlier in the day I got the pictures moved over to picasa.  Google has switched the whole photo sharing gig over to Google+.
+Sunday 25
+Really nice spring Sunday.  Worked outside in the morning hauling branches and horse shit over the hill.  In the early afternoon I went for a walk while Hb had a conference call with Sherrie.  Then we chilled out at home the rest of the day.  I did some archiving of UBA’s Espacios Revista.
+Monday 26
+Finish up the Craigslist project for now.  Spoke to Elizabeth in the evening, she got into Kenyon College.
+Tuesday 27
+Talk with the folks at Game Closure.  Went for a walk with George early in the morning.  Nice walk at the end of the day just at sunset.  At this time of year, it is cold after the sun sets and so I wear my jacket and blue hat, but also shorts.  I got an email from Scott, he is the travails of his comprehensives.  I have been trying to get in touch with him for days now, I am glad he emailed me back and told me what was going on.
+Wednesday 28
+Interview with Michael Carter at Game Closure.  Interview was an absolute disaster.  Earlier in the day I went for a nice walk and Hb and I went for a nice walk at dusk.
+Thursday 29
+Talked with Mom and Dad.  They found out that Leeks is selling the house, too bad.  Also, had a long talk with Peter.
+Friday 30
+Hb goes to the airport.  She was briefly delayed so I called Luke to let him know Hb was finally boarding the plane.  We had a nice chat.  Earlier in the day Hb and I went for a nice walk around the north mesa loop.  I am making HUGE progress on Backbone.js.  This is my first foray into this very cool product.
+Saturday 31
+Backbone all weekend.
+
+
+April
+
+
+Sunday 01
+Hb arrives home safely from Denver and I keep working on Backbone.
+Monday 02
+Fire late in the day as the big killer storm approaches.  Highways across NM were closed.  Taos got 15 inches.  Interview with Jim Panttaja from Voxer.  Talked for about one half hour, he is a nice guy and he is someone probably worth staying in touch with over the long term.
+Tuesday 03
+Snowy rainy cold winter day in NM.  I got a fire going late in the day.
+Wednesday 04
+More work on Backbone.js
+Thursday 05
+Left house at 7:30AM.  Walk before dentist.  Library after dentist.  Lunch with Dan Clark at Thai Vegan.  SunFlower market afterwards for shopping.  Ate some good yogurt covered pretzels, actually too many.
+Friday 06
+Passover at Rand’s house with Bruce, Kathy, Jenny, Sima, Dominic, Rand, and Tessie.  It was beautiful.  Getting together with the family is a lovely thing.  Life has its treasures, and for some reason some of them you just simply missed out on.  I think as I get older I am starting to realize what they are.  In the next life, I will have more of a clue.  Muy bien !
+Saturday 07
+Nancy’s house warming party for dinner with Lou, Angie, and Nina.  Prior to this, Hb and I went for a walk over to Netherwood Park and the UNM Golf Course.
+Sunday 08
+Got some work done early in the morning.  Long talk with Peter followed by work outside followed by Hb going for a first ride on her new bike that she got at Nancy’s house last night.  Watched a kid’s movie in the evening about two sister’s who saved a dairy from financial collapse while their Dad was off in Ecuador.
+Monday 09
+Hb and I went for a bike ride late in the day.
+Tuesday 10
+James comes over in the morning and we hang out till lunch time.  While he was here, the roofer guy Josh stopped by to look at Hb’s closet and the brown spots from the supposed leak.
+Wednesday 11
+Hb goes to get her car fixed in the morning. Late in the day Hb goes for a bike ride and I go for a walk.  First time heading out Cedar Creek and then making the first right turn and heading up the road and continuing on the trail and all the way back around.  This is a really nice walk, and one I have never done before.  It is amazing that I have lived out here about 10 years and I am STILL going on new walks.  Now that says something about the beauty of this place.  At the end of the walk I hooked up with George and Chaco and finished out a nice walk with them.  In the evening, we watched a nice movie about a princess and her prince who she finds living in a big city.  He was the searcher all along but he did not know it.  The official name of the movie is called Princess: A Modern Fairy Tale starring Nora Zehetner.
+Thursday 12
+Nice walk at the end of the day with Hb.  Talked to Mom and Dad in the evening and started looking at Plants.
+Friday 13
+Seal rocks.  His new album came out and I listened to it all day.  Especially a song called “I wish upon a Star”.  This is nice.  Hb and I did our new walk around the big block starting out on Cedar Creek Road and walking South and then west back to Hohokum.
+Saturday 14
+Never left the house today.  My first post to Hacker News in my life on the “51 Most Popular Programming Languages on GitHub”.  I had one comment the first day and now I better understand how HN works.  It was a windy day and as the day came to a close it got cold.  Hb was sick with a cold and a cough.  She watched two movies at the end of the day.
+Sunday 15
+First weekend in a long time that we stayed home all weekend.  We had a fire going all day.  David, the heater guy came over in the morning to recommend replacing our hot water heater and also to add water to our boiler.  We had a nice chicken dinner and I went for a walk around the block after dinner.  We made reservations today for Hb going to Portland.  She spoke to Joan and Prashant and they will be around this summer so Hb can go visit them.  United’s website is cool as it allowed us book a trip from ABQ - DENVER - PORTLAND - ABQ.
+Monday 16
+Transition from winter to summer.  It was a warm and cold day.  In the evening I went for a walk around the block with Hb and I wore my blue winter hat.
+Tuesday 17
+Early in the morning I read a bunch of the blogs from Derick Bailey.  Went into town around 11AM, first to the SunFlower and then to Trader Joe’s and then home by around 2PM.  It was a beautiful day.
+Wednesday 18
+Went into town to take Evan Belknap to get his car.  Then I went to Barnes and Noble to read about Nicaragua.  Then lunch at Saffron Tiger.  Then went for a hike up into the Sandias from the dirt loop road.  Came home and Peter was here.  We had a nice dinner.
+Thursday 19
+Stayed home all day and Josh Cave replaced Hb’s sky lights.  It was a crazy weather day.  Peter drove up to Santa Fe in the morning.
+Friday 20
+Santa Fe all day.  Hb dropped me off on Monte Sol and I walked to the end of Santander.  Then down past Sarah’s old house on to Canyon Road.  Stopped by a gallery, Stephen Boone and talked to him about the creative process.  Then to Gerald Peters Gallery where Abigail Von Schleggel gave me some books on the Taos Artists.  Then lunch with Hb at the La Fonda buffet.  Prior to that I had a nice conversation in Spanish with the man who owns the mexican restaurant across from kami’s old hotel.  Then Hb and I headed up to Black Canyon on the way to the ski basin.  We drove by the SFI, and its ironic that on this day George Cowan died.
+Saturday 21
+Hike in the morning up to the Montezuma Crest with Orin, who is in charge of Las Placitas Association.  Lou a native of NM, and her husband Joel and Trish who I met at Placitas Appreciation Day along with a host of others.  Into town for a late hang out with Hb on the corner of Yale and Silver at Annapurna.  The NM Philharmonic with Rand followed by a final season set of chocolate chip cookies.
+Sunday 22
+Breakfast with Marcy and Anne at the Tamaya followed by Earth Day at the winery.  George was playing with Barb.  We sat outside under the peach tree and read the NYTimes and talked to the local folks who came by.  Hb left and I watch the band called Sue and then walked home via the deep arroyo next to the winery.  Hb had a new moon party in the evening.
+Monday 23
+Peter and I have lunch at the Saffron Tiger.  I meet him at the merc at 11:30AM and we head into town.  Back home via Corrales.  Prior to taking a shower I turned off the heat.  We should be good to around November 1.
+Tuesday 24
+Peter left at 11AM and I did some laundry and got back to work.  The past two days have been very warm.
+Wednesday 25
+Hb and I went for a walk late in the day.  Earlier in the day I looked into alternative options for travelers cheques which are being phased out.
+Thursday 26
+Tanner was born today at 12:39 PM weighing in at 7 pounds 11 ounces.  I spoke to Luke late in the afternoon and he sounded good.  Ashley is doing well tambien.  It got rainy and windy and cold late in the day.  Also, idcc hits 28 after their earnings release so there is starting to be some potential opportunity there.
+Friday 27
+Hb and I went for a walk in the morning and then she had a reading with sherry.  We had a great lunch of sausages.  In the evening we watch “The secret of moonacre”.
+Saturday 28
+Drove into town early and dropped off the computer at the place across the street from Hb’s old car repair shop on the corner of Montano and Edith.  Then dropped off recycle and went over to my house.  Glen and I hung out for awhile and discussed the world situation after a glass of tea.  I worked all day on cleaning out my shed.  I took everything out of the shed on Arcadian Trail and hosed down the whole shed.  I have not done that since before I went to Caltech, and possibly before Diana moved into my house at the end of October 2007.  I moved out at that time and moved into Hb’s house for the month of November and December 2007.  Then we went to Ecuador on January 11, 2008 and Pam Dunbar drove us to the airport.  Upon my arrival back from Ecuador on April 1, 2008 I moved into Hb’s house and moved out in mid October 2008.  So, it is not clear when the shed was last hosed out but if its the summer of 2007 and we are now close to the summer of 2012 then it has been FIVE years since the shed was hosed out properly.  Luckily, I was able to take a lot of the stuff across the street to my neighbors.  They were happy to have my stuff and I was happy not to have to take stuff over to the Thrift Store.  They acted as my Thrift store and I gave them some good stuff.  I took many, many big and small boxes to recycle.  So, the shed is very cleaned out.  At the end of the day I did two more trips to the recycle and then stopped by SunFlower Market to do some shopping before going home.  It was a full, interesting day at my house and Glen made my day full and exciting.
+Sunday 29
+Great day of bike riding with Glen Larson at Diana’s house.  We rode from his house down to Tingley Park.  Got home around 4PM and stopped by the Merc to pick up some hamburger.
+Monday 30
+Walk around the block late in the day.  Extremely tired from a very full weekend.
+
+
+May
+
+
+Tuesday 01
+Talked to Iris.
+Wednesday 02
+Hb and I worked outside in the morning hauling stuff over the hill.  Then I went for a nice long walk.  Hb got her tooth filled in the afternoon.
+Thursday 03
+James came over mid day to give Hb an estimate for painting her closet after the roof guys put in the new sky lights.  He hung out here for 3 hours and we shot the shit.  He is now officially moved out of Pam’s house and living in town at Genies’.
+Friday 04
+Mellow day at home.  Hb went into town to go for a bike ride with Anne and then hung out with Jim Palmer.  He recently inherited a house in the north valley with property taxes of 9k per year.  It was his aunt who died and she was 97.
+Saturday 05
+Spoke to David Friedman today for his birthday.  Cleaned the house in the morning.  We had Attilio, Ana Maria, and Analisa over for dinner at 5PM.  We had Thai food.  We went for a walk after dinner.  Attilio was just in Peru for a week and Ana Maria is going to see her mom for one month.
+Sunday 06
+Breakfast buffet at the Tamaya.  We read the local ABQ Journal.  Afterwards we went to Walmart to pick up some camping gear for our trip next week.
+Monday 07
+More wind than I have ever seen, never left the house.
+Tuesday 08
+Great talk with Jim Sigman, he is going to Scotland this summer and went to the final four with John Goldberg in New Orleans.  He had dinner at Mosca’s.
+Wednesday 09
+Hb went into town and I went for a nice walk at mid day.  No more progress with the 1st Dave Harper house however I did watch a well getting drilled adjacent to the horses.  Bob and Margie got crunched black top for their drive way area and Ty and Barb had the well company over for a meeting.
+Thursday 10
+Started looking into potential camping spots for next week.  This was Hb’s final day of work.
+Friday 11
+Big final day of work before my week long vacation.
+Saturday 12
+Placitas Studio Tour Day 1, gorgeous day.
+Sunday 13
+Placitas Studio Tour Day 2, cloudy chilly day but lovely.  Started out at Reid and Vickie’s house then proceeded up the road to Jon and Nancy’s.  They are the one with the pond.
+Monday 14
+Into town for groceries, going camping tomorrow.  Had a very nice breakfas at the Flying Star.  We had a fun day.  Hung out with Glen and Diana for a couple of hours.  Diana got back from Italy last evening.  The neighbors across the street moved out. By the way that is good news.
+Tuesday 15
+Drive to Pagosa, checked out road one 3 miles west of chromo and found our campsite on the Blanco River Road and set up camp.  We walked down to the main road to get a sense of where we are at.
+Wednesday 16
+Long hike to the end of the road.  Dinner when we got home then we had a nap.  In the evening, we walked back up the hill to the meadow.
+Thursday 17
+We had breakfast in town at the Rose.  We met a real estate guy per usual on our trips.  Then we did a hot tub at the Springs Resort.  It was a nice day and we sat outside.  Then we rode around the downtown area.  We had a nice lunch at the park underneath the bridge on the river.  Then we drove all the way out to the end of Piedra Road and came back on North Pagasa Springs.  We were back at our campsite at 4PM.  In the evening we walked once again to the meadow.
+Friday 18
+We went home through Chama and stopped at the National Forest or State land just before going over the Heron Lake dam.  We had a nice little snack of chips and went for a short walk.  Then we drove to Cuba and had lunch at Bruno’s.  Got home around 5PM.
+Saturday 19
+Talked to Peter while he was at the Farmer’s Market early in the morning.  Started doing some work.  Got my first day of work under my belt.  Hb went to dinner and a movie with Angie after getting a massage from Diana.  I went for a walk around the block at sunset.  I had a nice day after a really nice camping trip.
+Sunday 20
+Went up to Santa Fe early in the day.  We went shopping and then went to George Cowan’s memorial at the La Fonda Hotel.  I hung out with Ginger, Jan Hauser, and Sam Bowles.  Afterwards we drove home and Michael Enoch came over and we watched the annular eclipse from the top of the hill along with Tom and Judy.  Then Michael came back here and we hung out and then we went over to his house for dessert.  Hb was there along with Cherie and the girls group.
+Monday 21
+Back to work after a week off for a great camping trip.  Got my poems together for Sharon.
+Tuesday 22
+Washed my sheets and did more work.
+Wednesday 23
+James comes over to work on the house.  We hang out after he is done working outside and shot the shit for awhile. Hb went into town all day for errands.
+Thursday 24
+Hb and I go for a walk after dark.  This our second night in a row doing this.  Summer is here as I am going in shorts and T shirt for a walk around the block and it is pitch dark with tons of stars.
+Friday 25
+Gabe and Malaya come out to the house around 3PM on Friday.  Malaya and I go for a walk around 7PM.
+Saturday 26
+Work pretty much all day.  In the late afternoon Malaya and I went for a bike ride.  Hb bought Gabe and Malaya new bikes at Walmart.  David put in a new hot water heater today at the house.  In the evening Malaya and I were going to go for another walk but the smoke rolled in too thickly from a fire in Mogollon in the Gila.  Hb and I were going to go camping in that area last week instead of going to the San Juan National Forest but we decided to go north as it is too hot down there this time of year.
+Sunday 27
+Hb and I went for an early morning walk on the mesa.  I worked all day today.
+Monday 28
+Early morning walk with Malaya and Hb.  Saw George and Chaco towards the end of the walk so we went for another walk.  George told me about his trip to North Carolina.  I worked all day and around 5PM just as Michele and the kids drove up I finished my work for the weekend.  I was successful in getting things going and I am really starting to understand Marionette and Backbone.  I am going for a big walk now.
+Tuesday 29
+Sort of a bit mellower day at home.  At 3PM I headed into town and stopped by the SunFlower Market to get some water.  Then headed over close to Rand’s to go for a walk in his open space.  The afternoon was perfect, the temp was perfect and I was happy.  Got to Rand’s house and had a Sierra Nevada, talked to Sima’s new boyfriend Ben who I met for the first time and hung out with Ken and Julie.  We had a nice BBQ outside of chicken, fish and my salad.  I drove home just at dusk and was settled into moving on to the next release of this universal journey.
+Wednesday 30
+James came over to paint Hb’s closet and also take the antenna down from the chimney.  This is great news.  I was happy to see that go.  Late in the day I went for a walk and then swung around and picked up Hb and we went for a walk around the block.  It is summer time big time in north central NM and the temps as June arrives are hovering just around 90.
+Thursday 31
+Ubnt bounces a bit on an upgrade.  This story continues to get more interesting and scary all in the same breath.  Yesterday it hit $16.99.  Note in here, there are not too many times I mention prices unless it is really worthy.
+
+
+June
+
+
+Friday 01
+Dinner at Mike and Megan’s with Jimmy, a farmer in the south valley.  Hb went to Santa Fe for the day to hang out with Lisa and I made banana bread which turned out to be real yummy.
+Saturday 02
+Hb is working this weekend so I am staying home and working.  It was kind of a cloudy day.  For some reason Saturdays have a different vibe.  Its kind of cool, and I had a nice day.  I made a nice broccoli dish and wrote a couple of short notes for folks whose house we went to dinner this week including Rand and Mike Goss.  I enjoyed writing Mike Goss’s note en espanol.
+Sunday 03
+Early morning walk around the bigger block.  Worked all day as Hb was working this weekend as well.  My Jobs code is up and running on Github !  Elizabeth graduated from Winchester today.
+Monday 04
+Hb and I cleaned the house all day and at the end of the day Hb gave me a haircut.  It was kind of a cloudy, rainy, chilly day here.  In the morning Hb cleaned the carpets, and we moved everything out of my room, and everything out of Hb’s room except her bed.  It started out as a big ordeal but ended up a good thing.  I got a bit of work done today too.
+Tuesday 05
+Went into town to get my coolant flushed in my car.  Turned out I got 2 new hoses as well.  So, my coolant system is up and running.  Walked up to the new park between Louisiana and Wyoming south of the Toyota dealership.  I had never walked south before, always walked north and east but they were doing construction so I got an opportunity for a new walk.  Afterwards I went to Trader Joe’s and the SunFlower Market and then went home.
+Wednesday 06
+Starting to spend more time listening to lectures from Berkeley on Biology.  Currently on archaea and the symbiotic principle explaining how mitochondria and chloroplasts got into Eukaryotes.  Very interesting.  Also, the story of why the planet is not covered in wood.  And at a time when the Fungi broke down there was lots of extra wood and that is where are coal and oil deposits come from today.
+Thursday 07
+Finished up the jobs project (for now) and then went for a long walk up on the mesa.  Its been quite a while since I have done my walk.  It was at about 9:30AM and it was not quite hot yet.
+Friday 08
+Walk late in the day.  Saw George and Cherie with Chaco.
+Saturday 09
+Flea market with Hb.  It was a great day.  I met Juan, the guy who sold plants.  Hb sold a lot of stuff.  We, also, sold our old vacuum cleaner and the old printer for $20.  Afterwards we went to Vickie Peck’s talk at the library on Ecuador and NM and the Hadley cycle.  It was here that Reid Bandeen told me once again about William deBuys book and the “Great Aridness”.
+Sunday 10
+Hb and I went into Bernalillo for lunch at the Range followed by a poetry reading at the winery with Michael C Ford.  He knew Lois and we enjoyed the reading.
+Monday 11
+Walk early in the morning.  Did a big loop through the Open Space.  Moving on to some new work with Twitter.
+Tuesday 12
+Another early morning walk up on the mesa.  Day 2 of looking for jobs.  This is going to take a while.  I might of should have started this process earlier BUT I was having too much fun.
+Wednesday 13
+Nice mellow day at home with Hb.  We both had a very nice day.  I went for a long walk early in the morning and Hb and I went for a nice walk in the evening at sunset.
+Thursday 14
+Hb dropped me off on Juniper Road and I walked down it for the first time in my life.  Ruby, Ruby on Rails, is officially up and running on my macbook.
+Friday 15
+Final day before going down to Silver City.  Mellow day did some packing.  Started looking at ROR for Backbone.
+Saturday June 16
+Drop Hb off at the airport at 8am and then drive to Silver City via the Bosque del Apache.  Gorgeous drive.  Gas in TorC.  It rained going over the mountains.  Arrive Silver City and do my shopping round.  Got to Peter’s around 2PM.  
+Sunday June 17
+Early morning hike from Bear Creek Lodge back to Peter’s via the secret canyon near Peter’s house.  Lunch with Andy back at the Bear Creek Lodge.  Hang out in the backyard of 5 Jasper.
+Monday June 18
+Work on the farm all morning.  Greg and Jean were there as volunteers.  Afterwards I walked home via Langstroth and ran into a very tight barbed wire fence.  Finally I found a way out.  Then I went and bought some food and came back and chilled out in the afternoon.  Peter and I had a nice dinner of cucumber salad.  Steff is out of town with Aidan in Colorado.
+Tuesday June 19
+Andy and I went on a long walk on Meadow Creek Road out in the Gila.  Its the road past Signal Peak Road about 1 or 2 miles.  We walked up a long creek bed, Meadow Creek due east.  It shows on the map we would run into Hwy 35.
+Wed June 20
+Peter and I went over to the farm south of town in the morning and met Genoveve.  The owner of the farm also owns the Murray Hotel with no AC.  Afterwards Peter and I had lunch at the Kumquat.  Then late in the day I walked over to Naava's and saw Annie and Alegre.
+Thur June 21
+Andy and I walked from the house up the arroyo on 5 Jasper.  We walked into the Natl Forest.  It was a very hot day.  I went for a walk late in the afternoon and then Peter and I had dinner.  We went over to Robert Scavron's house in the evening and two of his other friends were there.  I also talked to his son Eli for about one hour.
+Friday June 22
+Worked on the farm in the morning with 3 older folks who moved to Silver City about one year ago from eastern Washington called the Tri-cities.  Walked home across field over to Cottage San and the big ditch.  This is the normal way I walk.  In the afternoon I did some work on the breakthrough I had this week with Google Finance where I am now better understanding the way to search for companies via industry groups.  Short walk in the evening prior to taking a shower and packing up my car.
+Saturday June 23
+Left Peter’s at 4:45AM and was at I25 exactly two hours later.  I hit the mountains just at sunrise and listened to Aaron Neville. Then two more hours to ABQ.  Came in via the South Valley and stopped off at the Farmer’s Market downtown.  Then the Hi-Lo market for Carne Adovada, then tortillas at the Mexican grocery store, then gas and then home.  Stopped at the merc to buy some bananas.  In the afternoon I started working again.
+Sunday 24
+Nice mellow day at home.  Went for a walk up on the north mesa early in the morning, left the house at 6:30AM.  It was around 100 today.  Spoke to Tom and Ines.  Also, had a nice chat with Peter about his second set of interns.  Just a catch up talk after seeing him for a week.  He is heading off in a week to go up to Corvalis via LA.  Spoke to Mom and Dad in the evening.  All in all a nice full first day back home after a week long trip in Silver City.
+Monday 25
+Leave the house at around 3PM.  Go into town and stop by the SunFlower Market for one cooler worth of food.  Then head on over to Mesa del Sol.  It was my first time there, it is like a ghost town out there.  Then headed over to the cell phone waiting area.  Hb arrived early and I picked her up at 5:30PM and we drove home.  It is about 95 degrees and HOT !
+Tuesday 26
+Mellow day with my early morning walk.
+Wednesday 27
+Early morning walk Day 2.  Went over to Ty and Barb’s house in the evening.  Barb was finishing up a stained glass window for an Italian restaurant in Mt. Lebanon and Ty wrote a story on the collapse of the Mariposa subdivision in northern Rio Rancho.  Also, I discovered tunein.com which allows me to start listening to radio stations all over Latin America.
+Thursday 28
+Hb and I went for a walk at dusk.  Again, it is summer, and I like it.  Earlier in the day Hb dropped me off on her way to work and I did Day 3 of my walk back to her house from the road where Jasper starts.
+Friday 29
+Woke up and sent a second note for his birthday today and Cc:d Berk on the matter.
+Saturday 30
+Final day of first half.  Moving to the second half tomorrow.  Went to the Farmer’s Market in the morning and then had lunch with Marcy and Anne at the Gold Street Cafe downtown.  Afterwards we went to Trader Joe’s.  Came home and Barb and Ty had us over to check out her new stained glass window that will be going into an Italian restaurant in Mt. Lebanon of all places. Barb’s son from her first marriage lives and works at the restaurant.  She was married to the voice of the Penguins.  I made a banana bread late in the afternoon.
+
+
+July
+
+
+Sunday 01
+Real nice day at Sue’s house for lunch.  We cleaned house in the morning.  After lunch at Sue’s we drove out to Carnuel and saw her old house.  She just put her house in Carnuel on the market.  While we were out there it rained for the first time in Abq this summer.  This is very good news !  Happy part II of 2012 as well.  This is a clean slate for the second half of the year.  Spoke to Peter earlier in the day.  He is heading out on his month long adventure to LA, the Bay Area and Oregon.
+Monday 02
+Talked to Ian in Argentina.  It rained tonight for the first time in months.  We are finally into the monsoonal flow of life.  This is great news !  Spoke to Mom and Dad in the evening.
+Tuesday 03
+Mellow day before the 4th.
+Wednesday 04
+Rand arrived in a tizzy.  We had to change his flat tire.  Then we went for a walk and had a nice lunch.  Sue was here as well.  Todo bien.  The remainder of the day after everyone left was mellow.
+Thursday 05
+Long talk with Iris and David after a nice morning walk on Jasper.  Today was the first “autumn” day in NM.  It was cloudy and chilly all day.  Hb and I went for a walk at dusk and it was lovely.  Wow, the weather here in NM is really nice when it wants to be.
+Friday 06
+This is the day I spoke to Zeke on the phone and agreed to go up to Santa Fe on Tuesday July 10.  In the evening I started panicking because the whole concept of going up to Santa Fe multiple days per week does not resonate with me.  It was then, as the sun was setting in the west that I started to realize I had to search Craigslist for only Telecommute jobs.  Prior to that I was sending out resumes to folks who were not telecommute jobs and that was really not that smart.
+Saturday 07
+Great day in Santa Fe.  It rained pretty much the whole time we were there.  We started out at the Farmer’s Market and I bought some bread and Hb got her coffee and gluten free pastries.  From there we walked around town some.  We stopped off at the El Dorado while it was raining and drank some water.  We then walked back to the Monroe gallery and they had done a piece on Human Rights recently with the Arab Spring and over the past 50 years.  We then had the buffet lunch at the La Fonda and then came home.  It rained the whole way home.
+Sunday 08
+I got up early in the morning and wrote a note to Zeke saying I was not interested in a telecommute job but I did not send it.  For some reason, it is important that I go up to Santa Fe on the train on Tuesday and meet with him.  Hb and I had lunch at the Tamaya and then hung out at the pool all afternoon.  I went down the slide and had a blast.
+Monday 09
+9am call with Lauren in Costa Rica followed by some work on Ruby.
+Tuesday 10
+Santa Fe all day talking to Zeke, Cliff, and Paul at JackRabbit Systems.  Finished the meeting after lunch at Il Vicinio and walked around town.  It was raining at first so I hung out in the El Dorado.  Michele and I hung out there in Saturday as well.  The hotel is dead with not a soul.  Walked through the NM capitol building.  Amazing place, not one person either.  Not one.  WOW.   Then over to Dave’s old house.  Can not even remember who lived there with him.  Then back to the rail yard and met a woman from the ACLU raising money.  The hopped on the train for the ride back to ABQ.  It was my first time on the train today and I loved it.  When I got home at around 6PM, I sent off my rejection of Zeke’s offer and then went for a long walk up on the mesa taking it all in and praying.
+Wednesday 11
+The summer weather has turned absolutely magnificent.  We will have another hot spell.  But the worst of it is over and now we have to appreciate this gorgeous weather.  Long talk today with Tim Frazer at FoodyDirect.  This guy is cool.  Call him later and touch base with him.  Went for a walk after speaking to him at noon.  I saw Bill Patterson and we wrapped for a second.  Then out into the open space.  It was another cloudy day in central NM.
+Thursday 12
+Today is Scott’s birthday.  I had a call with Michael who is the co-founder of Spinnakr.  This was my first call ever talking to Michael.  After his call I went for a walk up on the north mesa.  It rained very hard at dinner time.  Hb was driving home, she is lucky she made it.  It is the hardest rain I have seen since being back from BA.
+Friday 13
+After a beautiful rain last night I worked outside this morning pulling some weeds.  At 5PM we went over to the library for Jade’s Art opening.  Tom and she had just got back from Mexico City.  It was her first time back to her mother country in 12 years.  Michele and I met Jade back in 2006 when she was a waitress at the Range.  Tom is partners with Neal Copperman and together they do Globalquerque.
+Saturday 14
+Went up to Santa Fe and hit the farmer’s market.  Then we went to Hb’s new gluten free bakery on the corner of Cerillos and San Felipe.  Then we had lunch at Piccolinos which was recommended by Zeke at JackRabbit Systems.  It was our first time there and we had a really nice salad.  Afterwards we headed over to Scott’s house for his birthday which was two days ago.  We got there around 2PM and no one showed up till 6PM.  Scott and I went for a short walk with the talk and he and I partied a bit as well.  The people who came were all from France and the core person was Katherine who is friends with Kathy.  One of the folks there by the name of Michael was very interesting.  He told me about living in England during the time of Maggie Thatcher and what it was like.  It was in reference to me telling him that I saw the movie Iron Lady.
+Sunday 15
+Lavender festival with Nancy, Angie, Rand and Tessie.  We met for breakfast at the new restaurant Farm Table there on 4th Street.  They have a farm behind the restaurant.  It was an absolutely perfect morning and the sun was shaded at our table.  Afterwards we went and parked at Sima’s elementary school and Nancy and Angie walked with us over to the festival.  It was not as good as the old Lavender festivals on the Los Poblanos farm, but it was nice.  Afterwards we sat inside the community garden on some little benches at the Open Space near Rand’s house.
+Monday 16
+Had a talk with the Spinnakr folks, spoke to Adam and Michael was on the line.
+Tuesday 17
+Got my references in order for Spinnakr.  Did my Jasper walk, it continues to feed my soul.  Spoke to Dad for his 80th birthday.  Hb and I went for a walk in the evening.
+Wednesday 18
+Hb goes to her drumming circle in the evening and I go for a late evening walk.
+Thursday 19
+mellow day at home more work on Twitter and got an email at the end of the day from Michael.
+Friday 20
+finish up round one of the twitter project.
+Saturday 21
+hb and I went into town to the Farmer’s Market.  first we had breakfast with Diana Martin at Flying Star and then we went shopping.
+Sunday 22
+mellow day at home.  we watched the movie amador that took place in spain of a young woman who kept a dead father in her room so she could continue to get paid.  around 7PM Hb and I went for a nice walk in the village and found a new street, then we went over to diamond tail for a nice walk as it was getting dark.  the weekend ended on a very good note.
+Monday 23
+Another beautiful summer day.  It was cloudy most of the day and at the very end of the day the western skies opened up just as the sun set.  Summer is a beautiful time of year around here.
+Tuesday 24
+Spoke to Mom and Dad early in the morning.  They are at the Greenbrier.  I made banana bread at 8AM and it was done and out of the oven by 9:30 AM.
+Wednesday 25
+Wrote a poem to Kathabela late in the evening after watching Mystic Pizza.  Julia Roberts early movie and Matt Damon’s first movie with one line.  The universe is re-aligning back in my direction.
+Thursday 26
+I got the job today, spoke with Michael at 6PM and it is a done deal.  Our second massive rain of the summer.  We got over an inch of rain in probably less than one hour.  It was exactly two weeks ago today that I had my first call with Michael at Spinnakr.  And coincidentally, it was also on that day that we got a GIANT first rain.  So the rains and my life are very much in sync.  Strange, but good.
+Friday 27
+Paperwork stuff for Spinnakr.  Also, spoke to Mom on her birthday.  First Facebook earnings call in the history of their company and Zuck was on the call.
+Saturday 28
+Flea market in the morning hanging out with Juan until about 11AM.  Then Hb dropped me off and I walked home from the start of Hohokum.  Jim’s party and met Ravi Shankar.  It was a fine day and Hb and I enjoyed spending time with Jim Palmer, Quinn, Rebecca and his whole entire family.  We were the first ones there at 2PM and the last ones to leave at dusk.
+Sunday 29
+Hike all day up in the Sanda Mountains on the 10K trail.  It was my first time hiking up at the Crest.  We had a great day.
+Monday 30
+First day of work at Spinnakr.
+Tuesday 31
+Long talk with Peter, he got back from Oregon yesterday afternoon.  First time he mentions the fact that he may be moving to Corvallis permanently. 
+We had a nice walk with George late in the day.  He was walking Chaco and he let him off the leash even though it was not night time.  He ended up being held by the two little girls at the end of the street.
+
+
+August
+
+
+Wednesday 01
+Actually had a pretty nice day.  Did my first commit to Github for Spinnakr and then headed off and got my vehicle registration for 2 years at the Bernalillo DMV.   In the future this is not the place to go as they charge an extra $5 plus I had to wait at least 50 minutes to get service.  Then I headed over to Walmart to get my oil changed and stopped by the bank to get some cash for our trip to Denver later in the month.  The bank does not close till 5PM and it was about 4:50PM so I took advantage of the opportunity.
+Thursday 02
+Hb dropped me off at her customers off of Juniper on Camino Alto and then I walked over to the water towers, down the hill into the arroyo with all of these very cool rock sculptures.  It seems to rain on Thursdays.  We had a GIGANTIC thunderstorm after Hb and I went to bed.  It was very nice.
+Friday 03
+Hb had her reading at 11AM and I went for a walk up on the north mesa.
+Saturday 04
+Nice day at Santa Domingo pueblo.  Dances are always on August 4.  Then the Range for lunch with Nancy and Larry, then into town to hear Robert Mirabel on the plaza.  I saw my old friend who cut down my tree in the front yard.  I had a long talk in Spanish with him.  We went to SunFlower Market and then went home.  They are being bought out by Sprouts.
+Sunday 05
+Mellow day at home.  Went for a long walk in Apache Canyon.  Nancy came over for dinner and we went over to Michele’s patients house Chris as Nancy was interested in buy a bike.  He lives up on top of the ridge overlooking the village of Placitas.
+Monday 06
+Mellow day at home.
+Tuesday 07
+Got some rain at dark.  Walk late afternoon.
+Wednesday 08
+Hb home, we made the bed for Nina who is coming tomorrow.  Early morning walk.  Walked around twice just at sunrise.
+Thursday 09
+Went to work with Hb and she dropped me off on the short walk.  Nina arrived today from Austin via her cousins in ABQ.
+Friday 10
+Hb and Nina went to have lunch with Sue and her grandson Alex at the Tamaya.  Then Hb went to see a movie.  I am going to see the movie tomorrow.
+Saturday 11
+Got up early and worked and was done with work at 8AM.  I am taking the rest of the weekend off.  This is a good thing.  I went into town and watched the movie ‘Hope Springs’ with Merril Streep.  She and her husband go to see a therapist in a town in Maine.  Afterwards I went to Rand’s house for dinner with Gary, of Gary and Valerie fame.
+Sunday 12
+Found a place to stay in La Veta for next weekend.  Nina leaves at noon.  The rest of the day we stayed home and mellowed out.
+Monday 13
+back to work.  walk in morning down Jasper, have not been over there in awhile.
+Tuesday 14
+spoke to Michael.
+Wednesday 15
+Went for a walk in the evening and saw Susan Gutt.  They have bought a kayak and are going all over the local waterways.
+Thursday 16
+Final full day of work prior to starting my vacation.
+Friday 17
+Finish up work in the morning and ship off a note to Michael.  Hike in the early afternoon.
+Saturday 18
+Met Marvin at the Gallery opening in La Veta.  Lunch in Taos at the Dragon Fly.  Taos - Ft. Garland 80 miles, Ft. Garland - La Veta 40 miles. Spanish Peaks Inn with Tracy Webb and Bill Stark is a very nice place.
+Sunday 19
+Breakfast with Bill and Tracy, walk around town.  West Spanish peak trailhead, Hwy 12 past Cuchara to the top of the pass, then left turn to the top of the pass.  picnic tables, camping, daily fee.  hike out to the west spanish peak.  Dinner in Cuchara at the Dog Bar.  walk around cuchara, then drive back to town and drive out the other valley to the Natl forest trailhead.  This valley is protected somewhat by the Nature Conservancy according to Bill Stark.
+Monday 20
+Hb visits Robin at her house.  I went for a short walk.  Breakfast with Bill and Tracy and then drive to C Springs.  Lunch at the Nepal restaurant and walk around the restaurant which is downtown C Springs.  Then out to Old Colorado city and met the owner Mike of the Native american store.  Walk around Manitou Springs
+Tuesday 21
+Breakfast at the B&B and chill out.  The place was called the Avenue Hotel.  We do not need to stay here again in downtown Manitou Springs.  Drive the back road to Denver @105 Hwy to 85 to C470.  SunFlower Market for food for the week.  We cooked sausages on the grill and ate outside.  afterwards we took Tanner and the dogs for a walk around the hood.
+Wednesday 22
+car dealerships and then lunch with Anne, Jerry, and Ben @ Wash Park Grille and stayed there till 4pm.  short bike ride back at home.  Talk to M&D on my cell phone, dad shot a 100.
+Thursday 23
+Walk to Natl Wildlife Refuge in the morning with the dogs.  watched two movies, Sarah Palin and Benny & Joon with Johnny Depp.  At Jim’s house I saw Samuel.  Jim had gone to Scotland earlier in the summer.  Thai Food with Jim for dinner on Leetsdale.
+Friday 24
+Drive to Boulder.  Luke showed us around the new BioTechnology Building that he built.  We had a nice Mediterranean lunch with Luke.  Afterwards we walked around Boulder.  Up Pearl street to the end then back down Spruce.  We went to Goodwill and bought some books.  We picked up a chicken on the way home at the SunFlower and Luke baked a chicken on his rotisserie. 
+Saturday 25
+Up at 6am.  Lv at 6:40AM.  Pueblo Daily Grind. arrive Raton at noon, then Whole Foods Santa Fe for an early dinner.  Elizabeth heads off to college at Kenyon.
+Sunday 26
+Farmer’s Market in Corrales, Trader Joes, and SunFlower Market.  Mellow afternoon at home.  Met Maynard in the evening out on the road.
+Monday 27
+work all day.  talked to Peter in the late morning.  walk at dusk.
+Tuesday 28
+Walk with cherie and chaco after a long walk around the block.
+Wednesday 29
+Walk around the big block at sunset.  Hb was worried we would not make it back by dark as we crossed the arroyo.  On our walk we saw the people who were moving out with a big Hertz truck.  They were moving to Portland, Oregon and they were leaving to drive to Farmington at dusk.
+Thursday 30
+Nice long walk with a full moon after dark.  Saw Ty and Barb and we are taking care of their doggies this weekend.
+Friday 31
+Hb goes to Santa Fe with Angie.  I made my plane reservation to go home in late October.  I got my picture on the cover of a web site based in Washington, DC.
+
+
+September
+
+
+Saturday 01
+Rand’s all day.  Lunch at Flying Star, walk at the open space on rio grande and alameda followed by fruit picking there of apples.  chess in the afternoon at rand’s followed by dinner at their house.
+Sunday 02
+Corralles Farmer’s Market,  we bought a new TV at Costco and then went to SunFlower.  In the evening we picked fruit at Mary Gregg’s in the village of Placitas.
+Monday 03
+Drive to Madrid in the morning.  Pick up some free books on the grocery store porch.  In the evening we went to Loreal’s with Byron, Nancy and Peter.
+Tuesday 04
+Weeding in the morning including the trail across the arroyo.  Pick Hb up in town as her car breaks down.
+Wednesday 05
+Walk down Jasper in the morning, Hb drops me off.
+Thursday 06
+Got a cord of wood for $222 and had a propane fill up.  Propane prices dropped to $2.00 down from $2.59.  Started stacking some wood in the early evening.  Saw George and we talked for awhile about his new roof that they are putting on.  It is costing them 14K for his new roof.  Before dinner I walked out to the end of the road past the mailboxes.  I love that walk at that time of day.
+Friday 07
+Work all day until late in the evening.
+Saturday 08
+I went to the library in the afternoon and spoke to Gary, from the poet group, Tony Hull who I met for the first time and Bob who was sponsoring the Placitas History project.  He lives in Cedar Creek on Sinagua.
+Sunday 09
+Santa Fe.  We walked up Upper Canyon Road and back.  We had a nice lunch at the La Fonda and walked around the plaza for the Fiesta.  It was a gorgeous early autumn day in SF.
+Monday 10
+Made an appointment to talk to Jan Stone and Hb was happy.  Also, we are getting new regulators on our propane system.
+Tuesday 11
+Mellow day.  spoke to mom in the evening, she just finished her cataract surgery a week back.  Elizabeth is up and running at Kenyon.
+Wednesday 12
+Hb went to the dentist and to Costco to get new tires.  It was a rainy, chilly, cloudy autumn day in central NM.  Hb went to belly dancing in the evening.  It was her first class at Dawn’s house.
+Thursday 13
+Woke up, day 2 of clouds and rain and chilly.  You will not dare see me moving to Corvallis or any other spot in Oregon.
+Friday 14
+Walk at the end of the day twice around the block.  Nice day at home with Hb.  We started watching the made for television series Once Upon a Time and watched 4 episodes today.  The first 2 episodes were fantastic.  Spawning part 2 of my epiphany of why I am here in on Planet Earth.  Part 1 occurred on Saturday August 11 when I went to see the movie Hope Springs.  Subsequently we went to Denver to visit Luke were things unfolded even more when we climbed the Spanish Peaks in La Veta, Co.
+Saturday 15
+Marcy and Anne for dinner.  Earlier in the day we went to the Los Ranchos Farmer’s Market followed by stopping by Diana’s house.  I walked down the street and talked to Paul for awhile and met his two daughters.  I saw his wife Deb at the end of our get together.  We stopped by Trader Joe’s on the way home to get some food for Marcy and Anne.
+Sunday 16
+I walked over to the poetry reading at the winery.  Walked through the massive deep canyon that divides Las Huertas and the winery.  There must be some wild animals down in there as it is pretty wild for NM.
+Monday 17
+My first meeting with Jan Stone.  She was pretty cool.  Afterwards I went to the SunFlower Market to pick up some minor food.
+Tuesday 18
+Talked to Mom and Dad.  Mother has to still deal with her cataract surgery part II.
+Wednesday 19
+Walk in the morning and water outside.  Made some pear applesauce.  In the evening Hb went to belly dancing and I finished stacking up the cord of wood along with moving the wood chips from the stack over to the compost pile.
+Thursday 20
+Andy arrived mid afternoon and we hung out and chatted for awhile.  Then I did some work and he took a nap.  I made a nice dinner of cucumber salad.  We had tons of cucumbers from the Farmer’s Market a couple of weeks back.  After dinner Andy, Hb and I went for a walk around the block.  Andy and I did a second loop.  Afterwards we were hanging out at the end of the driveway shooting the shit when a sheriff drove by.  I can count on my one finger how many times that has happened.  He didn’t stop to ask us any questions but it was kind of bizarre.  We thought it would probably have been Ty and Barb.
+Friday 21
+Worked all day and then went to Globalquerque with Hb and Andy.  Met Rand for dinner.  Saw Seth Hoffman and some other folks from Nahalat Shalom and also Philip Clark and his girlfriend Pam.
+Saturday 22
+I walked at least 7 miles today.  Breakfast at the Range with Andy after the Flea Market.  Then Hb dropped me off and at the “top of the hill” and I walked for the first time on the other side of the winery up against the Overlook hillside.  Very interesting topography.  I had to skirt around the house at the mouth of the canyon.  Then continued to walk till dusk from 2PM.
+Sunday 23
+Great day in Santa Fe at the Renaissance Fair at Las Golindrinas.  Superb autumn day hanging out in La Cienega.  It was the perfect spot, with good food, drink, and people.  One of our best days of the year.
+Monday 24
+Andy goes up to Santa Fe to visit Arturo.  We go for a walk around the block twice after dark.
+Tuesday 25
+Andy leaves after breakfast.  We got some rain today.  I did my laundry. Late in the day around early evening I dive back into Biology.  I clearly have not thought or looked at this stuff since I started working at Spinnakr way back on July 30.  This is VERY good news to be back into this stuff.
+Wednesday 26
+Post office in the early afternoon to mail off a health insurance form for Spinnakr.  Hb worked this afternoon.  Set up my account on NCBI PubMed.  This is great news, as I am back into the Biology realm.  Now that winter is coming on I need more stuff to do indoors and Biology is a great outlet for intellectual curiosities.  Hb and I went for a walk around the block in the evening.  Earlier in the day we made some chicken soup. 
+Thursday 27
+Two walks today.  One prior to speaking to Michael at 9AM.  I walked around the block twice.  Then after his call I went for my north mesa walk.  Today I made some beet greens along with beet drink and apples which are left over from when Rand and I picked them at the Open Space on Rio Grande and Alameda a couple of weeks back Rand and I had lunch at the Flying Star and then we went to the Open Space.  I had a nice talk with Dad in the mid afternoon and then mother called later.
+Friday 28
+Luke’s birthday was not a great day.  Hb and I had a huge blowout prior to her going to Jan’s for her first meeting.  I made a banana bread with caramelized brown sugar.  I need to buy more brown sugar for future banana breads.  Much more hearty than white sugar.  Was going to go for a walk in the evening but we got a giant well deserved rain storm.
+Saturday 29
+Fall Harvest festival at the winery with a bunch of cake eating.  Hb went to Santa Fe to go the Farmer’s Market.  I talked to Peter for a while and met Ken, a guy from the church who heads up the Dec 21 poetry reading.
+Sunday 30
+Party at Seth Hoffman’s house in the evening.  Rabbi Lynn was in town so Seth and Hershel had a gathering for her.  Leo Neufeld was there so we hung out with him for awhile as well.  Earlier in the day we cleaned out the sweat lodge.
+
+
+October
+
+
+Monday 01
+Long talk with Peter Day in the morning.
+Tuesday 02
+Spoke to Michael Berkowitz.  We had a nice talk.  He is in the process of divorcing from Kim Martin.
+Wednesday 03
+Lunch with John at the Placitas cafe.
+Thursday 04
+Hb dropped me off and I went for a walk up the big hill toward the Overlook.  It was my first time walking up that way from that direction where Hb dropped me off.
+Friday 05
+Got my teeth cleaned.  Went into town early and went for a 30 minute walk prior to teeth cleaning.  Priscilla cleaned my teeth for the first time.  Then off to Whole Foods followed by lunch at the Saffron Tiger and then Barnes and Noble to read about PR.  Then Sunflower Market then stopped by wfc and then came home.  Hb is making stew with her new Spanish cookbook.
+Saturday 06
+Stayed home all day.  David the plumber came by in mid afternoon to tighten a nut on the sink.  Then it didn’t leak any more.  Hb and I watched a movie in the evening on Australia.
+Sunday 07
+La Casa de Bernarda Alba at the NHCC.  We hung out earlier on the patio there, it was a gorgeous sunny autumn day.  We had Flashbacks to Globalquerque a few weeks back when it was a glorious night full of people.  Autumn is lovely.  The play was very intense and mostly in Spanish so Hb had a hard time grokking the concepts of the play which is frustrating.  Earlier in the day I talked to Brian Wehrung for about 90 minutes.
+Monday 08
+Great late afternoon apple picking at Mary’s house.  I met her grandson John, John’s son, and his fiance.  They are getting next year October 5.
+Hb and I came home and went for a walk.  I then proceeded to make some more pear sauce.  One more batch today and we will be wrapped up.
+Tuesday 09
+Walk on the north mesa around 10:30AM.
+Wednesday 10
+Walk with John on Strip Mine trail at 4PM.  We walked for two hours and got home just at dusk.  Arrived home and Hb was going to belly dancing.  I love this time of year.
+Thursday 11
+Finished things up prior to heading out to Taos in the morning.
+Friday 12
+Took the high road to Taos.  Stopped in Chimayo at the Santuario.  It was a cloudy day but no rain on the drive.  It rained early in the morning at home.  Lunch in Taos at the Way Back Pizza.  We had a nice gluten free crust.  We walked around town in the late afternoon.  It was raining here and there but did not get in the way of our walk.  We had dinner at the Taos Inn bar and sat by the window.  Hb had a chile relleno and a margarita and I had chips.  We watched a show in the evening.
+Saturday 13
+In the early morning I headed out Salazar road and then back via Valverde and ended up at the Farmer’s market.  It was a lovely cloudy day and we had a nice breakfast at Casa Benavides.  Then we walked over to the Farmer’s market and then walked around Valverde and down into the Sunset Park and over to Orinda.  It was cold down in the valley near Orinda.  Then we went back home and drove out Upper Ranchitos Road and learned our way around.  Then we had lunch at the DragonFly Cafe.  After lunch we drove out to Overland Sheepskin and Hb bought me a nice hat.  Then we drove out to the Pueblo and then came home.  We then walked over to the plaza at dusk and met and talked with Charles Collins
+Sunday 14
+Drove to El Rito via the Pilar River crossing.  Gorgeous morning driving across the bridge at Pilar and up the side of the canyon.  Once we hit the top we had paved road.  Gorgeous day in El Rito.  My first time there.  Met some real nice folks at their galleries.  One guy we met pulled a gun on us as a joke, but I didn’t think it was too funny.   Drove home and had dinner in Santa Fe at Whole Foods.  Home at dark, with just enough light to bring our stuff inside.  Then we went for a walk around the block and ended the walk with glorious stars.
+Monday 15
+First day back to work was a disaster.  I took two naps and got nothing done.  Went to bed real early and slept all night.  Spoke to Peter earlier in the day.
+Tuesday 16
+Great day.  Got lots of stuff done and went for a walk four times around the block.  I got to skip the second debate between Romney and Obama.  I filled out my absentee ballot.
+Wednesday 17
+Mailed off my ballot, went to get air for my tires at Giant and then John and I went for a nice hike.  Back at dusk.  It was starting to get chilly and I rode home with my heat on for the first time this autumn.
+Thursday 18
+Went for a walk up on the north mesa around 10:30am.  One of my favorite times to walk.  Came home and took a shower and then dove into my work.  Earlier in the morning I had a 90 minute call with Scott Friedman.  He has moved on from Seegrid and wants to start checking things off his bucket list.  So I was able to set up an appt to speak with him when I get home about his new projects.
+Friday 19
+Mellow day at home.  Hb and I went for a walk just after dusk with a new moon that was bright and shiny.  Then I did a second loop and saw Cherie.  George came home from the hospital on Wednesday and she was pretty worn out and tired.  But it is great that George is home and in good spirits.
+Saturday 20
+Marvelous colorful gorgeous day in Galisteo.  Stop by the store in Golden, then on to Simmons Road across to 41.  Galisteo is close by once you make the turn.  Hung out on the river bottom at a beautiful studio in the heart of cottonwoods.  We had a nice lunch in 2 places.  Hb had a lamb salad that was not up to par, and then we went over to the Community center for some posole.  In the evening, we went to the Star Party and hung out with John and then Vickie Peck later in the evening.
+Sunday 21
+Breakfast at the Flying Star on Rio Grande followed by a nice walk in the ghetto.  Stopped by Hb’s office and then a brief shopping experience at the Sunflower Market.  I talked to Luke about life while sitting outside the SunFlower Market.  He is started to get excited about work options.
+Monday 22
+Sent Maria off birthday wishes.  Worked on gathering up kindling late in the day and headed off down the road and up the hill towards town and Hb picked me up on the road.  In the evening I listened to the Yahoo earnings call with Marissa and Ken Goldman’s first call.  Marissa had her fast baby one month ago and joined Yahoo one day before the previous earnings call which she decided to skip.
+Tuesday 23
+Hb and I went for a walk at the end of the day and I read Pagina12 prior to going to sleep.  Its a great paper with the right slant.  And now that Google translate easily shows me the whole article in English with the Spanish overlay my life and my ability to learn Spanish just got all that easier.
+Wednesday 24
+Water then walk midday up on the north mesa.  Hb went to belly dancing in the evening.  I spoke to John Zeuli mid day, he called me after I sent him an email yesterday.  Spoke to mom late in the day.
+Thursday 25
+Gorgeous sunny day but chilly.  It is our first cool day.  Temperature shows 59.  I have long pants on as I watered outside.  I did a deep watering for the end of October.  Will do one deep watering per month until spring on warm sunny days. 
+Friday 26
+No work.  Hb and I went for a walk late in the afternoon.
+Saturday 27
+I get up at 5AM and Hb and I leave for the airport at 6:30AM and arrive at 7:15AM.  It was a flawless day of flying.  I had a nice lunch at TGIFriday’s in Dallas.  Dinner at Bravo with Mom and Dad, then we went to Walmart to get a wireless router.
+Sunday 28
+I walked over to the old used book store across from the Union Grill after briefly walking around CMU.
+Monday 29
+Scott and I got together at 2:30PM and were at a coffee house until dark.  We had a nice afternoon.  Hurricane Sandy hits Pittsburgh late in the evening and wreaks havoc on the East Coast.
+Tuesday 30
+Mother and I went to Walmart to return my wireless router.  We had lunch at Atria’s and then we went to Target via Highland Ave after turning right coming back over the Highland Park Bridge.  Upon coming home I went down to the gym and worked out.  It was a good workout.
+Wednesday 31
+Iris and I hang out all day.  She picks me up at 10AM and we went to her house.  Then we walked at South Hills Village.  Lunch at her house then back into town to pick up David.  We went back to their house in Sq. Hill and had a nice snack with David.  Iris dropped me off at home and we had a nice dinner.
+
+
+November
+
+
+Thursday 01
+Worked all day and worked out with Mother in the late afternoon.  We had a nice pizza for dinner.
+Friday 02
+Walked around White Oak while mother and dad visited Norman’s.  I talked to a guy who had bought a house where Mrs. McClure used to live.  He was an interesting guy who had some familiarization with South America.  Then we had lunch at the bottom of Cool Springs next to the Bowling Alley at a place called Lucianos.  Then we headed to downtown McKeesport and then out to Costco in Homestead.  I worked out at dinner time and watched CNN about the presidential election in 4 days.
+Saturday 03
+Deli’s house late in the day.  Larry and I hung out on the porch while he cooked steak and we talked.  After dinner David, Elizabeth and I rapped for awhile prior to dessert.  It was a nice evening.
+Sunday 04
+Kerry, Robert, Lois and Sally for dinner.  Earlier in the late afternoon I went for a walk.  Hb is home from Taos.  She threw up in the car on the way home, oh no...
+Monday 05
+Hang out with Scott Friedman at the same coffee house as last week.  He picked me up at 1:30AM and I got home around 5PM.
+Tuesday 06
+Worked all day and then went for a walk up on the hill near Mom and Dad’s house.  I had not been up there yet, its cool how the roads connect up there.  Watched election returns with Michele on Skype late into the evening.  Dinner at Atrias.
+Wednesday 07
+Hang with Iris and David.  Walk home from their house down Bennington.
+Thursday 08
+Worked all day.  Mother left for Phoenix.  Dad and I went to the Union Grill in the evening.
+Friday 09
+Final day at home prior to heading back.  Dad and I went for a lovely walk up Forbes and then made a left turn up passed Mina’s house.  We returned home on Wilkins only to cut back up the hill to the house above 5000 Fifth Avenue.  We had salad, turkey burgers, perogis, and corn for dinner.
+Saturday 10
+Dad drove me over to the bus at 9:40AM.  I forgot my hat and went back upstairs.  On the bus ride to the airport we drove downtown and got stuck in traffic for the Veteran’s Day parade.  On the ride home from Dallas to ABQ I sat next to Pat who was a schoolteacher in Moriarty.  I had an early dinner at TGI Fridays.  I had my famous avocado salad.  The United States is a big country.
+Sunday 11
+Santa Fe to visit Pat, David and Barbara Pino, Norm and Patty.  We had a nice breakfast at the Saint Francis.  Kami worked here many years ago.  Afterwards David Pino and I had a long talk about life in Nuevo Mexico many years ago as he was growing up.  Then we went to see Bless Me Ultima.  This single movie was enough to change my life course and keep me on track moving forward living and being grounded in my home.  el hogar es donde esta el corazon, nuevomexico es mi hogar.
+Monday 12
+First day back to work after a great trip to Pittsburgh.  Great talk with Peter about life and his imminent move to Oregon.
+Tuesday 13
+Walk around the block with Hb and then again after dark.  I am really enjoying my night time winter walks.  Very beautiful.
+Wednesday 14
+Hb and I went for a walk at around noon.  It was an absolutely gorgeous day.
+Thursday 15
+Went into town around 3PM and walked around Old Town.  Then we had the Honeybun party for Pres at the big Albuquerque Hotel in Old Town.  We sat next to Nancy, the two Sarah’s, Xavier and his wife Patricia from McAllen, Texas.  He worked as a busboy at the 4 Seasons. 
+Friday 16
+Made the final batch of applesauce from mary gregg’s trees.  Talked to Dad about buying a laptop computer at GoodWill. 
+Saturday 17
+Placitas Holiday Fair.  Talked to June’s husband Tony, learned some about the Casa Rosa Food bank.  Long talk with James inside the tent.  Nice chat with Vickie at the winery about the black artist who died.  I donated $10.  Dinner with Pat at the Range.
+Sunday 18
+Food shopping in town all day for Thanksgiving.  It was absolutely gorgeous.  Started out at the Flying Star on Rio Grande, followed up by Costco where we bought a 6ft card table, then Whole Foods, TJ’s and the SunFlower Market.  Upon arrival at home we went to Cherie’s to see her new kitchen remodel and then for a nice walk with Chaco.
+Monday 19
+In the evening I went over to Geoge and Cherie’s and picked up the pie pan.
+Tuesday 20
+Weather has been gorgeous this Thanksgiving holiday season.
+Wednesday 21
+Late night walk prior to Luke and Ashley arriving.
+Thursday 22
+Rand, Tessie, Pat, Jason and family, Luke and family.  Rand and I went for a walk after supper.
+Friday 23
+Long walk with the dogs, Bullet and Daisy, in the afternoon to the western edge of the open space.
+Saturday 24
+Long walk with the dogs, Bullet and Daisy,  in the afternoon to the western edge of the open space.
+Sunday 25
+Buy my house in Peralta.  Leave the house at 10:30AM.  Stop by the house and meet Henley and Linda.  Over to Dan Gross’s office till after 4:30PM.  Drive home on I25.
+Monday 26
+Transfer some money for Peralta house.  Talk to Dan Gross about House Inspection and talk to MRGCD about house not being in the district.
+Tuesday 27
+Spent all day down in Los Lunas, Bosque Farms, Peralta area and made a final decision NOT to buy the house.  Driving factors were the drive up on the mesa east of peralta and out near Valencia high school.  That calculated in my head that the piece of property I was going to buy was not worth as much as I thought it might be.
+Wednesday 28
+Peter arrives around noon and we hang out most of the day and I do some work.
+Thursday 29
+The peralta house agreement was officially terminated, and it cost me $500 as my earnest money went to the seller.  It was a great lesson.  I went for an early morning walk around 4AM and walked up and down the hill 5 times.
+Friday 30
+Early morning walk up on the north mesa.  Headed out at about 6AM.  Peter and I had lunch at the Saffron Tiger, Scott Friedman heads out to Argentina, and then we stop by the SunFlower Market on the way home.
+
+
+December
+
+
+Saturday 01
+Breakfast at the Range with Loreal, Byron, Elise, Nancy, and Peter for Loreal’s 62nd birthday.  Then Peter and I headed south to Peralta.  I gave him the grand tour of the area including showing him the house I owned for 5 days.
+Sunday 02
+Went for a hike with James up to Pam’s ashes site.  James and I took in the views, the trees, and the glory of being alive.  A good TIME was had by all.
+Monday 03
+Hb and I went for a walk at the end of the day just as the last light set in the west.  Lots of laundry, and made bed after Peter left yesterday.
+Tuesday 04
+John Zeuli and I had a nice walk off our main spot.  It is the first time I had seen him since prior to going home to Pittsburgh.
+Wednesday 05
+Cleaned house in the morning.  Hb and I did a big walk up on the north mesa.  Gorgeous day in the low 60’s.  We saw Bill Patterson and Nathan on our walk.  Hb had a reading with Sherry at 4PM.
+Thursday 06
+Mellow day, talked to Peter in the morning briefly about how to burn a CD in the new ITunes 11.0.
+Friday 07
+Its nice to work and then have the weekend off.
+Saturday 08
+Hit the shed at Diana’s house to get some winter clothes and gear.  Picked up some old pants etc...  Hb and I went on the usual food shopping circuit.  It was a gorgeous winter day in central NM.  Hanging out at the shed as always is a mixed blessing.  I gave Hb her Christmas present as well and we did the money circuit too.
+Sunday 09
+The clouds rolled in the late morning as we drove to the South Valley for Mary Sharp-Davis’s annual Christmas bash and Holiday Fair.  Judith and Diana were there selling their wares and I ate two bowls of posole and some sweets.  I went for a walk along the ditch and the dogs were barking ferociously.  The South Valley is still rough.  We came home and watched the movie Hugo, a classic by all accounts. 
+Monday 10
+Coldest day of the year so far.  In fact, I never left the house except to take out the compost late in the day.
+Tuesday 11
+Went to the library in the afternoon to activate my cell phone with Google voice.  Another day without walking.  I had plans to do it in the evening but then I got sidetracked with work.
+Wednesday 12
+Big walk up on the north mesa to the end of Las Huertas and back.  Saw Tony driving along the way.  Then got back and went for a walk around the hill block with Greg Leichner.  We had a nice conversation and it was fun hanging out with Lalo.  I learned also that Lalo’s sister Ruby is now in heaven.
+Thursday 13
+Hb goes to Thomas and drops me off at my old spot just past the library.  I walked home.  It was a gorgeous day a bit before Christmas.  Got home and talked to Sharon, Tom, and Ines who were out in South Pasadena celebrating Tom’s birthday of 67.  Max Levchin is named to Yahoo’s Board today.  Stock still under $20.
+Friday 14
+A rainy morning and water is falling from the sky.  It was a blustery day.  Hb and I sat by the fire all day while I worked and Hb watched sort of two movies.  One with Ben Kingsley and Penelope Cruz about a man who could not make a commitment, the name of the movie was Elegy.  It was a good one.  Neither one of us left the house all day except for me to take out the compost and gather up some wood.  Also, at the very end of the day I got my first official email from Greg Leichner about a tragedy where 26 people including 20 school children were killed at an Elementary school in Connecticut.
+Saturday 15
+Started out the day at Walmart, then on to a hike on the Bosque on the border of Corralles and Rio Rancho.  This was the first time for me walking down on the bosque in that area.  Then on to SunFlower Market, Trader Joe’s and then home.  Hb worked today.  It was a cloudy snow like day.  It was cold, but not too cold to be outside.  Yesterday, was too cold to go outside, and I worked all day and did not go out for a walk.  Hb stayed home all day yesterday as well.
+Sunday 16
+We awake to our first snowfall.  Hb goes to work, and John and I decide to get together another day.  We were contemplating getting together today but will wait till later in the week.  I begin reading Bless Me Ultima.
+I discovered it yesterday at the library.  The books is signed by Rudolfo Anaya.  I saw the movie back on November 11.  It was the day after returning to NM from my journey to Pittsburgh.  I saw the movie with Hb’s sister Pat, and her friends from Ca. and Hobbs.
+Monday 17
+Found an interesting online book called “Essential Guide To Spanish Reading 2012”.  It lists all of the classic books that young adults should read.  On page 11 of this guide it states that there are more Spanish speaking people in the US than there are spanish speakers in Spain.  In other words, the current population of Spain is around 47 million people, and mas o menos thats how many spanish speakers there are in the US.  This statistic alone is fascinating, but what is even more fascinating is that according to Wikipedia Spanish is the primary language spoken at home by almost 37 million people aged five or older, a figure more than double that of 1990.
+Tuesday 18
+Nice long walk on the north mesa.  Ran into the guy working on the BLM fence.  He and his younger partner were mending the fence where the horses had crashed down.  I spoke to him for about 20 minutes about the horse situation and what its like to work for the BLM.
+Wednesday 19
+Long talk with Peter in the evening.  It was a snowy, cloudy day today so I never left the house except to take out the compost.
+Thursday 20
+Friday 21
+Hb and I went into town and had breakfast at the Flying Star.  Then we went shopping.  We went to Keller’s to pick up a turkey.  At 6:30PM we met John and Ginny at the church for the 15th annual Solstice poetry reading.  We also met John, who plays in George’s band.  He is a nice guy, it is the first time I had met him.  He is kind of in charge of organizing the poetry event.  Jim Fish read as well.  We hung out at the church and were the last ones to leave.  Michael Crowfoot did some throat singing to start off the show.
+Saturday 22
+Andy arrives just after dark.  Earlier in the day we went to a moving sale.  The woman was moving to Thailand permanently and was taking 66 chickens.  Hb bought another table cloth like the one we had for $10.  In the mid afternoon we went for a nice walk out to the end of the road.
+Sunday 23
+Big Christmas dinner two days early.  Cook all day and have Rand for dinner.
+Monday 24
+I hang out at home.  Andy goes to a movie with Rand and Hb works.  In the evening we go to Diana’s for dinner with Glen.
+Tuesday 25
+I hang out at home and Hb and Andy go into town to a movie and to Jason’s house.  Great walk at the end of the day.  Headed up onto north mesa via hill just east of Bill Patterson’s house.  It was a different way than I usually go up there and it added some specter to the dimension.
+Wednesday 26
+John called me early in the morning and we met at the Placitas Cafe for coffee.  We then went for a nice walk down the arroyo from there.
+Thursday 27
+Friday 28
+Hb and I went to see the movie “The Life of Pi’, then we went to dinner at Scalo and sat upstairs at a nice table.  Then we went to the Apple store to buy an IPhone.  Jason’s baby Autumn was born this evening at about 10PM.  She has the same birth date as Luke.
+Saturday 29
+Never left the house today.  It was a nice day, but I just worked all day.  Hb went into town to meet Jason and Rochelle’s new baby Autumn.
+Sunday 30
+Went into town to visit Autumn, Jason’s new baby at their house.  Then we went food shopping.  We bought them a new heater as a baby warming gift at Costco.  Then we stopped by the Vitamin Cottage and SunFlower Market.  We met Jason at Walmart and gave him his salmon and heater.
+Monday 31
+Woke up to a nice light dusting of snow.  Talked to Peter Day for a while, we had a nice talk.  In the afternoon I talked to Mom.  She had a hole-in-one a couple of days back on a par 3.  Fire at night as we celebrated our New Year’s Eve at home by the fire.

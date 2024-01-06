@@ -1,0 +1,785 @@
+﻿2010
+January
+Friday 01
+Rose Bowl parade with Paul, Christine's friend who was visiting from northern Ca.  Christine is in China for the holidays.  Followed by a walk along the parade route to Victory Park then up Washington to Chester and headed back down the hill towards home.  Its always a bit eery after the parade.  Got home at 2pm and mellowed out for the rest of the day.
+Saturday 02
+Gorgeous day down in long beach and a nice party at Wendy's house.  I walked along the beach prior to her party.  Earlier in the day I drove a bit east on Hwy 60 and then south on the 57 to the Imperial Hwy.  I headed back west on that to the 605.  Although in retrospect I should have gone on Hwy 91.
+Sunday 03
+Briefly hang out at the Flea Market followed by work at the office.  Working on rainfall levels in Chile and comparison to other places I am familiar with.  Hang out with Tom and Ines in the afternoon.  Walk over to the Caltech park.
+Monday 04
+Long talk with Michele, one of those long talks.  Wrote a piece for Jaime, Pat requested it and I was happy to do it.  Went to my first class of the semester by this old prof Sunny Chan who is teaching a course called "Introduction to Biophysical Chemistry".  He has been a prof here for probably 40 years or more.  Christine is still not back from China.
+Tuesday 05
+Went to first class on Bio-Organic Chemistry.  Finished Ellen talk for Monday.  Got Ruby code and started working on getting it up and running.
+Wednesday 06
+Starting to read Ruby book and understand this new, fascinating, very interesting language.  I can't believe I am learning another new programming language, but it shows your level of adeptness.  [Java, Javascript, PHP, Python, Ruby].
+Thursday 07
+Big day today as I got Ruby up and running.  CRdata came up at the very end of the day after working all day on trying to get it to work.  The key was getting Postgresql to work with OReilly Chapter 2 stuff, and then using that knowledge to bring up CRdata.  Helped Constantin with his job application stuff as well.
+Friday 08
+Back into reading Sharon's blog after a long hiatus.  I love reading her work.  Caltech poetry late in the day followed by dinner at Kathabela's.  Taura gave me a ride home.  Helped Constantin in the afternoon with his teaching statement for his job applications.
+Saturday 09
+Walk from Glendale High School at Verdugo and Broadway to the Gold Line station on 26th Avenue and Cypress.  Its the Gold Line Stop just north of China Town.  Its the first time I had ever gotten on or off at that particular stop.
+Sunday 10
+Great day.  Walked from my house to Valley and Atlantic.  Lunch at a very nice Italian Restaurant.  Had egg plant parmesian, a salad, pasta, and bread for $10.25. I got the lunch special which was very cool.  Back to work afterwards for a bit to research Argentina then hang out with Tom and Ines and sit with them while they eat dinner at the burrito stand.  Also, took them over to the library to show them Sharon's Winter pictures.
+Monday 11
+Major progress on Ruby, now understanding the REST interface and how to interact with it via the browser.  Earlier in the day gave my next to last Ellen talk.
+Tuesday 12
+Major new progress on Ruby, now understand the :symboliteral and the |x| for parameters to an iterator.  Google no longer will censor searches in China and huge earthquake hits Haiti.
+Wednesday 13
+Huge progress on Ruby, got it up and running on my machine.
+Thursday 14
+Talk by Ken Kragen for MLK day.  Another big Ruby day, got things up and running on Ubuntu.  Also, reading the Ruby book at home, along with the standard biology.  List of 2010 -- [Biology, Finance, Software, Spanish, Walking, Writing].
+Friday 15
+Caltech poetry then Kathabela's for dinner.  Earlier in the day checked out the 800 miles between Salta and Mendoza with Google Earth.  Very cool country.  Its the same distance as between Las Cruces and Durango, Mexico.  Basically 24 degrees to 32 degrees.
+Saturday 16
+Nice day at Haiku.  Dinner at Kathabela's with Liz and Meg, her friend from Chicago afterward.
+Sunday 17
+Went out to Claremont and walked around the colleges, absolutely lovely.  Had lunch at a Thai restaurant.  Drove back in the rain on I10, up 57 hit traffic, then turned around back on the I10 to the 605 and stopped by Von's for some light groceries.  Then on to work, talked to Hb, then went to Kathabela's for Sharon's big blowout back from Frostbite Falls, aka International Falls.  It was a great performance on her part.
+Monday 18
+Rainy day, went to Trader Joe's early and then worked all day.  Got Rajiv's ProcessingNode code up and running on Ubuntu.
+Tuesday 19
+Lunch bunch talk.  Spoke with Hamid for two hours about CRdata, we have completed Phase I of the new project.  Rained all day, made reservation to fly home to Pittsburgh for David's Bar Mitzvah.  At 4PM I went over to hear Eduardo Repetto speak who is now the Co-CEO of Dimension, a money management firm out of Austin, Texas with a large regional office in Santa Monica.   This meeting made me once again re-think whether I should re-enter back into this field and my gut feeling is still saying no, but I am still entertaining the possibilities.
+Wednesday 20
+Home early around 5pm.  It rained all day.
+Thursday 21
+Long talk with Jan Hauser right when I got to work, we talked for about two hours, always an interesting conversation.
+Friday 22
+Long talk with Leonor, it was great talking to her.  She is thinking about moving back out to Silicon Valley.  She moved to the east coast in December 2000.  Caltech poetry followed by dinner at Kathabela's and Rick's.  Sharon gave her presentation again.
+Saturday 23
+Santa Monica to hang out with Frank, Janet, and Robert.  Walked along the Palisades followed by dinner in Chinatown.  Absolutely spectacular day after a week of rain.
+Sunday 24
+Great day walking up the street from Southwest Museum station to the top of the hill to get a spectacular view of LA.  Followed by a round table discussion at Ave 50 studio on spirituality in Art, very insightful and stimulating.  Hang out with Susan Rogers and then dinner on Fair Oaks, got some soup and crab cakes.  A good day was had by all.
+Monday 25
+Mellow day at home in the morning, got to work around noon.  Hang out with Tom and Ines late in the day, dinner with them at Burger Continental, I sat and watched them eat.
+Tuesday 26
+Long talk with Peter Day and dad.  It rained today, but not a whole lot.  Started working on BioConductor and understanding the many different facets of what it does.
+Wednesday 27
+Long talk with Kathie Redmond first thing in the morning.  Beautiful day with Lois, Kathabela, Rick, and Sharon listening to Kathabela's interview on KPFK with Lois.  Nice lunch followed by walk over to the poetry garden and then we listened to the show.  More work on Bioconductor and RNASeq with yeast.
+Thursday 28
+Another suicide at Caltech, this time Andrew Lange a world famous Astro Physicist.  Starting to look into the Gene Ontology [GO] web site.  Allows you to drill down from the Tree Browser and see individual genes based on Evidence codes.  The evidence code for published papers is TAS.
+Friday 29
+Spoke to Jim Sigman and short talk with Michael Berkowitz.  Spoke to Hamid at 10am.  Caltech poetry followed by Kathabela's for dinner.  I met Liz's daughter who was born in 1985 in Santa Fe.
+Saturday 30
+Harrison's to dig up a tree stump.  Hang out with Sharon and Liz at his house.
+Sunday 31
+Santa Barbara with Sharon at 9am.  Hang out all day with Kathabela, Rick, and Kathabela's mom.  Went to the Farmer's market in the afternoon and Sharon and I drank a beer at the brew pub.  I had a sip and she drank the beer.  Dinner at their house followed by a 100 mile drive back home with zero traffic, which was good news.
+February
+Monday 01
+Mellow day at work.  Hang out with Tom and Ines in the afternoon.
+Tuesday 02
+Met John Preskill who gave a talk on Quantum Computation.
+Wednesday 03
+More work on Pfam and associated and other sundry bioinformatics work.
+Thursday 04
+Market falls off a cliff, I learn of the death of Bill Macready's wife Michele's sister Melanie Shouse.  Found out about the Nuclear Pore Complex.  Work on Pfam and Gene Ontology, understanding all of these ideas better.
+Friday 05
+Huge progress on understanding Ruby better, after a week of hard core Biology and Bioconductor I am back into Ruby land through the end of testing of this phase.  Then will concentrate more on R again as well.  Dinner at Kathabela's with Sharon, and Caltech poetry prior to that.
+Saturday 06
+Rainy day all day, sun came out at about 4pm.  Short walk followed by dinner at Kathabela's followed by event at Ave 50 in Highland Park.  Met William O'Daly and he told me Valparaiso was his favorite city in Chile.  Walk down Ave 50 with Sharon to her car and she gave me a ride home.  Rode down there with Maria Elena.
+Sunday 07
+Mellow morning followed by Flea Market.  Sunny, blue sky clear day after the rain yesterday.
+Kathabela's late in the day for a salon with Bill O'Daly.
+Monday 08
+Begin work on new version of CRdata.
+Tuesday 09
+Got new version of CRdata up and running on Windows and client running on linux.
+Wednesday 10
+Spoke to Hamid, Michele, hang out with Tom and Ines, begin testing of Rajiv's new CRdata code.
+Thursday 11
+Major testing day of Rajiv's new CRdata Tagging Language.  New potential Biology students Happy Hour.  Spoke to Peter about IT on Google docs.
+Friday 12
+Walk with Liz around San Marino down to Lacy Park.
+Saturday 13
+Drive to Borrego Springs through Temecula.  Its 150 miles.  Walk in the afternoon into town and sit and write for several hours at the restaurant some prose.  At 4pm I went to the local library and read about Borrego Springs.  Afterwards there was a reception for a local photographer.
+Sunday 14
+Early in the morning went for a drive around town.  North of town up around the grapefruit orchards there is some cool land. Worked at the visitor center in the morning with Christine Tate getting people to sign a California ballot initiative on funding State Parks via an 18 dollar annual vehicle registration surcharge.  Afterwards had some lunch and then spoke to a local realtor about land.  Also talked to the proprietor at the Borrgo Valley Inn.  There are 7 places to stay in Borrego Springs.  After dark I walked around and looked at the stars.
+Monday 15
+Drive home through Julian.  Went for an hour walk in Ramona.  Then into Escondido and north on the 15 to Temecula.  Stopped at the Starbucks and had an apple and looked at the LA Times.  Then north on I15 and W on 60 to Del Mar and Angelino where I got some cookies at the Pandaria.  Back to school and the rest of the day at home in a very nice mellow afternoon.  I watched the Olympics at night and read about some research Paul Sternberg is doing.
+Tuesday 16
+First day back to work after a lovely vacation in Borrego Springs.  Did some testing with Rajiv on his processing node framework.
+Wednesday 17
+Got Biomart up and running for the first time, very cool.
+Thursday 18
+Meeting with Paul Sternberg to discuss my future plans.  Met with Rajiv earlier in the day.  Spent some time working on taxes.  Started working on the new version of my resume.  Also, started looking for the first time at the Android platform.  On my home from work I stopped by to eat some food and listen to some jazz at the caltech student center.  It was a celebration for black history month.
+Friday 19
+First day of really diving into working on my resume and beginning the process of moving on from Caltech at the end of June.  Excellent dinner at Burger Continental followed by Urban Haiku at 10K villages.  I read 3 haiku at the open mic.  Afterwards it was pouring down rain so Ritchie gave Rick, Kathabela and I a ride home with all their percussion instruments.
+Saturday 20
+Got to work pretty early to work on my resume and taxes.  Talked to Peter late in the morning, he is trying to sell his front half of Hawaii property and was talking to Bill to see if he might be interested in purchasing.  Walk in the afternoon over to Pacific Asia for Haiku conference.  Dinner with Liz at Caltech for the Chinese New Year, followed by Haiku workshop at Kathabela's with Michael.  Was at Kath's house to around midnight.
+Sunday 21
+Walked around East LA, got off at the Indiana stop on the Gold Line and had a tamale and some panaderia cookies.  Then over to Union Station and we walked around Olvera street followed by Little Tokyo.  Lunch at a really good restaurant.
+Monday 22
+Ellen group meeting in the morning, followed by Paul Sternberg meeting on neuinfo.org then talked with Andrew Straw about CRdata.  Walk late in the day with Tom and Ines.
+Tuesday 23
+Worked all day on Workplan for Hamid.
+Wednesday 24
+Met with Hamid at 9:30am to hash out work till the end of June.
+Thursday 25
+Meeting with Guy, Cosmin, Rajiv, and Hamid at the Red Door at 10am.  Afterwards had a nice Red Beans and Rice lunch along with Jambalaya.  Installed latest version of Java and Eclipse on my Windows box for the first time since arriving at Caltech in anticipation of Android development.
+Friday 26
+Hello World is up and running on Android simulator.  Caltech poetry followed by dinner at Kathabela's with Lynn and Sharon.  I bought Kath and Rick "In the Woods", Toti's painting that I wrote a poem on.
+Saturday 27
+Work all day as it rained.  Basically finished up my taxes but did not file yet.  Worked on getting the CRdata Programmer's Guide [PG] up and running.  More work on understanding Android.  Got home and chilled out in the evening.  Huge earth quake hits Chile.  Concepcion was the main city to get hammered.  Largest quake in Chile since 1960.
+Sunday 28
+Walked 11.1 miles from my house to the Gold Line Atlantic Station which is where the Gold Line ends.  The route was via Kam Hong Garden at 848 E Garvey Ave, Monterey Park, Ca.
+
+
+March
+
+
+Monday 01
+Combination of Android, Gene Ontology, and the Programmer's Guide [PG].
+Tuesday 02
+Worked all day on my resume, spoke to Tony Garcia at UNG.  Hang out with Tom and Ines at the end of the day.
+Wednesday 03
+Major push to get all of the Review articles from Cell in 2009 including the special issue on RNA.  Also, quite a bit of progress on Android, plus moving forward with the PG and ROR tutorial as a reference. Late in the day went over to the Athenaeum for a talk by Sandra Tsing Loh who does a local program on NPR on science.  She was at Caltech at the exact same time I was at Tulane, she started Caltech a year early.
+Thursday 04
+I judged a contest between two groups of women at the diversity center on women's right to vote and equal rights amendment for women, Linda the leader of the center asked me to do it for Women's History month.  Turned on the new CRdata, and shut down the old one.  The old one had been running since before I went to NM way back in the autumn.  It was good to put the old product to bed, and sad in another sense.  The end of an old era and on to a new one.  Started studying the proteasome in my new push into Cell's Review articles.  Had a nice talk with Dad as well.
+Friday 05
+Spoke to Hamid followed by a talk by Peter S. Fiske on career planning.  Caltech poetry, Taura came by followed by dinner at Kath's with Liz and Sharon and Taura.
+Saturday 06
+Work early, took my car for a drive followed by finishing up my taxes.  Really nice time at Susan Dobay's house in Monrovia.  Sharon and I rode over there and spent the afternoon listening to some music and poetry.  I read my Susan Doby poem series.  Afterwards Sharon and I went for a walk and then rain came just as we finished.  It was a lovely late afternoon walk in the LA foothills with storms and clouds all around.
+Sunday 07
+Walked along the LA river from the Gold Line Cypress Park station up to Glendale Blvd and Rattlesnake Park.  Then downtown on the bus and had lunch in Little Tokyo at the same place we ate a couple of weeks back with the Haiku group.  On the way home I saw Tom and Ines so we stopped off in Highland Park for a cookie and then on to South Pasadena for a short walk.  Christine and I watched the Oscar's in the evening and Sandra Bullock got best actress.
+Monday 08
+Got a new version of CRdata up and running on Windows after a bit of struggle initially.  Late afternoon talk with Michele, she is selling her home in Placitas.
+Tuesday 09
+Spoke to Peter Day about Silver City.
+Wednesday 10
+Finished first round of my resume and posted it to my web site.
+Thursday 11
+Worked on my bio for my website.  Complete round one of Amazon buckets across the board.  This was a huge win day for me in terms of getting my ducks in a row.  Michele is in Taos for her 60th birthday, and so we had a nice talk as she walked around town.
+Friday 12
+Caltech poetry late in the day followed by dinner at Kathabela's with Sharon.  Took a beer break during Caltech poetry and went over to Ales courtyard.  Started looking into Australia and New Zealand as possible places to move to.
+Saturday 13
+Long hike with Sharon to Echo Mountain Hotel on top of the hill.  There were way too many people on this trail.  Don't hike up the side of a mountain in LA on the weekend, during the week I am sure it would be very nice.  Got home at 2pm and took a long nap, watched some TV in the evening and mellowed out.
+Sunday 14
+At work early, did some work on Programmer's Guide and my cover letter for jobs.  Had a nice long chat with Peter Day.  Long walk with Tom and Ines off of Verdugo near Foothill in Glendale followed by a nice Peruvian dinner on the corner of Eagle Rock and Colorado.
+Monday 15
+Great day after work.  Left work at 1:30am and went home and got the Spanish Newspaper La Opinion, also did a bit of Biology and went for a long walk to the end of Lombardy.
+Tuesday 16
+Started sending out resumes to New Zealand and getting back responses.  Worked on REST and I read through Roy Fielding's dissertation, very well written and clear.  Talked to Kami about moving to Australia.
+Wednesday 17
+More work on PG plus late day walk with Sharon and Kathabela over to the Poetry Garden to plant some plants.  Nice chat with Peter earlier in the day, and later in the day had a chat with Michele.
+Thursday 18
+Ung is approaching 4 bucks, very interesting... 9:30am appointment with the eye doctor that turned out to be very good.  She was very nice, see prescription email for details.  Working on GPCR, Chapter 15 in Biology Book, G Protein Coupled Cell Surface Receptor.
+Friday 19
+Finished up PG, another round for Hamid.  Cahill meeting in the afternoon on why they thing Einstein's General Relativity might not be exactly correct and how they are going to test it going forward with Gravity Waves.  Caltech poetry followed by short hang out with Tom and Ines in Braun courtyard followed by dinner at Kath's with Amir, Maria Elena, her husband Stephen and Sharon.
+Saturday 20
+Work early in the morning, spoke to Michele.  Some work on checking out jobs in Latin America and Spain.  Haiku in the afternoon followed by nice walk home down Walnut.  Stopped off at the Filipino store on the way home.
+Sunday 21
+Nice day with Tom and Ines.  Walked in the morning to Valley and then caught the bus to Chinatown.  Got some cookies and then Union Station.  Back to Filmore station and walk in Arroyo Seco towards the Rose Bowl.  Dinner, late lunch at the Thai restaurant in the Von's Parking lot.  I went there with Peter Day also when he was in town.
+Monday 22
+Nice mellow day, went home around 3pm and cooked up some curry and read some Spanish and studied some Biology.  Earlier in the day I got the new CRdata code up and running with the help of Cosmin.
+Tuesday 23
+Long talk with Michael Motulewicz about his trip to South America.  He just got back and we talked about the whole trip.  Bottom line is he loved BA and found Salta to be very nice as well.  This may cause me to move forward on more research on BA.
+Wednesday 24
+Nice walk with Kathabela to the poetry garden late in the day.  Progress on Albert's book, I am now done with reading the book in a rough way.  Now move on to going back through book and categorizing the protein families.  More work on Android.  Natural gas has been hovering just above $4.00 for a week now.
+Thursday 25
+Early walk to work down Lombardy, arrived at work at 6am.  Southern California is a beautiful place and I like it here.  Long talk with Peter and Michele late in the day.  Dad called earlier to talk about Google Docs, he is trying to get stuff going in it, a letter to the Post Office.  Dinner at Kath's with Sharon, she and Rick are going to Philadelphia tomorrow.  Rick showed us his poster, but his middle initial M was missing in the poster along with everyone elses.  Discussed the use of words including addiction, responsibility, social networking, and insecurity.
+Friday 26
+Poetry on plasma membrane and long walk down Lombardy to work.  Amir and Sharon were at Caltech poetry and then I walked Sharon over to the Gold Line Allen Street Station.
+Saturday 27
+Early morning drive to 29 Palms via I15 and then the backside of the San Bernardino's into 29.  Had a nice breakfast on the way in the Lucerne Valley.  Took a nap after I arrived at the Sunset Motel.  Then big walk up into the Joshua Tree National Park (NP).  Got home just around sunset and stopped and had a nice bowl of soup at a Japanese restaurant.
+Sunday 28
+Early morning drive into the park before the toll gates went up.  Then back for a walk along the Mara Oasis.  Then to the visitor's center for a couple of hours reading up about deserts.  Some lunch at the 29 Palms Inn, 3 cups of tomato soup, then onto another restaurant where I scarfed down someone else's chile cheese fries and got a green salad on my own. Back for a nap, can't believe I took a nap both days, must be pretty relaxed out here in the desert.  Then a nice walk to the end of Adobe, the street the other way heads out to the Military Base.  Then back for some nice steamed rice and one tortilla.  Read the Sun Runner Magazine, both Christmas edition and the early spring edition, quite a nice little desert magazine.
+Monday 29
+Drove back home.  Stopped in Riverside at the Kmart to buy two pair of short pants.  On Saturday I got some shoes at Big 5 in Joshua Tree.  Briefly saw the UC Riverside campus then drove down 60 back home. Stopped for some vegetables in Monterrey Park then onto to the Pandaria for some cookies.  Got back to the office around noon after stopping by home to drop some stuff off and have some lunch.  In the afternoon I went to pick up my glasses and then hung out with Tom and Ines.
+Tuesday 30
+Starting to get into Android in a big way, this is going to be my core focus between now and June 30, 2010.  Instead of spending time looking for a job, I am going to concentrate on becoming an expert in Android using Eclipse.  Rajiv was in the office today for the first time since Hamid was in town.  Took a look at the RC Gorman pictures Michele took for me.  They still look very cool.
+Wednesday 31
+More work on Android, today I learned about how two Activities can work together plus a bit more how the emulator works.
+
+
+April
+
+
+Thursday 01
+More work on understanding Android via the SearchableDictionary example.
+Friday 02
+Understanding Android better now with the xml files and R Resources.  Caltech poetry followed by dinner in Sierra Madre with Ginny, same as Ginny Chambers, Liz's friend who was visiting from Sonoma to see their friend who has cancer.  Sharon also came to dinner and we watched some nice fiddle music.
+Saturday 03
+All day at Rick's.  Got their at 10am, lunch at Mexican restaurant, he showed me the family tree stuff.
+Sunday 04
+All day with Tom and Ines out in Santa Monica.  Met at REI at noon, and had lunch at the Broadway deli after walking along the beach.  Afterwards met their friend at Starbucks and Tom and Ines got a free coffee and hot chocolate.
+Monday 05
+Walked to work in the rain.  Reading Mountains beyond Mountains by Tracy Kidder.  In the afternoon I left work early, went home and had an early dinner, and then went for a nice walk down Winston to Huntington and walked around San Marino High School, then doubled back on Oxford past the Huntington.
+Tuesday 06
+Nice time in the evening with Kath, Rick, and Sharon; headed out to Sierra Madre to hear Jean play at Mary's market.  It is now owned by Carolyn.  Mary passed away 9 years ago.  Earlier in the day searched for some interesting Android open source applications.
+Wednesday 07
+More work on Android, actually built the entire code base for the first time on my Ubuntu box.
+Thursday 08
+Got the sdk and the emulator up and running on Ubuntu, installed Eclipse as well.  Worked with Rajiv on CRdata testing.  Spoke to Diana Stephens late in the day.
+Friday 09
+Caltech poetry late in the day and walked towards home with Tom and Ines.
+Saturday 10
+Make a difference day at the Japanese nursing home followed by dinner at CaltechY followed by my traditional walk home.
+Sunday 11
+Hang with Sharon and Liz in Sierra Madre at Nature Friends.  Cold, rainy, cloudy winter day in southern Ca.
+Monday 12
+Gnu Make Manual in detail.
+Tuesday 13
+Gnu Make Manual in detail in association with Android.
+Wednesday 14
+Meeting with Hamid at 9:30am, got to work at 5AM.  Huge Android push on Gnu Make Manual.
+Thursday 15
+A job day with writing up a detailed Android build cover letter followed by sending out resumes.
+Friday 16
+Wrote the "Wood" poem in relationship to yesterday's sending out job resumes.  Spoke to Dale Swanson at Ubiquia in Phoenix, Arizona about Android.  Major Alberts push on Molecular Biology Chapters 10 - 15.  Caltech poetry followed by free food at Chandler for Pre-Frosh weekend including a big truck from In-Out hamburgers where they served over 1000 burgers that evening.  Exactly 1037.
+Saturday 17
+All day with Sharon Hawley.  Started out at Keith's house in Glendora for a poetry reading.  Then we went for a walk around Glendora and checked out the castle near Keith's house.  Then over to Monrovia for a nice Thai lunch on the the main drag.  Went for a walk up the canyon near Susan Dobay's house.  Then on to Susan's house for a party and poetry reading.  Lois was there along with Ritchie which made it a fun afternoon and early evening.
+Sunday 18
+Long walk from Hollywood and Western to the Bodhi Tree book store on Melrose.  Did some reading on Edward Abbey which was mellow and nice.  Then took a bus back to Melrose and Western and walked to Wilshire and Western.  On 5th street there is a nice little Korean grocery store where I bought some vegetables.  Then took Gold Line home and stopped by the 99 cent market for tortillas.  Then home for some nice cooking.
+Monday 19
+Start working on CentOs installation of our product.
+Tuesday 20
+More work on CentOs.  Spoke to Evan at Appiction in Austin, Texas about Android development.
+Wednesday 21
+Big bugaboo with needing to build Ruby with openssl and then having to install a ssl library.  got through that and then documented well how to build Amazon AMI's.  Also talked to Berk's friend.
+Thursday 22
+Major push on getting our code up and running on the CentOs.  Its now running with the simple Webrick server, which was a nice milestone.
+Friday 23
+Had a talk with Christine this evening as we watched Mad Money together and I told her my job was up June 30.  Earlier in the day I spoke to Hamid and went off and got 3 pair of pants shortened.  Bought some food at a cool grocery store on the corner of Allen and Washington.  Can't believe it took me this whole time to really find a nice store close by.
+Saturday 24
+At my office by 6:15am.  Drove over to Corona to go the bank on a Saturday morning and get some money.  Stopped at a grocery store that had a Panderia and got 3 cookies.  On my way back home I went to deal with my pants again, and then finished the Biology book through Chapter 20 of Alberts.  This project I am happy to report is complete, I have fully document all of the subchapters of this book, which allows me a quick reference to the field of Molecular Biology of the Cell, one of my new found passions since moving to Pasadena.  Had a nice dinner at home after buying food at my new favorite Armenian grocery store yesterday on Allen and Washington.
+Sunday 25
+Early morning walk in China town followed by walk down the Arroyo to South Pasadena with Tom and Ines.  Dinner at Thai place on California.
+Monday 26
+Hang with Tom and Ines late in the day.  Completed all address change requests for my upcoming move out of Ca.  Major push in Programmer's Guide toward documenting how to install CRdata on Amazon et al.
+Tuesday 27
+Walk with Kathabela around lunch time.  Saw Rick afterward at the reflecting pond.  More progress on public AMI for CRdata.
+Wednesday 28
+First day at Border's reading about Buenos Aires.  The original motivation for BA was Mike Motulewicz followed by the realization last evening that there are a lot of job postings on Craigslist for jobs in BA.  This is a cool town, with 12 million people, over 250K members of the party, and near Uruguay, with a reasonable currency.
+Thursday 29
+Published CRdata PG to the world.  Spent more time on Nginx and Mongrel.  Rajiv and I got an R node running from the Amazon console.
+Friday 30
+Final phone call with Hamid prior to leaving for Pittsburgh.  Next week we don't talk and the following week he will be here and the following week I will be in Pittsburgh, the time is drawing near.  After talking to him I went over to Border's to read about Buenos Aires.  Caltech poetry late in the day followed by hang out with Amir, Tom and Ines.  Had a nice talk.
+
+
+May
+
+
+Saturday 01
+Very nice day with Ishu.  Lunch at the Thai place on Colorado between Michigan and Chester then up to Allen and Washing for Baklava followed by a walk near Liz and Harrison's house. Spoke to David for his birthday and Elizabeth for her birthday.
+Sunday 02
+Great day all around.  Walk to Huntington Ave, haircut with Naomi, then walk to Valley, lunch in China town, back to office, long talk with Brian and Lisa followed by Liz's Mom's house, then Gold Line to Southwest museum with Liz, she continued on home and I climbed to the park at the top of the hill then dropped back down into Highland Park on San Rafael and walked back to the Gold Line.  Off at Allen and dropped car off back at school then walked home.  I was tired when I got into bed.
+Monday 03
+Back into Android, now focusing on the Graphics aspects, hang with Tom and Ines late in the day.
+Tuesday 04
+All day on Android, learning the API better now that this is my third pass at it.  One small step at a time.
+Wednesday 05
+Morning work at home on getting my clothes together for Pittsburgh.  Rest of the day on Android.
+Thursday 06
+Puppy died today, this is a very sad day in my life.  Her official name was Star but I mostly called her puppy.  Michele got me going on calling her puppy and that was the end of that.
+Friday 07
+ReplicaIsland (RI) is all I can say.  I started reading the Android mailing lists and some how found this open source game.  I got it built and up and running on Eclipse.  This is very, very cool.  In fact, I had been looking for something like this for months, and really now I believe this will take the development to the next level.  This is a huge home run.  Stock markets are in free fall for the first time in over a year, actually since March 9, 2009.  We are back to where we were with that feeling, its been quite a while.  This is a very interesting game.  Hang with Tom and Ines after Caltech Poetry and ate some food from Andrew Lange's memorial service.  Sat and talked for over an hour with a young grad student named Fan who is from China.  For some reason we had quite the connection, and T & I also liked him.
+Saturday 08
+Laundry followed by walk to work.  Working on ReplicaIsland (RI).  Nice talk with the security guard Tim who has been here 16 years while chowing down on some MIT food.  Arlington Garden in Pasadena poetry reading followed by hang out and chat with people.  Liz and I head down to Chinatown on the train and then we walked to the corn field and walked through the Indian Pow Wow.  Also walked along North Spring parallel to the corn field and saw some cool Farm Lab stuff.  Down to theater Liz and I were at in the past near USC for an art weird sculpture thing that I bailed on and walked back up Vermont and got on the Metro home.  Met some 88 year old women twins on the train who turned me on to how nice southern Ca is.  Also met a lawyer who did philosophy at UCLA followed by 3 years off, followed by a year and 1/2 of law school.  He was taking the bar in July and will not get an answer back till November.  The bar is curved so they have to grade everything and draw a line in the sand as to who passes.
+Sunday 09
+Nice lunch with Ishu at Indian Restaurant.  Early morning chat with Diana Stephens.
+Monday 10
+Major push into Replica Island.
+Tuesday 11
+Another Replica Island day.
+Wednesday 12
+Got Hamid up and running and building an Amazon AMI for Ruby.  Went to hear a guy talk about programming from Google.  GLSurfaceView in the late afternoon.
+Thursday 13
+More early morning work with Hamid.  Continued work on understanding ObjectManager.  Also great afternoon poetry session with Tom and Ines reading Tom's new issue of Abbey in the Caltech park.  We just sat there and had a beautiful afternoon reading through the new journal.  Tom had his self interview in there.
+Friday 14
+Final day with Hamid in town.  He was in the office till about 1pm.  Got some Chinese food over in the basement of Broad.  Nice Caltech poetry, with Peggy, Amir, T & I, and Sharon.  It was very nice.  I read my poem about love and how in the end you go and say hello.
+Saturday 15
+Haiku, maybe my last one, or possibly one more in June.  Caltech alumni party in the late afternoon in front of the library.  Same as last year, talked to some old people and ate some cheese.  Short walk going home to my usual spot.  Got home at dark.
+Sunday 16
+Got to work around 11am and sent out the final version of the Programmer's Guide prior to my departure to Pittsburgh.
+Monday 17
+Mellow day at home prior to departure to Pitt.  Clean up stuff at home.
+Tuesday 18
+Walk around the Huntington block to school late in the afternoon.  Mellow day at home just taking it easy and doing some Biology.
+Wednesday 19
+Walk to Lower Azuza and Temple City late in the afternoon and take the 267 bus back home.
+Thursday 20
+Up at 3:30am.  Caught the first Gold Line at 4:39am.  Awesome flight to Phoenix, was able to see Joshua Tree to the north of I10.  Then cool flight over the Plains of San Augustine and up over Santa Fe and then to Las Vegas.  Was able to see all the way up the Rockies to Wyoming.  Met a cool girl who's Dad is from Bangladesh on the 28X Airport Flyer.  She had just graduate from CMU.
+Friday 21
+Work on figuring out a computer strategy.  Dad and I ran around town looking at computers to figure out a strategy.
+Saturday 22
+Mother and I went for a walk over to Shadyside and we walked a couple of blocks up to the Art Fair.  Work on figuring out what computer we want to buy and then went ahead and ordered it.
+Sunday 23
+Back to the Art Fair late in the day and I hung out in the Apple Store.
+Monday 24
+First real day of work at the CMU library.  I am making some really nice progress on Biology.  They have the 5th Edition Alberts book.  They also have a book called Physical Biology of the Cell by Rob Phillips of Caltech.  It is also published by Garland Science the same folks who do the Albert's book.
+Tuesday 25
+CMU library, working on Biology.  Also walked to the library across from the Cathedral of Learning, the one with the Big Columns.
+Wednesday 26
+Dad and I went to McKeesport.  Went to the Warehouse and the store and the Heritage Center in Renzie Park.  Then came back home and dad dropped me off at Whole Foods / Border's.  I read about Argentina, I think I am figuring the country out.  Then I walked up Highland Avenue to Walnut Street and then into Shadyside.  Back to CMU library and finally figured out that a purine is a pyrimidine and an Imidazole.
+Thursday 27
+Set up the computer, it came up and running in about less than one hour.  Dinner with Jerry and Anne at Cafe Sams in the evening.
+Friday 28
+Daddy dropped me off at Borders and I did some more reading on Argentina.  Dinner out at the Galleria at a place called Mitchell's followed by services at the Temple.
+Saturday 29
+Up before 6am.  Great day at the Bar Mitzvah followed by dinner at Mother and Dad's house.
+Sunday 30
+Andy's house for a brunch followed by a long walk through Schenley Park and across the Golf course on the back road.  Stopped off at the Carnegie library before walking home.
+Monday 31
+Larry picked me up at 11:30am and we went out to their house.  Lunch with the family then walk around the block with Iris.  Mother and Dad came out late in the day and we had a nice dinner and celebrated Larry's birthday.
+
+
+June
+
+
+Tuesday 01
+Went for a walk with mother late in the afternoon.  In the morning Dad and I walked over to CMU to get some blank DVD's.  I got the printer working on Dad's computer.
+Wednesday 02
+Hang out with Iris and go for a walk from Borders into Shadyside.  Spent time in the morning thinking about Bolivia and possibly getting some vaccinations based on the requirement to enter Bolivia you need a Yellow Fever vaccine which is mosquito born.  Called the Pasadena Health Clinic to find out about the prices and availability.  While at Borders reading about Bolivia I met Bill Lawson who has set next to me at Borders the last couple of times I was there.  Walked to dinner at the Union Grill and got clobbered afterwards in a big rain storm.  I walked home with an umbrella Daddy "borrowed" from a couple going into the Union Grill, then I drove back and delivered the umbrella back to the couple and we drove home.
+Thursday 03
+Early morning walk over to the CMU computer store to buy Dad a network cable and a blank DVD.  Then built the recovery DVD's for the system.  This trip was all about getting Dad's computer set up so he is good for at least another 5 years or so.  Panther Hollow walk for the first time, this place is beautiful.  I walked down to the area near Second Avenue.  Nice dinner with Robert, and the Gespass Family at a nice Thai restaurant next to Levin's sleep center.  After dinner Robert and I went for a walk on Murray and Forbes.
+Friday 04
+Michael Evans meeting with Dad, Mom, and Iris.  Lunch at Panera.  Very late afternoon walk over to Shadyside.
+Saturday 05
+Dad apologizes to me in the car as the rain tumbled down and I waited for the bus.  Very interesting two leg flight back home.  Sat next to a woman who owned a house in Phoenix and then sat next to a black woman Irene from Cleveland who moved to California 32 years ago and has five kids and 21 grand kids.
+Sunday 06
+Mellow day at home.  Late afternoon walk over to work to read email and catch up.  Spoke to Michele, learned that Pam Dunbar has lung cancer.  Took the car out for a ride around the block.
+Monday 07
+I was at work at 5:30am.  The plan is to work hard till June 30, mainly on Android.  Replica Island all day.  Went to bank to deposit check I brought back from Pittsburgh.  Went to get longer temples on my glasses and stopped by Trader Joe's for some food.  Hung out with Tom and Ines late in the day.
+Tuesday 08
+Replica Island.  Spoke to Kave Golabi at Liquid Designer's in Buenos Aires and got a job starting sometime in August.
+Wednesday 09
+This has been one heck of a week.  Today I went and got longer temples on my glasses from Joyce at the Pasadena Optometry Center and also got 3 shots.  Hepatitis A, round one, I need to get another shot, the exact same one in 6 months to one year.  That will give me 20 years on Hep A.  I also got Tetanus, Diptheria, and Pertussis.  Next time in 10 years I only need Tetanus.  The lady who gave me the shot told me that I am good for the rest of my life on Diptheria and Pertussis.  The shot is also called the TDap.  The third shot I got was Typhoid.  Good for two (2) years.  They had a pill form which was good for five years, but that required a live vaccine, instead of a dead one, and refrigerated pills which you take once every other day until the 4 pills are gone.  With some side effects for stomach stuff.  The only remaining shot I need to get is Yellow Fever.  Spent time with Tom and Ines at the end of the day.
+Thursday 10
+Spoke to Mom and Dad and they gave me hell about the job in Argentina.  Lunch at the Thai place on Colorado.
+Friday 11
+Caltech poetry with Amir, Sharon, Tom and Ines.  Graduation outside my window.  Talked to Hamid about testing the RSync.
+Saturday 12
+Beautiful day with Sharon on the Ridge high above I5.  Dinner at a Mexican restaurant near the corner of Echo Park and Sunset.
+Sunday 13
+Mellow day at home.  Packed the big Red backpack with lots of stuff for home.  Walk late in the day down to Huntington Ave. via Winston.  Also over to 99 cent store for tortillas.
+Monday 14
+Huge push to finish Programmer's Guide.  Spoke to Cosmin about Mongrel and Nginx.  He turned me on to starting mongrel through a cluster command which solved my problem independent of Capistrano.  Meeting with Tom and Ines late in the day.  Was at work till 8pm.  Constantin got a job today, he was not happy.
+Tuesday 15
+Finish up Programmer's Guide, this was really my last day of work on CRdata.  Dive right into Android.
+Wednesday 16
+Got Google Maps working on Android.
+Thursday 17
+Huntington library with Kathabela and Sharon.  We had lunch with Taura, which was very nice and then we walked around the pond at the Chinese garden.  Long talk with Jeff Milton in the morning from Liquid Designers.  This situation is still interesting.  Hang with Tom and Ines late in the day at the park.  We had a very nice meeting.  Watched the Laker's win for the second year in a row the National Basketball Championships.  Watched the commentary afterwards as well.
+Friday 18
+Walk with Liz and then Caltech poetry, then a really nice dinner at Kathabela's.
+Saturday 19
+Great haiku, one of the best Haiku's of the year.  Then Nature Friends' with Sharon and Liz, dancing to about 11pm on a really nice dance floor.
+Sunday 20
+Really nice day with Ishu.  Had lunch at the Indian restaurant and then walked over to the Pasadena Chalk festival in Old Town.
+Monday 21
+Late in the day I went home and dumped out the stuff in my car.  Then walk around the block to Lacy Park and home via Huntington.
+Tuesday 22
+Listened to Oliver Stone interview about South America and his new film.  Returned Biology book to the library.
+Wednesday 23
+Unfortunately, I am having a hard time finding motivation to do any type of work at this moment.  But this will pass as well.  Just trying to survive and get through the remaining days.  Hang in there.
+Thursday 24
+Spoke to Michele early in the day.  Transferred Google voice number to mobile unit.  Mailed off application for birth certificate.  Around 2pm hung out with Kathabela, Sharon, Liz, Susan Rogers, and Genie Nakano underneath the canopy at the Avery House.  It was a nice send off for me with Genie who I really admire for her beauty and creative energy.  Liz and I headed off to South Pasadena.  We went for a walk from the Stables at the end of the Arroyo Seco arroyo up the hill and down the lovely street back to the La Loma bridge.  Liz saw some cool old cars that she took cell phone pictures of.  Then we walked back down the arroyo and over to our favorite Mexican restaurant in Highland Park.
+Friday 25
+Up early and did a bit of work on RSynch testing.  Caltech poetry at 4:30PM.  Followed by dinner at Kathabela's.  I took Sharon home as she was riding her bike from Ventura.
+Saturday 26
+Susan Dobay's house all day.  I gave Liz a ride from her Mom's house.  Lois was there as well.  It was a very nice day.  We got to Susan's at 2pm and left at 7pm.
+Susan
+Sunday 27
+Got up early and packed my boxes.  Took them over to UPS around 1pm.  The lady there had been to Placitas in the past.  I shipped 6 boxes for $104.  Mellow day at home.  Went for a nice walk late in the day.
+Monday 28
+Met with Hamid in the morning.  Hung out with Kathabela at her house in the afternoon.
+Tuesday 29
+Up at 4am.  Caltech by 4:30am.  Packed up my office and got my car.  Packed at home.  Went and picked up my paycheck at Caltech.  Saw David Akopian and we had one final last chat.
+Wednesday 30
+Up at 12:40am.  Left Pasadena at 2am, arrived Silver City 13 hours later 3pm California time, 4pm Silver City time.  Its 650 miles almost exactly plus or minus a few miles.  I averaged 50 mph based on the 13 hours, 650 miles calculation.  Its my 2nd time driving from LA to Silver City.  This time I went through Phoenix at just after morning rush hour.   I arrived in Phoenix at 8am.  So, its 6 hours from LA to Phoenix and 7 hours from Phoenix to Silver City. So Silver City is far away from Phoenix.  That includes all of the slough time as well.  Driving into NM with the clouds was splendid.  Phoenix was really hot, 96 degrees at 7am.
+
+
+July
+
+
+Thursday 01
+Over to the farm to hang out with Doug and get a tour of the new trees.  Lunch with Andy and Peter downtown.  Did a little shopping at the Coop.  Doing some studying of tyrosine kinases and reading a cell article on the topic.
+Friday 02
+First mellow day at Peter's house.  Went for a long walk up Cottage San to the end of the road.  While I am in Silver City I will call this my morning walk.  So when I say I went for my morning walk its the standard gorgeous spot in paradise.  Got my frequent flyer number from Aereolineas and talked to Mom and Dad.  I also called Christine to make sure everything was cool when I left.  Mellow day at home.  Late in the day, around 5:30PM we headed over to the herb store to pick some apricots with John and Steff.  John is going to send Michele a picture of Andy on a ladder.  Jason and Natalie, Peter's friends from LA, arrive at the house around 9pm.
+Saturday 03
+Early morning walk.  Today is the first day where I start to launch into Spanish on the walk and study.  Naava's birthday party in the evening.  Very nice with music, and good food.
+Sunday 04
+Mellow day at home.  Went for a walk very late in the day.  In the morning Natalie and Jason, Peter's friends were around and so we hung out.  Also, spoke to Michele to check in and make sure she was feeling better.  Pam has been sick with cancer and so Michele has been going through a tough time.  Also, answered some emails to folks who I sent a New Mexico poem too.  Also, doing some studying of Spanish as well.
+Monday 05
+Started out the day working at the farm with Doug.  We transplanted lettuce from the greenhouse into the fields.  Then spent time with Aiden working on reading, math, and geography.  In the afternoon, I dealt with Hamid wanting me to do more work for the project involving GitHub and not having the Sparktech user name on the web page.  Wrote a letter and then decided not to send it.  I am finally finished with Hamid and CRdata, after foolishly responding to several emails after June 30, Hamid tried to drag me back into doing work for him.  It was my fault because I answered a couple of emails and tried to stay on top of the project by guiding things along.  But now it is officially done.  I have answered my last CRdata email.
+Tuesday 06
+Weeding at the farm, then walked home.
+Wednesday 07
+Hike with Andy on the Continental Divide Trail 20 miles out towards Lordsburg.
+Thursday 08
+Mellow day at home.  Learned my way around BA on the subway map.
+Friday 09
+Harvested in the morning at the farm plus weeding.  Today was a good day.  I ate better food and just all in all felt good after yesterday's blah day.  Researching BA for now is stressful, so just staying in the moment here is important.
+Saturday 10
+Beautiful walk to the National Forest Boundary.  Made a right turn at the Bear Mountain Lodge entrance and walked past the fire station.  Only one real fence crossing, which is cool.  Then back here and over to the Coop for some food.  I am having another nice day.
+Sunday 11
+Woke up and made my reservation for BA motivated by email from John Gutman.  He put me over the edge, and I was ready to do it.  Spoke to Hb and Mom and Dad to tell them the good news.  Andy and Peter for lunch at crappy Chinese buffet then walk with Andy on Boston Hill over looking all of Silver City.  It rained and was cloudy all day starting Saturday evening at 10PM.  It rained all night.
+Monday 12
+Went out to Juan A Velasco's apple orchard in the Mimbres Valley.  See email to Kathabela for a more detailed description.
+Tuesday 13
+Work at the farm in the morning weeding and harvesting peas.  Michele got a full offer on her house and I made a reservation for her to Denver.
+Wednesday 14
+Work on new blogspot for Silver City Farmer's Market.  Work from Peter's farm up little Walnut to Langstroth Drive and all the way to the end, ended up back at Peter's house across the street in that field.  Started working on Symfony, got an email from Jeff Milton about the technology they are using for mylingo.com.  Hike up Archer Road to the top of the hill then back down into the Canyon, some very nice country.
+Thursday 15
+Argentina legalizes gay marriage country wide.  Dinner here with Naava and Alegre.  I made some good applesauce. 
+Friday 16
+Work at the farm in the morning followed by walk home via Langstroth up little Walnut.  Walk late in the day back up the canyon behind Peter's house.  Doug Smith is a scorpio.  Walk late in the day up the canyon.
+Saturday 17
+Cleaned up Yahoo contacts and backed them up.  Made applesauce.  We have tons of apples from Juan.  Also, made a reservation for the night of August 11 at the Miami International Airport.
+Sunday 18
+Hike with Andy.  We got soaken wet on our hike just past Pinos Altos.  We parked at the top of the hill over looking the valley, and then walked down the road to where the stream crossed the road.  We hiked to we could not hike any longer, at a shelf of rocks.  And we started heading back, and just as we got back to the trail after a short bush wack all hell broke loose with thunder and lightning. 
+Monday 19
+Mellow day at home.
+Tuesday 20
+Worked at the farm in the morning, my final day, followed by some mellow grocery shopping.  Big rain storm in the afternoon, in fact we lost our electricity.  Nice walk at sunset watching the water roar down the arroyo.
+Wednesday 21
+Mellow day at home prior to leaving for Abq tomorrow.
+Thursday 22
+Leave Silver City at 6:30am and arrive ABQ at 11:30am.  Drove in from the South Valley, they have put millions of dollars into making Isleta Blvd. pedestrian friendly.  Its really nice to see progress in the South Valley.  Arrived at Diana's and started getting my stuff together.  Went and mailed off bank form and stopped by the bank as well.  Diana showed me around the yard and I went for a walk late in the evening as Diana mowed the lawn with an electric mower.  The house and the lawn are the gardens are absolutely stupendous.  On the drive over the Mountains from Silver City it had rained hard the night before and there were some rocks on the road.  The ride was really nice, there was no traffic and I took my time.  I never turned off the engine the whole way between Peter's house and my house.  The drive is like 240 miles door to door, that is what Google Maps says as well.
+Friday 23
+Took Diana to the airport at 5:30AM.  Lunch with Rand at Sweet Tomatoes on San Mateo near Justice Systems.  Rand and I went to the North Valley library.  Then I headed home and chilled out.  I was kind of in shock as I finally woke up to the fact that I was in ABQ at my own house.   Took me awhile to adjust.  Finally late in the evening about an hour before sunset I started attacking the shed.
+Saturday 24
+Major work all day till 4pm working on the shed.  Huge progress on getting things organized.  Dinner with Michele at the Church Street Cafe in Old Town.  Then walk around the plaza after dinner.
+Sunday 25
+All morning working on shed, then drop off old computer at Good Will then Brian's house at 2pm to 6pm for hour doerves and check out his very artistic photos.  Mellow evening, talked to Michele for over one hour about life.
+Monday 26
+Rainy morning, puppy got went when we went on a short walk.  Started working on final bag pack for BA.  Michele and I had a nice walk at the Tamaya and then we had a nice dinner at the Range.  We split a Chile Relleno and a nice Salmon salad. 
+Tuesday 27
+Santa Fe all day with Michele.  Hung out at Scott's house in the morning, then went to Harry's Road House for lunch.  Walked around downtown afterwards.  The Route 66 big painting by Ernst Haas is now 20K.  It started out at 5K in NYC at the Monroe Gallery back in the early 90's and now it has gone up in price.  It was 10K last time I looked at it at the turn of the century.
+Wednesday 28
+T checks, got a new battery at Walmart, went to the NM DMV and got my new sticker, so got lots of errands done today. Long talk with Michele late into the evening.
+Thursday 29
+Michele flys to Denver.  Nick comes over at 8:30am.  We walk over to the Flying Star and are there till 1PM, Nick leaves my house at 2PM.  I take a long nap.  Finish up my shed by 8PM.  Its done, good.  Its all organized with all of the buckets labeled with what stuff is in there.
+Friday 30
+Got my oil changed at Michele's oil change place.  They dropped me off and picked me up.  Then headed over to the SDB and did my thing in preparation for BA.  Mellow evening at home with Muff.
+Saturday 31
+The whole time I was in Albuquerque staying at Diana's house I worked on organizing and packing up my shed.  I went over to Rand's house around 4PM and we had some dinner and went for a walk around the fields near his house.  Tessie and I had a really nice conversation too.  Earlier in the day I met Megan for lunch at Java Joe's on 10th street near where I used to park when I was going over to the City Office buildings to meet with Marty Chavez, Mike Albers, Deirdre, and Robin.
+
+
+August
+
+
+Sunday 01
+Mellow day at home.  Big walk late in the day all the way down to Indian School and then back up close to Dean's house.  Diana was home when I arrived and I took Muff out for a walk.  Earlier in the day I took it easy and did some last minute shed packing.
+Monday 02
+Quite the round up day at Diana's house.  Went for a walk in the morning with Muffkin.  Then did another walk on the ditch north to Montano then looped back behind Bob Levin's old house under the fence where all of the cattle are paralleling the Old Guadalupe Trail all the way to Van Cleve.  Then Mike Goss called me and we met on the Plaza in Old Town, had a super fantastic talk per usual.  Then I headed off and got some food at the Mexican grocery store and the Fruit Basket.  Had a small lunch and then finished packing up the shed.   Roy came over at 4PM and we chatted for about 2 hours and then I headed over to Kinko's for some final copies and then out to Placitas.  Michele and I went for a walk around the block.
+Tuesday 03
+Walk at 7am past Bill Patterson's house and out into the Open Space.  Did the big loop.  Work on Symfony.
+Wednesday 04
+Walk at 7am, work on Symfony.  I discovered today that this technology is rock solid, very well designed and a major force in the PHP world.  This is a really nice development from my perspective.
+Thursday 05
+Walk at 7am, start working on the Placitas poem.  Spent quite a bit of time today understanding PHP Doctrine.  Pam and James house late in the day.  Pam has lung cancer.  Walk with Ty and Barb around the block at sunset.
+Friday 06
+Ride into town to do some errands and take the remaining stuff to my shed.  Was back home around 2PM.  Mellow afternoon and evening at Honeybuns.  Called Mom and Dad from the top of the hill.
+Saturday 07
+Sunday 08
+Walk with Hb in the morning, then Jason and Gabe came out to the house to pick up their bikes.  Then I took my car to Diana's and then we went to Andrew and Katie Stone's party for Diane Denish.  Saw Jim Palmer and the whole crowd.  Brian and Lisa's house for Brian's 50th birthday party.
+Monday 09
+Walked the other way once I get to the end of the Open Space, BLM border.  Long talk with Gregg Williams, I had not spoken to him since before I was in California.
+Tuesday 10
+Internet was down all day.  Final walk the other way, and then up over the hill near to Joan and Prashant's house.  I love walking in Placitas.  Talked to Rand and Nick Secor and said goodbye.  Ended the day moving rocks to the spots on the driveway where water had eroded things.
+Wednesday 11
+Up at 5:30am, Hb takes me to the airport at 6:45am after feeding Ruby at Barb and Ty´s house.  The wait at the ABQ airport was kind of depressing, I was nervous and not excited.  The flight to Dallas changed everything as I sat next to a young man starting his junior year at SMU.  He lived in ABQ for many years and then his parents who are both math professors moved to Dallas to teach at SMU.  We discussed at length the politics in Mexico and the fact that the president was not really popularly elected as you remember Obregon came in very close to first.  So, the president is scared of the cartels and they know it.  This is the first conversation I have had on this topic.  This person knows as both his parents are from Mexico.  He had just rented an apartment for his junior year and he is pre-med biology.  He basically made my day.  Dallas was a disaster, so to speak, we didn´t leave till like 5PM and the plane was hot as we sat on the run way.  My hotel in Miami was nice and I had an excellent salad at a Cuban restaurant.
+Thursday 12
+Flawless day and flight to BA.  Highlight was flying over Bolivia and Sucre y Cochabamba.  Arrived into BA after nightfall in a major wind storm.  The man who picked me up was Italian and we spoke the whole way home. 
+Friday 13
+Changed money and bought water and spoke to Anna who is a professor of Chemistry at Ithaca College.  She is on her sabbatical year in BA and London.  Fun evening at work drinking sangria.  Everyone seems very nice, earlier in the afternoon I had a long talk with Kave.
+Saturday 14
+Nice day, walked all the way down to the River Plata and got to see a nice shot from the private club that the guard let me in to.
+Sunday 15
+Walk from all the way of the beginning of the Line D back to my place.  Had a nice lunch of chicken at a restaurant on Santa Fe and talked to a couple.  The guy lived in Miami for quite some time.  It was a nice restaurant.
+Monday 16
+My ATM card is working and I bought shaving cream which is a good thing.  Awesome day, headed out to the last stop on the subway and then walked across town.  Found a nice flea market in one of the parks and bought some warm clothes.  The sunshine made me feel really good.
+Tuesday 17
+First day of work went well.  Kave and I went out to lunch.  I met with Valeria in the evening and secured another two weeks of rent through September 2, and am only paying her for one more week.  I got my computer up and running.
+Wednesday 18
+Out to lunch with Jeff.  Got the database loaded, now on to getting the server running in Apache.
+Thursday 19
+Another fun day at work.
+Friday 20
+Big blow out night, first one in BA.  Up till 2PM hanging out with Ari Weinberg.
+Saturday 21
+Nice talk with Luis at the panaderia.  Napped most of the day and went out around 3pm to get some food and have a nice dinner of pasta.  Walk north of here to the big high way.  Watched some TV for the first time and went to bed early.
+Sunday 22
+Up early working on understanding Jobeet.  Big walk from downtown and hit two tango gigs.  One was downtown at the nice shopping mall called Galeria Pacificas which is where the tango school was, and the other class was in Palermo at Salon Canning.  Then I walked home and got home just at dark.
+Monday 23
+Paid Valeria the $302 for the month rent totalling $750.  Also, worked on the schema for mylingo classroom.
+Tuesday 24
+More work on understanding Symfony, plus begin looking at Android once again.  Found hot cereal, specifically instant oat meal.
+Wednesday 25
+Meeting with Kave, Jeff, Becki, and Karina on our first design of classroom.  Found Google Translate, this is huge.  Got Android up and running.  The key trick was to have 2 versions of Eclipse running on the same machine and just bring up 3.5 or 3.6.  Discovered and now understand the difference between prokaryotes and eukaryotes.
+Thursday 26
+Major progress on understanding how to do a REST demo with Android.  Finish watching the video from Google I/O.  Also, first day of defining the event model for the classroom.
+Friday 27
+I got the classroom database schema mostly figured out except for the foreign key relationships, I will hopefully finish that on Monday or early next week.  Went for a nice Friday afternoon walk around 3:45PM and got back around 4:30PM.  Stayed at the office till 6PM looking around for an android REST server to talk to and pretty much decided I am going to talk to the Google Finance API, although its not yet definite.  What is definite is I am going to do a public example using the design pattern in the Google I/O talk and put the code on Google code and use Google news groups.  Asado at Valeria and Jorge´s with Anna.  She is a cool woman, I got her email address and I hope to spend some time hanging out with her.
+Saturday 28
+A late night walk in the park with Anna and we meet one very interesting man who teaches us a lot about what it means to be in Latin America.  Earlier in the day I hang out.
+Sunday 29
+Mellow day at home reading, followed by walk west, towards the sun,  late in the day to the Highway
+Monday 30
+Got foreign keys working with class and level.
+Tuesday 31
+Pablo has been helping me a lot.  Finished the initial schema and populated the database and have a basic admin UI up and running for the classroom.
+
+
+September
+
+
+Wednesday 01
+More work on the classroom.
+Thursday 02
+Dinner with Jorge, Valeria, and Jose, a cousin of Jorge´s.  We had a nice dinner.
+Friday 03
+Starting to work on Doctrine queries.  At work till 7:30pm.
+Saturday 04
+Reading more about doctrine, started writing down spanish sentences to memorize, this is going to be a huge break through in my learning curve on spanish, at this moment this is more important than reading books, my speaking level needs to come up to my reading level.  bought a microphone today in china town.
+Sunday 05
+very nice day, early in the morning I studied Doctrine and how it works.  This is going to be a very key component of my work and I do not have Martin, Skye, and Dean to do the queries.  This time I am going to have to learn this stuff myself.  Then downtown to San Telmo for a beautiful day in Parque Lezama.  Then late in the afternoon I had a sandwich and a cookie and walked a bit into the heart of the mass of people in San Telmo, I will explore this another day without my backpack.  Got home, did a blog post and sent an email to Rand, Tessie, Sima, Lois and Susan Rogers.
+Monday 06
+Got paid today, plus the money for the Craigslist posting.  Pablo helped me get the join DQL query working.
+Tuesday 07
+Pablo helped me get the route information up and running for the class lesson link.  The weather is starting to turn to spring.  Had a nice lunch with Jeff.
+Wednesday 08
+Exercise content is now up on the screen as a list of exercises.  Chris heads back to Chile.
+Thursday 09
+Got a new tab up on the screen called demo1.  New guy at the house named Fabio from Rome.
+Friday 10
+Stayed at work till about 9pm.  Spoke to Michele on Skype, she talked and I typed.  I now finally understand the Google Android REST architecture.
+Saturday 11
+Museo de arte Tigre.  This was my first ride on the train.  I have still not been on a bus.  And the only public transit I had ridden up until today was the Subte.  Gorgeous spring day in Tigre.  An absolutely perfect day.  Hung out at the museum for quite awhile and watched the boats go by.
+Sunday 12
+Fun day with Fabio down in Boca.  Walked through San Telmo early in the morning.  Met a local tour guide who took us all around called Javier.
+Monday 13
+Firebug up and running and helping me to understand Cards and integration into Exercises.
+Tuesday 14
+Had a bad cold, so got to work late and left early.  This was Kavé´s last day in BA, he is going back to the states for awhile.  My BIO is up and running on the LD web site.
+Wednesday 15
+Close to understanding lightning cards but not quite there.  Nice talk with Fabio sitting outside.
+Thursday 16
+Got it, good job.  We have the first glimpse of progress on this project.  We have real stuff up on the screen.  Nice talk with Fabio sitting next to the computer.
+Friday 17
+Wild party at work on Friday evening.  Also, checked in my first round of working code for classroom.  This is good news.
+Saturday 18
+Fabio and I walk to Chacarita and then on to the Museum of Natural History at the Parque Central.  We had a nice dinner here at the house.  Fabio bought meat at the market across the street and we had some beer.
+Sunday 19
+Mellow morning at home.  Found a fast internet cafe where skype works on Monroe off Cabildo.  Spoke to Mom and Dad and Hb.  Dinner at Jorge´s and Valeria´s for empanadas with the boys from Cuba.
+Monday 20
+Parrilla on Blanco Encalada with Fabio, very nice dinner.  Working on new resource schema.  Spanish lesson with Bonnie´s boy friend Matias.  Checked out Jorge and Valeria´s studio.  By the way Parrilla means BBQ, I just officially learned that today.
+Tuesday 21
+Progress on ilcLog table in the classroom for MyLingo.  Another nice dinner with Fabio at home.
+Wednesday 22
+Nice dinner with Fabio in the evening, it was our final dinner.  I learned a lot from Fabio, especially the note about intelligence being the booby prize and that its down in your gut, your feeling, not up in your head.  More work on Android with Jeff Rosko.
+Thursday 23
+Fabio goes back home.
+Friday 24
+Tyler prompts me to upgrade to Ubuntu.  Big blowout party at work, one of the classics and then my rickjourney rant which defined the night.  Earlier in the day I came home for dinner at 4PM, which is a nice Friday afternoon adventure going forward and makes sense.
+Saturday 25
+Nice walk out to the end of where the 107 starts called Plaza Arenales at the corner of Nueva  York and Bahia Blanca.
+Sunday 26
+Took subway to Pueyerredón and walked back through Colegiales.  Had a nice talk late in the afternoon with Mike and Suzanne.  He is a software engineer from Denver and has been traveling in South America since January, so they will leave Oct 22 and will have been in SA almost one year. 
+Monday 27
+Getting Ubuntu up and running.  Sharon arrives in Pakistan safe and sound.
+Tuesday 28
+Its a done deal, we are up and running on Linux.
+Wednesday 29
+We are now up and running on Netbeans, and I am happy.
+Thursday 30
+Small late day gathering at the office, gang was headed over to Tyler´s and I went home.  The president of Ecuador is lucky to escape unharmed from an attempt to capture him.  This is quite the story.
+
+
+October
+
+
+Friday 01
+Met with Jeff Rosko for the first time, we went for a walk around the block.  Got javascript working late in the day for lesson drop down.  party at work but left around 8pm.
+Saturday 02
+Nice walk over to Palermo Hollywood late in the day to see a crappy apartment for $450 at 5PM.  I walked over there and walked home, it was a beautiful spring afternoon in Buenos Aires and I truly enjoyed our time.
+Sunday 03
+Spoke to Mom and Dad on the phone and walked over to Saavedra park at the end of a nice day.  The sun was setting.
+Monday 04
+Spanish lesson with Matias, Bonnie's boyfriend.
+Tuesday 05
+Working on classroom getting course list.
+Wednesday 06
+Course names are now up on the screen.  Interviewed Gaston for a job at Liquid.
+Thursday 07
+Got into my pictures that Bruce Norman took back on June 19, 2008.  Spoke to Hb and Andy.  Andy is doing well and Hb has left the school.  Luke is coming in this weekend and Michele is going to Hawaii next Friday.
+Friday 08
+Canadians are here to run the BA marathon this weekend.  Spanish class today and also work out the details of chapter dropdown and the whole idea of how to represent chapters in the system.
+Saturday 09
+Reading group followed by the first time taking the 151 bus.  Taking the buses is a big deal.
+Sunday 10
+Morning filled up with biology work on kinases and signalling.  Walk over to WalMart in the afternoon and took the 175 bus home, yet another bus added to my list of buses.  Long talk with Tom from Canada who are in town for the marathon they ran today.  Followed by another gigantic asado with wine.
+Monday 11
+Nice day with Perry and John walking around Recoletta. Lunch of pizza and beer on Avenue Santa Fe.  Day off for Columbus Day.
+Tuesday 12
+The boys were here when I got home, Peter, Tom, Perry, John, and Cullen all from the Toronto running club.  They were heading out to Cordoba on a night bus.  Earlier in the day worked with Pauline from France and Karina and I worked out some classroom terminology.
+Wednesday 13
+Rainy evening in BA, working on sound during the day in the classroom.
+Thursday 14
+Sound is now working in the classroom.
+Friday 15
+Asado at Josefinas house, spoke with Bonnie's brother Morgan who told me to work on my accent.  Took the train there with Jenny, Pablo, y Becky.  And came home on the bus down Cabildo with Becky y su novio.
+Saturday 16
+Nice day with Perry taking pictures at Recoletta cemetary, see blog post with Evita.  By the time I got home I was exhausted.
+Sunday 17
+Traditional walk over to China town for food.  First meeting with Julie Grichener at McDonalds.  Walk then out past tracks towards Walmart and took the Bus 114 home.  I am loving the walk in this part of town, it is very mellow.
+Monday 18
+Work on I18 translation of content.  Nice spanish talk with Matias, Bonnies boy friend.
+Tuesday 19
+A day in Uruguay for the first time.  Up early.  Great sunny, hot day.  Had two really good cheese and ham rolls that cost 13 Uruguay pesos.  Spoke to Michele about our lives going forward and her desires and thoughts.  Also spoke to Peter Day, Andy, and Mother and Dad.  Harold Byers died.
+Wednesday 20
+hang out with Tom the compliance finance officer from Toronto who was visiting town with Peter for the marathon.
+Thursday 21
+hang out with Cullen and Peter in the evening.
+Friday 22
+party at work till about 10PM finishing up first round of the classroom.
+Saturday 23
+walk with colin biggin out to the university passed the chacarita cemetary.
+Sunday 24
+nice day with peter and colin in san telmo, walked down to the park and back.
+Monday 25
+got the user language preferences working for native language, language you want to learn, and browser setting language.
+Tuesday 26
+more work on understanding native language and learning language.
+Wednesday 27
+Census day off in Buenos Aires.  Walk at the end of the day to look for some Tango places in my favorite neighborhood in BA.  Talked to Michele, Nick Secor, and Jim Sigman in the evening.
+Thursday 28
+Wrote Michele an October 28 honest letter.  Spoke to Michele on the phone.  Start working on MongoDB.
+Friday 29
+Total shift in perspective, day 2.  Discovered CouchDB.  First Spanish lesson with Rosa after work party.
+Saturday 30
+Walk over to Felipes house in the afternoon.  He has a very nice place and my room potentially would be on the second floor in the back.
+Sunday 31
+Mellow day, met with Julia to talk Spanish at McDonalds.  Moved lots of my stuff over to my new room.  Had a big asado late in the evening.  Kind of threw me off the next day as I did not get that much sleep.  So, I was kind of tired.
+
+
+November
+
+
+Monday 01
+Move my room over to other house after being in my room since August 12.  It was kind of an intense day.  Went with Joe down to the conference and ate lunch on the way in San Telmo inside a church or official looking building.
+Tuesday 02
+Second day of Google conference was excellent, met some cool people from Google.  The sun was setting and I was walking along the Puerto Madero and BA was in all her glory.  The subway was packed, but I did not mind it at all.
+Wednesday 03
+First day back after Google conference.
+Thursday 04
+Rough day sort of trying to recover mentally from attending the Google conference, plus Jeff messed up our server by writing over the password file.  Good news on the Mongo and CouchDb front.
+Friday 05
+Lesson with Rosa late in the day after our party.  Got the classroom in pretty good shape, finally once Jeff got the machine up.
+Saturday 06
+Really spectacular walk up in San Isidro and then south to a station closer to BA.  The neighborhoods up there are really nice.
+Sunday 07
+Nice dinner with Jorge, Valeria, Claudine from Montreal and a new musician Arturo from Chile.  At the end of the night he played his guitar.  It was a really hot night in BA.  The first hot night here.  Earlier in the afternoon I went for a walk.
+Monday 08
+After three months, classroom is rolled out to unilanguage.  Lots of rain in the evening, move some stuff back to the house.
+Tuesday 09
+Early morning and I am back home in my house.  Nice day at work, working on culture, profileculture, and languageculture.
+Wednesday 10
+Switch to Google contacts.
+Thursday 11
+Luis the baker is starting to learn English, I am teaching him some basic words.
+Friday 12
+Helen is staying here.  She is in the British army and was in Afghanistan for 7 months, and has run across four deserts.
+Saturday 13
+Poetry group late in the afternoon, before that I walked over to the place where Palermo Valley meets, pretty interesting.
+Sunday 14
+Mellow day at home.  Long talk with Peter.  Walked over to China town for some food and then back to the house to cook some dinner.  Had a nice nap.
+Monday 15
+Starting to think about going home early.
+Tuesday 16
+HTML5 Rocks, IE9 is finally going to do all of the graphics.
+Wednesday 17
+I now understand drag and drop in HTML 5.
+Thursday 18
+Very nice dinner with Mario, Jorge, and Valeria.  We had a nice small asado in celebration of Mario arriving.  He is a native Puerteño who has lived in Australia for thirty years.  We talked to very late in the night in Spanish, and my ear is slowly hearing more and more.
+Friday 19
+Another spanish lesson with Rosa, day 2 of some nice spanish lessons.  Continue to learn about rolling my R's and also more work on the indirect object pronouns, just more practice on them.  Got testing working today in symfony.  It was a struggle but Diego helped me at the end take the ball over the line.  Its good to ask for help, because his solution was not at all obvious.
+Saturday 20
+Got the book from the guy on the street about the interesting history of Argentina.  My eyes are starting to open up to what is happening around here.  Also, bought a watch at the chinese almacen for 29.50 pesos.
+Sunday 21
+Nice day, spoke to Mom and Dad.  Peter was visiting Michele's house on the way up to Santa Fe for Thanksgiving.  Pat's husband Syl passed on my birthday.  Went for a walk late in the afternoon.  Returned and spoke to Luis for awhile.  He invited me to his house for a meal next weekend which was very nice.
+Monday 22
+Really interesting day with Mario at his friends familys house.  We were there all day on a rainy cloudy day in BA.  We got there and talked for awhile.  Then we had a big asado.  Then we talked and had dessert.  Then we ate again, then we went home.
+Tuesday 23
+Back to work after a nice 3 day holiday weekend.  I got to meet Mario's brother.
+Wednesday 24
+Starting to better understand the Symfony Table class and Object class.
+Thursday 25
+More work on Ruby.
+Friday 26
+Mellow day at work.  Got french audio files up and running.  Did not stay after work.  Went home and talked to Hb late in the evening.
+Saturday 27
+Major push into the world of Ruby.  Long walk at the end of a cloudy day over to the park where the 107 bus starts.  This was my second time walking all the way over there.  I am learning my way around a bit better.
+Talked to Hb twice today, that was the first time that I did that.  I met Marios little cousin who speaks English.  Her grandparents are Jewish.
+Sunday 28
+Pack up my stuff to move tomorrow morning.
+Monday 29
+First night at my new house.
+Tuesday 30
+Mellow day at work.  Also a nice read about Shakira in the local paper.  I am able to read these articles and get a pretty good handle on them.
+
+
+December
+
+
+Wednesday 01
+Starting to spend more time on Ruby in the morning at work.
+Thursday 02
+Move over to Valeria's studio.  I will be here until Jan 11.  Hang out in the evening with Luis and Fernando on the corner.  It was fun.  Meeting earlier in the day with Pablo, Jeff, Kave and Becki.
+Friday 03
+Paid Valeria through Jan 12.  Starting working on tests for phase II of classroom.  Party in the evening at Becky's house after hanging out at work and partying with Ian and Pablo.
+Saturday 04
+Guy comes to fix the outside shutters.  He got here at 9:30am.  Walk late in the day.
+Sunday 05
+Three hour talk with Peter Day.  Plus nice chats with Hb through out the day.  Walked to the edge of the city at sunset and got a cookie on Cabilido on the way home.  This was my first weekend on the 6th floor.
+Monday 06
+Got HTML5 version of Drag and Drop working.
+Tuesday 07
+Got JQuery UI version of Drag and Drop working.  Jeff Milton's milonga in the evening.  Nice event.  Ariell was there, it was her last day at Liquid.  I got home after 3am.  Took the 152 bus home.
+Wednesday 08
+Had a really nice chat with Hb early in the morning in Placitas.  Went for a walk out to the 107 bus.  Walked around that hood and saw the Devoto train station.  Talked to a young girl in a restaurant from Uruguay, she did not know Martin.
+Thursday 09
+Kave informs us that Cramster was sold to Chegg.  This is good news as he will not be closing up shop any time soon.  Walk after I got home out Cabildo toward the end of Capital Federal and had a cookie.
+Friday 10
+Awesome evening with Rosa and her friends.  We went to a nice dinner at a Peruvian Marisco in Abasco.  We took the subway down to 9 De Julio and then the Red Line back up to Abasto.  The meal was great and then we went to another place for dessert.  Rosa's friends boh from Peru were very nice.  I bond well with people from Ecuador and Peru, and then Argentinians are slightly different but I like them too.  Its just very interesting to see the difference in the person from the different countries.  I got up and running on well on MyLingo with the initial cut of the drag and drop code.
+Saturday 11
+Mellow day at home, walk late in the day.
+Sunday 12
+Mellow day at home, walk late in the day. China town early in the morning.  Worked all day on understanding CSS for mylingo.  It is now working.
+Monday 13
+I am getting better at Javascript.
+Tuesday 14
+Really nice party for Palermo Valley at Konica on 3131 Sarmiento.  Met two cool guys.  One guy who spent three years in the states by the name of Nicolaus Rosenbaum.  He also lived in China for a bit.  His friend Rick Monte has  a company called streema.  Their back end is all in Python.  I had two beers and one daquiri and had a nice ride home on the 151 bus.
+Wednesday 15
+Stopped by the dentist to make an appointment for tomorrow.
+Thursday 16
+Appointment went well.  I am set to visit a periodontist on Monday December 27.  Long talk with Michele in the evening.  Long walk all the way to my spot in the park for the 107.  It is hot here now, and the walk was very peaceful.
+Friday 17
+Hot day in BA.  I got divs now working.  So I am able to put divs on a screen and now need to integrate the code back into the new model.  Went home early and went to sleep at 9PM.  Also starting to look at articles on the UBA web site magazine Espacios.
+Saturday 18
+Early morning walk to 107 Park source.  Long talk with Hb about us.  Making some progress.  Spanglish for the first time in the evening at a club in Palermo Hollywood.  This is quite an interesting area with lots of bars and restaurants.
+Sunday 19
+An evening with Rosa and some of her friends.  First we went to church, which was an interesting experience in and of itself.  And then we went to a restaurant.  It was me and Carmen's boyfriend and four girls.  Carmen, Barbara, and Sandra, and Rosa.  Earlier in the afternoon I circled around to the Saavedra Park.  This is going to be a new route I take and am excited to find another new walk.  There are many more walks to be had in BA.  This weekend was absolutely spectacular weather wise, as it was not too hot.  The heat is kind of draining on you and puts you in a state of delirium.
+Monday 20
+Wrote a note on the dream at Scott's parents house.  Got javascript going with new sortable model.  Talk with Kave about finance and strategy for MyLingo.
+Tuesday 21
+Went out to dinner with Nicolaus who I met last week at the Palermo Valley Holiday party.  We had a nice Peruvian dinner down the street next to the Parilla where Fabio and I had dinner.
+Wednesday 22
+Nice long walk at the end of the day to my favorite spot.  Only this time I cut over at St. Martin and caught the bus on Olazabal.
+Thursday 23
+Nice evening at Antares, a bar a bit towards downtown.  Got there are 8pm, and Kave bought everyone a round of beers.  Becky was there after returning from her journey to the Bahamas a few days earlier.  We had a nice time and I got home around 11PM.  Marco told me his dad lived out in the country and that his mom is from Tucuman.
+Friday 24
+Great day.  Up at 5AM.  Walked for a bit to buy some groceries during the day.  Everyone was out running around, this is the final day of the big hurrah.  I spoke to Hb and to my parents.  We had a nice chat.  In the mid afternoon I went to sleep for awhile.  I awoke and went out for a walk around 7:30PM.  The streets were quiet.  Carrefour had closed at 6PM on Christmas eve.  I walked for a bit and then returned home.  I hung out for a bit and then went over to Carmen's house.  I had a nice chat with her brother.  We stayed up till 5AM on Christmas Day.
+Saturday 25
+Rosa, Carmen and I take the bus home, number 60.  I arrive home around 6AM.  I sit here typing at 6:30AM.  It was one of the best Christmas Eve's of my life.  And one I will remember for the rest of my life.  This is the reason I am here in Latin America.  To experience the simple pleasures of life, like the experience I had last evening.
+Sunday 26
+Back on to protovis.  Three hour talk with Peter.  Spoke to Hb twice.  Walk at the end of the day.
+Monday 27
+Silvia Levin at 9am.  Luckily it is no grande problema.  Walk late in the day the other way.
+Tuesday 28
+Start working on image fade animation.
+Wednesday 29
+The weather cooled off slightly to make for a much more pleasant day in BA.  Kave is starting to look for new offices to move to in and around the city.
+Thursday 30
+Major success at work with Javascript and css.  We are making progress here.  Nice long walk at the end of the day out La Pampa.  It was my first time going this route.  I will slowly make my way over and find routes that work still ending up at the same spot.
+Friday 31
+My first full blown bilingual writing using google translate.  I will make sure I practice each sentence to understand better what I am writing and be able to slowly move past this crutch.  But for now this is going to be the way I learn to speak by writing and having an assistant.  New Years eve was a beautiful experience with Rosa, Carmen, and her boyfriend Ruben.  We first went to Rosa's English teachers house high above Belgrano near the train station and China town.  Then on to Ruben's house for dinner.  We ate dinner about 1:30AM.  At 5AM, we headed off for a journey around BA and ended up on the Rio de Plata at sunset drinking coffee and talking with Rosa's two other friends who drove us around BA.  It will be a night to be remembered.  I told Rosa it was one of the best New Years Eves of my life.

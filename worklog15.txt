@@ -1,0 +1,500 @@
+﻿12/24/2015
+Looking at beats and logstash.
+
+
+12/22
+Started looking at the clients including the Javascript one.
+
+
+12/21
+First day working on ElasticSearch.  This is what I am going to be working on mainly for now, even after I start my job at BuzzSumo.  Got Kibana up and running and starting to understand the functionality of it better.
+
+
+12/18
+First talk with Steve Rayson at 9:30AM on a Friday morning.  It was Tuesday, 3 days ago that I signed the contract with Henley.
+
+
+12/17
+More work on understanding Hugo.
+
+
+12/15
+Early in the morning I sent Henley a note asking him what was up.  One hour later I had a contract.  At noon I spoke to him about some minor stuff about the setup of the company in Wyoming.  I sent him the scanned contract along with a hard copy to the HR person by the name of Alexandra.  Hb and I went over to RiteAid to buy some envelopes and then we went for a walk at the park on top of Witham Hill and down to Harrison.  Afterwards we swung by the Post Office and dropped off the contract.
+
+
+12/12
+Started looking at Hugo as an alternative way to do static web sites in the context of viewing Bolt data.
+
+
+12/11
+Realized today that Etcd picked up Boltdb see git checkin May 27, 2015.  Also, worked on a UI for Boltdb called Boltd which uses a template language by Ben Johnson called ego.  This will be a model way to visualize bucket keys in Bolt
+
+
+12/10
+Understanding BoltDb Memory Maps.
+
+
+12/09
+Much better understanding of javascript callbacks.  Working on nedb internals.
+
+
+12/08
+Spoke to Henley again in the morning.  Then followed up on references with Martin and Jeff Milton.
+
+
+12/07
+Working on nedb and ui-grid.  Also, spent a lot of time reading the Elasticsearch docs for my interview today with Henley from BuzzSumo.  I am understanding the ES docs pretty well.
+
+
+12/04
+Next step will be to tie the ui-grid to nedb.  As the simple Nedb example uses a very simple table --- and it would be cool to have really nice tables talking to nedb for many reasons both in the blockchain world, and the zax-dash world.  First contact with Henley from BuzzSumo, see email.
+
+
+12/03
+So we are working on Angular tables with ui-grid.
+
+
+12/01
+Up and running with Express and Nedb.  The cool thing about my work is I can remember what I was doing by looking at my Github and see what I have been working on for the past couple of weeks.
+
+
+11/30
+After struggling the past 1.5 days I got Zax dash running standalone talking to a separate Zax process as well as running inside Zax, it is all now documented on my github repo.
+
+
+11/29
+Starting to work on Zax Dash.  It is a cool project as it ties in Zax, Glow, AngularJS and Coffeescript.
+
+
+11/28
+Working on a re-write of the Zax mailbox without the requirement of having a message expire independently of the mailbox.
+
+
+11/27
+Bitcore up and running from scratch with independent bitcore-node, bitcore-lib and insight-api repos all building and npm linking by themselves.  I am now ready to start working on bitcore-node talking directly to btcd via websockets now that the pieces are in place. 
+
+
+11/26
+Max releases Zax and Glow and I do a PR on Zax right off the bat.
+
+
+11/25
+After working on it all day it is up and running.  I got this working.  So we are now talking to btcd through nodejs.  This is going to be HUGE, as I can now use this to get insight talking to btcd via modifying the calls in bitcoind.
+
+
+11/24
+After a careful study of bitcore it was determined to get nodejs talking to btcd, stay tuned.
+
+
+11/23
+Had a nice talk with Ev Kontsevoy <ev@gravitational.com>
+
+
+11/19
+Discovered regtest for bitcore as a way to test it going forward.  Starting to talk to bitcoin via bitcoin-cli -regtest help and more importantly bitcoin-cli to generate new blocks for simulation purposes. 
+
+
+11/18
+Starting to get into socket.io which is used by the insight-api and btcd uses websockets as well --- so look into talking to btcd via socket.io etc...
+
+
+11/17
+Back into Golang and Btcd.
+
+
+11/16
+Call with Michael from Spinnakr about starting work on Dec 14.
+
+
+11/15
+So it appears that the bitcore-node is not rock solid as it does not always bring up the service.  Something wrong with the database.  Moving back to the Golang blockchain. 
+
+
+11/13
+Got an email from Michael Mayernick yesterday.  He wants to talk to me next week about a project he is thinking about working on.  Also, updated my resume on Github and wrote up a new post on the Bitpay Ecosystem.
+
+
+11/12
+Got some insight (no pun intended) in the Pittsburgh airport.  Going to drive forward with Angular on multiple fronts including using the insight-api as the basis for other blockchain visualization projects along with cres and kibana.  I am going to table Golang for now in my marketing efforts for my next job and focus exclusively on Nodejs projects for now.
+
+
+11/09/2015
+Starting to write my own service which will save off the individual blocks.  I got a request parameter to the service and saw it print out.  The service is the key to the whole bitcore-node system and I am finally at the point where I have the tools to start writing them.
+
+
+This is a good time to take a break prior to going down to Ashland.  So I am taking the rest of the week off and will start back at it next Monday November 16 on Bruce Berk’s birthday.  
+
+
+It has been a very productive time while I have been home.  I am pretty much totally up and running on the Bitpay platform including insight, insight-api, bitcore-lib, and bitcore-node which is all encapsulated in bitcore.  Great job on my part in staying focused and finishing off part I of a chunk of work.  With these tools, and some front end angular work you should have yet another good story to tell to seek employment.  Other interesting notes is that I have a basic understanding of the LevelUp, LevelDown, Memdown stack which is the persistence engine behind bitcoin and bitcore 
+
+
+11/06
+Up and running with a much better understanding of how to test bitcore-node which is the heart of the bitcore world for talking to bitcoin.
+
+
+11/02
+Starting to work on Insight and the internal workings of it.  Got my first clone of Insight as a separate repo up and running.
+
+
+10/30
+Continuing down the BitPay route learning the core pieces of their infrastructure.  Got insight up and running locally so that I can make local changes to the code and see them appear in the browser.
+
+
+10/29
+Trying to get a transaction on to the network so that the Stamping Service would go to the next step.  Need to better understand how to get raw bitcoin transactions on to the network using playground and bitcore-lib.
+
+
+10/20
+Back into Btcd and the wallet code as well.
+
+
+10/19
+Up and running with Bitpay again, this time working on the integration with Node.js and their new bitcore-node initiative
+
+
+10/17
+Working on Angularjs and the design pattern Dependency Injection.  Reading about it and understanding it better also in the context of Zax Plugins.
+
+
+10/16
+Friday.  This is my first day of work on my own.  I started things off by a better understanding of the Go build system.  Which is work I had started a few months back.  I am now able to build individual tests and package tests inside Go itself.
+
+
+10/15
+Last day of work at Vault12.  This week I finished up by documenting the tests in Zax.  I added some Readmes and did a good job on my last couple of days.
+
+
+10/08
+CSS work via Angular Material
+
+
+10/07
+Log in this morning to find out max has run out of money for me.  End the day on a good note with coming up to speed with electron.
+
+
+10/06
+zax tests are broken, at the end of the day max fixes them and I finalize transactions.
+
+
+10/01
+Up and running with mbx transactions prior to taking tomorrow Friday off to go to Belknap.  Max and I chatted on Slack this afternoon and agreed that the watch key works for the semaphore as well as advising to only watch one key namely the mailbox list which everyone is trying to change.
+
+
+9/21
+Worked all day on figuring out how to do the callback / then promise correctly in coffeescript related to request / request-promise.
+
+
+9/20
+IP Stress Test Infrastructure
+All morning I was working on the gulp build system and in the afternoon I moved to implementing request.
+
+
+9/16/2015
+Merge the nonce repeat branch into master.
+
+
+9/14/2015
+Merge the new mailbox into master.
+
+
+9/11/2015
+Working on the new mailbox.  Helped Juraj get up and running with Zax, Glow and Redis.
+
+
+9/4/2015
+command tests moved over to the integration folder from the controller folder to compensate for reading partially the command body and then the rest later.  it looks likes with the tests it rewinds to the beginning and that is why we needed to move the tests.
+
+
+9/3 Thursday
+hpk_test up and running and simulating writing to multiple mailboxes.
+
+
+8/28 Friday
+Code review with Max on spec update with no headers.
+
+
+8/19
+Session Controller pretty much up and running, tomorrow we will move on to the Proof Controller.
+
+
+8/18
+Begin work on Zax with no headers.
+
+
+8/17
+Travis is up and running on both glow and zax.  Port glow to node v0.12.XX
+
+
+8/14
+Pushed all of the code from the glow sendmessage branch back onto master.
+
+
+8/13
+Pushed all of the zaxredis changes back to zax.
+
+
+8/11
+Finally got glow to upload messages to Zax.
+
+
+8/6
+Major progress on the Relay service in glow, but not there yet.
+
+
+8/5
+Start to work on the glow flow with zax.
+
+
+8/1
+Made a minor change to the proof controller that enabled count to return the number of messages in the mailbox.
+
+
+7/31
+Finishing up the zax components and will move on to glow soon.
+
+
+7/27
+Starting to work on the zax command controller.  Max gave me the go ahead to rename theglow -> glow and I did that on Github.
+
+
+7/24
+Up and running with Redis on Zax.  Max made the decision on Wednesday July 22 @ 15:04.  So we have the mailbox working and persisting data to a Redis list on Friday afternoon.
+
+
+7/20
+First official day of work at Vault12.  Worked over the weekend starting Friday 7/17 getting back up and running.  Today I wrote some unit tests for Mailbox.
+
+
+7/16
+Back from vacation for 2 weeks to Olympia, Vancouver Island, {Victoria, Parksville, Nanaimo}, then on to Bellingham and back to Olympia. 
+
+
+7/3
+Starting to look at zax and learn coffeescript.  I am liking coffeescript.
+
+
+7/2
+Signed the final contract in the morning and by the end of the day I was up and running with zax as the rails server and glow as the crypto library.
+
+
+7/1/2015
+Starting to work on shamir secret sharing after a call into Max where we nail down the details of the contract.  Did this after walking into town to go to the library and farmer’s market and then walk back home.  It took me two hours to do the round trip.
+
+
+6/28
+On Sunday morning at 11AM I land a new job at Vault12 with Max.  This is the first reference of the company name in this blog.
+
+
+6/26
+And from Atom we circle back to Angular once again.  I need to know Angular so I can embed it back inside the atom and electron framework.  And now that I have mostly finished the bitcoin for now, I can do the final work on Angular to round out my post spinnakr education.  In summary we have done Golang from a high level and etcd and btcsuite in depth.  It is only appropriate that we conclude with Angular prior to landing a new job.
+
+
+6/25
+Coffeescript has taken me to the next natural spot which is Atom.  Start taking a serious long look at Atom and how it works.  Today I spoke to Brandon Forant.
+
+
+6/24
+First day ever looking in serious detail at Coffeescript.  This is in reference to a potential job with Max, whom I spoke to yesterday.  Today I spoke to Jake Carpenter.
+
+
+6/23
+First time talking to Max at 4:30PM this afternoon.  Then I walked over to the Farmer’s Market.  Quickly learned today that I can set maxpeers=0 and then have the btcd basically sit idle.
+
+
+6/19
+Upgrade to Yosemite as OS X 10.11 "El Capitan" was announced on June 8, 2015.  So this was my big chance to get in under the wire, so when El Cap comes out I won’t have to go there until the next OS X announcement next summer.
+
+
+6/18
+Today is the first day back to work after a couple of days off.  I took Hb up to Portland on Tuesday and got back last night.  It took me awhile this morning to get focused and keep going with btcsuite but I am now doing the final first pass push on txscript and blockchain.
+
+
+6/15
+A couple days back I started working on math again.  It has been years,  my first focus is related to cryptography so I am studying group theory in relation to elliptic curves.
+
+
+6/12
+Up and running with the block manager, pool manager, and the way peers get connections via accept listener.  The bitcoin stuff is really coming together, and I am almost ready to start marketing for a job.  It has been exactly two months, see entry on April 13 when I started phase II of working on bitcoin.  And after just checking the log, exactly one year to the day, see 6/12/2014 when I started looking at bitcoin phase I.  This means to me that I have to pursue this endeavor.  I am going to make this bitcoin technology work in my favor.
+
+
+6/09
+Deep dive into btcd.  Figured out how the logging system works and starting to look at Peer.
+
+
+6/05
+Working on LevelDb unit tests in btcd.
+
+
+6/04
+Starting to work on LevelDb.  Today I got the Insight Blockchain Explorer GUI and Api levels understood.  The GUI is talking to an api level / json api that is being generated in another repo.  That repo appears to read the DB directly however, the API level must talk to Bitcoind as well.  Ideally, I should be able to swap in btcd instead of bitcoind.
+
+
+6/02
+Up and running with sending transactions into btcd.  Spent most of the day looking at the June Hacker News who is hiring and sending out resumes.
+
+
+5/22
+Start understanding atom shell so I can get copay up and running.
+
+
+5/21
+So I found brainwallet for the 2nd time, this time I now understand what it is about.  Next step is to get the data onto the network with a send.  I need to be able to create a raw transaction, make sure it is valid, and then put it on to the network.
+
+
+5/19
+Actually got copay up and running and for the first time was getting test coins from a faucet and then delivering some of those coins via the copay wallet to my other addresses that were created manually via generating an address from bitcore and then entering that address into the test faucetbox.  This is my first real experience and understanding of the wallet and actually how it works.  This is a good thing to do, to get a better understanding of the mechanics of how bitcoin works.
+
+
+5/17
+* bitcore-wallet-service
+* bitcore-wallet-client
+* bitcore-wallet
+* bitcore-wallet-utils
+* copay
+* ---
+* bitcore
+* bitcore-playground
+
+
+All of the above are now up and running on Sunday.  Today I got all of the wallet code up and running and yesterday got the playground up and running.
+
+
+5/16
+All of this work is predicated on being able to better understand the golang aspects of btcsuite in relationship to the other leading bitcoin platforms. This has clearly been an interesting couple of days for me, as I gather steam and branch further out into the bitcoin world.  The more I venture the more I like.  This is where we are at currently.  So I have now narrowed down my comparison of bitcoin libraries to 
+* bitcoinj
+* bitcoinjs-lib
+* bitcore
+
+
+5/15
+The past couple of days I have been exploring other bitcoin tools and libraries.  Today I found bitcoinjs-lib.  So now we have Golang, Java, and Nodejs covered.  I will probably skip a Ruby version for now, but I am pretty sure there is one out there.  Having these comparisons will be significant for a total understanding of the underlying principles of bitcoin and will give me an in depth look into the underpinnings of bitcoin.
+
+
+5/14/2015
+Up and running with bitcoinj maven tests and examples.  This all happened on the first day of discovering bitcoinj.  This is Part II of my bitcoin adventure and education.  Part I was btcsuite.  I will now hopefully be able to merge the two technologies.  I am excited about Bitcoin.
+
+
+5/13
+Heard back from Elastic and they said no, which is great news in a twisted way.  It enables me to move on and not be distracted by this issue any more.
+
+
+5/12
+Discovered bitcoinj. This is (I believe) the next big step in my bitcoin learning curve.  It defines another clean API implementation, besides btcd, that has been very thoroughly flushed out.  It also provides lots of other tools I can use to continue development and understanding the bitcoin ecosystem.  This is the first mention of bitcoinj in worklog.
+
+
+5/11
+So I have worked heads down on btcsim for the past 13 days and I am now ready and excited to move on to both the wallet and the core.  Hopefully, I will able to stay focused on this work and not get distracted with a job from someone not working in this area.
+
+
+5/1
+My first pull request to btcsim was accepted; last night I talked to Dave and he approved the idea of changing the name of common to node.
+
+
+4/27
+Work on boltdb in the context of the wallet.  Spoke to John Stanford from Solinea and Kristopher, who is from New Orleans and is the CEO of Evolute.
+
+
+4/25
+Early in the morning I sent Michael (hopefully) my final email.  I fixed the nginx server and ran a drain on the visits.spike queue.  See email on this day.  I think I finally came to closure with Spinnakr.  As of this time, Michael has not emailed me back.  So it is pretty clear I don’t want a reference from him any way.  Oh well, just send him a lot of love and forgive yourself for any harm I caused myself by sending the email on this date.  This part of my life has been an interesting story.
+
+
+4/24
+This post inspired me to do some more research.  Better understanding of Merkle trees.  Also started taking a look at Ipfs.  So, tying more together the block chain technology into other fields and disciplines.
+
+
+4/22
+More work on btcsim.  Starting to understand how to use btcrpcclient in the context of getting btcsim to work.
+
+
+4/14
+Starting to work on btcsuite.  Btc is my new etcd.  Having this here, will enable me to fully understand the bitcoin and blockchain technology.  Had someone not written a full bitcoin node implementation in Go this would not have been possible.  But now we are up and running and well on our way to understanding bitcoin.  I believe this to be yet another big breakthrough clearly for 2015.
+
+
+4/13
+I started out with Node.js about one month after returning from Argentina in April 2011 in Placitas.  Today, I fully understand Gruntjs which was not even out at that time.  Starting to re-look at bitcoin.  Take a look at your work entry from 6/12/2014.  You will note here that 2 days after being let go from Spinnakr the first time that one of the first things you did was take a look at bitcoin.  Being so caught up in etcd since post Jan 15, 2015, they day we were let go from Spinnakr, I had not had time to explore further from here, and since that was my core golang model package there was no need to go further afield.  But now that etcd is pretty tucked in, I can move on to my next big foray, and I believe bitcoin might be it.  This is my first mention of bitcoin this year in worklog.
+
+
+4/6/2015
+So last night we went to Lee Miller’s house, Craig and Jackie were there and we had a great evening.  We got in the car at 10:22PM.  Today I realized several things.  That with a bit more effort I can come back up to speed with Angular.  It has over 37K hits on Github and the spark behind this is that Kibana 4.0 is out and uses Angular.  So like Etcd with Go, I have a model system with Kibana to crank back on the lever of Kibana.  Plus the new version uses Express instead of Sinatra for the server, so I am totally back up and running with Node to round out the trio of languages namely {Golang, Node.js, and Ruby}.  Also, I decided NOT to work on the Redis Cluster go client, it is just too early.  More clients need to get flushed out and someone else will emerge with a Go client for Redis cluster.  In the meantime I can study all of the other clients as well.  Plus, Gary, the guy behind Redigo doesn’t seem that cool, which means working with him would be a pain, and I am not looking for free pains to deal with.  So I am off to the races with Angular and Node.js, and will use this as a second jumping off point to look for a job.
+
+
+4/1
+Redis 3.0.0 was released today and so begins my journey into a better understanding of Redis cluster.  Also working on go-examples for a better in depth understanding of golang.
+
+
+3/20
+Got the golang build up and running and starting to work with just building the go package unit tests.  This my first foray into the golang package by itself.  This is an important next step in career development to understand in depth how Golang works internally.  FYI, I started working on Go for the first time in my life on August 6, 2014.  From the worklog14 post.
+
+
+8/6/2014
+Golang is up and running on my computer for the first time in my life.  Looks like this is the first commit to this repository.  So this is when we started working on the Spinnakr Generic Event System.
+
+
+And it all started here.
+
+
+03/18
+Start taking a look at Rocket and Golang Build Notes.
+
+
+03/16
+Found gitbook as hopefully my infrastructure for my book.
+
+
+03/13
+Total focus on rafthttp.  This has been my primary focus since returning from Florida.  I think I am getting close to wrapping my head around this package.  Then the write up will begin.
+
+
+02/11
+Day Two of all Raft.  Today was HUGE !  I am now up and running and understanding func (r *raft) send(m pb.Message).  It took me all day to get there but the big breakthrough was realizing that the etcd-dump-logs was the algorithm I needed to build FilterMessage inside send.  Now I am able to understand what the messages look like and how they interact with other parts of raft.
+
+
+02/10 
+Spend the rest of the trip working on Raft now that I understand the underpinnings of both the Github API and the time series databases as a function of the AST and specific filtering based on language primitives of the data structures.  More work can be done on this topic, but not until after I have a new job and have more time to look into this.  For now, all of the focus will be on Raft.
+
+
+02/09
+Florida is turning out to be a productive place and time.  Got up and running today with influxdb which led me to the boltdb which led me to testing the boltdb using wiki.
+
+
+02/07
+Day 3 of the Github API.  I now have search up and running.  Yesterday I worked on the public firehose events.  Eventually, all of this data will serve as a testbed for other things like Nsq, Etcd, and Vulcan.  It will just be a great test data set.  In a certain respect, one can look at this data similar to data we were getting from Spinnakr.
+
+
+01/27
+Working on Jekyll Resume
+
+
+01/21
+Day 1 of NSQ, part II.  The motivation for this was looking back into libchan, go-codec, message-pack.
+
+
+01/20
+Get the new version of Kibana up and running.
+
+
+01/18
+Sunday morning I am now totally clear that I am done with Spinnakr.  I awoke this morning in a sense of complete certainty on this decision.
+
+
+01/15
+Michael and Adam give me the bad news for the second time.  On Friday I had a long talk with Peter about it.  On Saturday morning Jan 17 I sent off my last documents to Michael and basically told him I was done with working at Spinnakr.
+
+
+01/04
+Major re-read of the Raft paper to get a better handle on how things work.  Also start looking at the Raft tests.  I looked at them awhile back, but it is been months and things have changed a lot.
+
+
+01/03
+Positive feedback from Bruce at the campfire on Raft as an innocent bystander.
+
+
+01/02
+Continue working on documenting etcd as a markdown document on github.
+
+
+01/01
+So here we are at a new year, and the plan for the first couple of months is very clear.  Even if I lose my job prior to going to Florida.  Until my return from Florida all I am going to focus on besides work at Spinnakr is Raft and Etcd.  That is it, nothing else.  In March when we get back from Florida then depending on how things go up till that point I can start marketing my Raft and Etcd skill set to find work in that area.  
+
+
+2015

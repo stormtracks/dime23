@@ -1,0 +1,1737 @@
+﻿here is the webpage for this document
+
+
+Pull Requests on Nushell
+Link to this doc
+
+
+Sunday Dec 31, 2023
+The final day of year was spent getting a SimpleLog working with Reedline so I could see the print statements go to a separate file.  Also continue to understand, mejor y mejor how the nu-cli repl works in concert with Reedline.  This is all in the context of a deep dive into the Reedline Menu System which I am gaining alot more knowledge of.
+
+
+Monday Dec 25, 2023
+
+
+My christmas day message to the nushell core team in the context of a newly published editor called LineEditor
+
+
+Maybe just do another nu-cli-XXX (as an experiment) with Lineditor --- that is why ideally I would like to have all of the history "stuff" decoupled from reedline and have a simple crate with a nice interface to use it...
+
+
+recently been spending more time understanding reedline better 
+
+
+storm — Today at 8:45 AM
+
+
+Going on here....
+
+
+We want innovation in the line editor technology from different developers --- so the more folks who develop reedline type of applications the better in my view...
+
+
+I believe reedline can be a lot better --- it was our first crack at getting this right...
+
+
+Just like the parser / engine-q etc...   We are innovators --- so that is why the CLI and nu-cli in general has to be modular
+in its making so we can integrate the different components more easily
+
+
+clearly we don't want to any type of lock in (in our design) --- and if one appears its just an opportunity for more experiments 🙂
+nushell is a piece of the puzzle in a much larger ecosystem of new types of terminal technologies / visualization techniques etc...
+
+
+think about how broken the web browser is and what it takes to make nice UI's with all of the React and HTML (junk)
+
+
+now think about the basis for terminal technologies today in 2024 (almost) --- still old style protocols 
+
+
+nushell will fit very nicely into a new world of technologies as they develop further...
+
+
+Sunday Dec 24, 2024
+I wrote my piece to Craig Holiday who is the CFO of Space & Time in regards to his letter to me on Friday cancelling out all of my stock options see email entitled "Michael Angerman Summary of Work while at Space and Time" on this day
+
+
+Friday Dec 22, 2023
+We brought on Yash and Ian on to the core team.  I got an official letter terminating my SpaceTime agreement. 
+
+
+This was an interesting year on the work front in many ways including some not great situations.  The first one I can remember is the whole Iox debacle with them closing off the source code and no longer maintaining the code going forward.
+
+
+The second example was Space and Time and how it unfolded against my best interests in many ways.  First of all they were the ones who initially contacted me and then in the end many not great things happened.  The project was cancelled, Brent left, Scott was just pretty strange and not available etc...  and they cancelled my agreement a few days before I would have vested my stock options.
+
+
+Wednesday Dec 20, 2023
+Reedline deep dive into:
+read_line_helper                   handle_event
+repaint                                 handle_editor_event
+buffer_paint
+
+
+Sunday Dec 10, 2023
+
+
+I went back over these notes to see whether in the past I have ever started working on committing time to reedline and the answer is "no".  This is the first time I have said I want to work on Reedline and give it the time and energy it needs to get a better understanding of it.
+
+
+Day 1 (One) Reedline.
+
+
+Today is the darkest day of the year in the evening as well as I believe my commitment to spend some good time coming up to speed on reedline.  If you think about it this is really the magic sauce of nushell along with the underlying nu language and the set of commands that is supports.
+
+
+Saturday Dec 09
+The history cleaner is pretty much done and so I am moving on now to a better understanding of reedline.  I commented on a PR having to do with the history api.  My intention is to possibly spend more time coming up to speed on reedline.
+
+
+Sunday Dec 03
+Today I spent most of the day at home working on the stuff to get the history cleaner up and running.  I made some good progress but its not done yet :)  
+
+
+Monday Nov 27
+This morning I spent lots of time looking at all of the Nu files in the nu-std crate.  It is the first time I took a good long look at what is in this crate.  This evening I kept digging further into eval_expression.  So we are (at the moment) fully engaged in diving deeper into the innards of the nushell world :) 
+
+
+Saturday Nov 25
+I spoke to JT / Sophia about new-nu-parser and learned that Expr will be replaced by AstNode.
+
+
+Thursday Nov 23
+Thanksgiving day in the morning I got notrace up and running in about an hour and I initially thought it could take a week.  I love when that happens.  Now I can do some trace logging in the context of better understanding how eval works.
+
+
+Sunday Nov 19
+A few days back From jq to Nushell was posted so I have been working with those examples.  It gave me the opportunity to start to work on translating the json strings into nushell data structures via the | from json command.  Taking those json strings and turning them into nushell nuon data structures turns out to be rather simple, but it took me awhile to figure it out.  So progress is being made on that front.
+
+
+Wednesday Nov 15
+Been doing *lots* of work on configuration for nupm in the context of nu-git-manager and I think I "finally" might have things worked out.  This morning I took a look at Antoine's dotfiles setup etc.   Over the past weekend I spent some time looking at the new Record refactor work done by @sholderbach.
+
+
+Sunday Nov 05
+Today I spent some time looking at overlays in the context of the scope commands.
+
+
+Friday Nov 03
+Nailed a bad bug that was a function of rust debug mode / versus release mode in the range command in nu-git-manager (ngm)
+
+
+Thur Oct 26
+Day 1 of nupm and nu-git-manager.  I found bugs in both products right off the bat and filed issues on both of them thanks to Antoine.
+
+
+Wed Oct 25
+And in line with all of this stuff Antoine showed off nu-git-manager and nupm and mikayla from the zed
+team came out with a cool new program called nuPHP
+so the nushell ecosystem is starting to fire on all cylinders
+and my timing of spending more time with it is perfect
+
+
+Tuesday Oct 24, 2023
+Major, massive push on a better understanding of nushell.  This was initially motivated by my work on new-nu-parser.  Which started about 10 days ago. Prior to that I was scattered on many different DB types of projects.
+
+
+It all started here with Paul Dix's blog post.
+And my discussion with JT.
+
+
+I also realized as well that Nushell is going to be gigantic and that I better get back on the bandwagon in a big way and focus much more energy than I have been in the past long time.  I have been on the nushell core team now for over two years...
+
+
+Oct 10, 2021         JT asked me to be on the core team.
+July 12, 2020         was my first day of nushell.
+July 12, 2019         was my first day of rust.
+
+
+And funny enough it was all kicked off by Paul Dix talking about Rust and getting going with it.
+So its only appropriate that his energy once again drives me forward.  He has been a major influence in my life.
+And so now why not take his lead one more time.
+But this time I am using it to say goodbye to Iox at least for awhile now and do a major nushell push moving forward.
+
+
+Sunday Oct 15
+Spending more time learning and understanding new-nu-parser
+
+
+Friday Oct 13
+Part of this week was committed to looking into GlareDb
+
+
+Monday Oct 09
+Back to SL.  I landed a commit on the SL branch named update_warp.
+
+
+Wednesday Oct 04
+I signed up to close out this PR 9798 on rustls.
+
+
+Tuesday Oct 03
+For the record JT asked me to be on the nushell core team on Sunday October 10, 2021.  I checked my records today to be sure.
+
+
+Monday Oct 02
+Start looking into the next areas of work for nushell.  Considering doing docs.rs similar to reedline.
+
+
+Saturday Sep 30
+Major work on a better understanding of cash flow and the details of it.
+
+
+Thursday Sep 28
+Luke's birthday.  Today I got a much better handle on how the information is saved and how to access it on the Edgar website.  For more details see my edgar-notes.
+
+
+Wednesday Sep 27, 2023
+I found out today from Paul Dix that iox is basically officially dead for now and that commits from iox as of today are taken private and they will not be merged into influxdb.
+
+
+Here is Paul's quote 
+"influxdb will be developed on its own. At some point in the future we'll unify the libraries in IOx with the libraries in influxdb, but the driver programs will be different code bases."
+
+
+Tuesday Sep 26
+Starting to sink some time into the whole ecosystem around project Edgar and parsing Xbrl.  This is mainly a response to Paul Dix pulling the plug on Iox and making the repo private.  We will let the situation develop on that front.
+
+
+Sunday Sep 24
+Kicked the tires on virtualenv in python and concluded the best way to go was with pip-autoremove.
+
+
+Thursday Sep 21
+Iox and nushell 0.85 are integrated based on the nushell release two days ago.  Paul Dix put out a scary blog post about influxdb 3.0 and so I ported the code over to it as well.  The timing could not have been better as I just finished the integration of my latest code when he put out his blog post.
+
+
+Friday Sep 15
+Finished up the nuiox commands today as well as created a new nu-cmd-iox crate and got that working in less than one hour.  I thought it might have taken days but thanks to @sholderbach PR 9429 it was very smooth sailing.  I love nushell, it is mostly completely rock solid :) 
+
+
+Tuesday Sep 12
+All of the commands are now up and running, still need to work on the error message for ioxsql as it is crashing nushell.
+
+
+Monday Sep 11
+I got the ioxsql command back up and running in the latest version of nushell 0.84.0.
+
+
+Wednesday Sep 5
+Landed the nushell PR in the std lib having to do with logging and then launched right into dealing with the compactor warning log message in Iox.  I got the PR landed today but not without a hassle of having to send in (2) PRs.  But the job is done.  I need to understand how to do this stuff better :) Especially for Iox PRs.
+
+
+Tuesday Sep 4
+Chased down a bug where iox was crashing inside nushell when the std-lib is included with nushell
+
+
+Monday Sep 3, Labor Day
+I got Darren's parquet plugin up and running with the new span refactor as well as getting the length plugin running in the new code base.  The length plugin is part of the contributor docs which I also noted in a link at the end of the plugin section in the book.
+
+
+Friday Sep 1
+Start thinking about looking at and getting a better understanding of nushell plugins in the context of Iox and the grpc communication paradigm.
+
+
+Thursday August 31
+Go through and review all of the commands in the Iox legacy code in preparation for porting it all over to the new Iox and the latest nushell.  Having it running in the new Iox without having a dependency on Postgresql will make this a lot cleaner moving forward.
+
+
+Wednesday August 30, 2023
+Day 1 of reviewing Iox.  They switched to a Sqlite Db so its alot cleaner startup and setup now.  Very cool, back to reviewing Iox in the context of using nushell as a frontend cli to it.  In our nushell meeting today Terts from uutils was there and we are kicking off our joint project with cp as the first command.
+
+
+Monday August 28
+Install the latest and greatest version of Python on my computer.  I believe it was the first time I installed Python on the 16 inch Macbook Pro from SxT.  So now I am back up and running with Python 3.11.5 instead of the factory 3.9.6 version on Ventura.
+
+
+Tuesday August 22
+Starting a deep dive into the different crates of sled.  This was prompted by okaywal and the note that David Alves was starting to spend more time with it along with integrating it into the row buffer of V1.
+
+
+Monday August 07
+Landed a bunch of PRs for nushell yesterday and today in regards to updating the Categories certain commands belong to.  I got this situation tidied up by moving commands from default into their respective locations or homes.
+
+
+Saturday August 05
+Working on the str case commands to nu-cmd-extra.  More work to do in understanding rocks-db in concert with openraft so I can eventually port this example code to sled.
+
+
+Tuesday August 01
+Spacejam announces Sled 1.0 and I track all of the new komora crates in this new document.
+
+
+Monday July 31
+Spoke to Scott at noon.  We decided to talk again in early September once he gets things a bit more figured out.  So I dodged another bullet until September :) 
+
+
+Saturday July 29, 2023
+Luke and Ashley, Tanner and Tenly are in town.  I learned a lot about the tracing crate this week but I am going to take a break from it now, and move back over to openraft and other stuff while still working on it; I am just not going to be doing it full time like I was this week.
+
+
+The highlight of what I learned so far this week was this.
+
+
+Thursday July 27
+Continuing on my deep dive of tracing.  Today I worked through the yak shave example to better understand the whole notion of how tracing works.
+
+
+I initially intended to integrate openraft and tracing together but to no avail.  Once the 0.2.0 tracing work lands then I can give openraft a whirl and try to upgrade all of the openraft code to meet the 0.2.0 api.  But at the moment there is a mismatch between openraft and all of the different tracing versions.
+
+
+Monday July 24
+Realizing I need to take a much deeper dive into the whole world of the tracing crate.
+
+
+Saturday July 22
+And this led to the tokio-console which is very cool tambien.
+
+
+Brent is gone from SxT and when I checked his github profile and SL last evening he was officially deleted from the SxT github repo etc...  And this morning he pinged me and we had a nice talk.  
+
+
+So it is official !  Brent is no longer with us... Am I next ?
+
+
+Wednesday July 19, 2023
+Day 1 of working on the tracing crate.  This was prompted by it being used in Openraft and noted it is used in Iox tambien.
+
+
+Friday July 14
+So big breakthroughs on Raft simply by reading the Raft thesis which is the best explanation out of everything of how Raft works.  It is an extremely well written, simple thesis about this topic.  The first picture which shows the states x,y,z and how they transition to a state machine from the log is actually trivially simple.
+
+
+Thursday July 13
+I concluded the third PR for the math commands and I think they are now done.  Brent told me this evening that he was going to work for Coralogix.
+
+
+Tuesday July 11
+Part II of the math commands to nu-cmd-extra.
+
+
+Monday July 10
+I landed the first set of math commands moving over to nu-cmd-extra.  I hit a big homerun by discovering we can leave some math commands in nu-command while others can go in nu-cmd-extra.   Scott blew me off and we never had our meeting with no response what so ever.  Its looking pretty bleak to quote Brent, and we will let the situation develop.
+
+
+Monday July 3
+Day 1 of Sled and getting it up and running with openraft.  Yesterday I figured out how to turn on logging in the openraft tests but I still have not figured out how they work in the memstore.
+
+
+Sunday July 2
+In the morning I spoke to Antoine on discord and I helped him get some tests working on his local repo.
+
+
+Wednesday June 28
+Day 1 of working on the openraft tests.
+
+
+Monday June 26
+For the first time I am starting to understand openraft.
+
+
+Friday June 23
+I landed the bytes command and started working on the bits command which I landed today.
+
+
+Thursday June 22
+Worked on the bytes command to nu-cmd-extra.  We had our SL meeting today and it did not go well.  David is in Portugal.  I am going to reduce the amount of energy I commit to SxT but continue to work on SL on my own terms (whatever that means).  This is a continually evolving process in my mind and in reality.
+
+
+Tuesday June 20
+Openraft is now a workspace inside SL inside the repo slor.  Should now be able to move forward with driving openraft from source and checking out the logging mechanism in more detail.
+
+
+Sunday June 18
+The wal viewer is up and running inside slwal.
+
+
+Friday June 16
+Today I worked on the wal found and might have found a bug which I communicated to Brent late in the day which causes the wal to fill up initially with blank entries.  But then after it is brought down and brought back up appears to be fine.
+
+
+Tuesday June 13
+The tpch testing stuff is done for now.  Today I landed a branch that turns off the snapshot feature so that I can reliably bring down SL and bring it back up without it crashing.
+
+
+Monday June 5, 2023
+I completed part one of porting the tpch insert statements over to rust.  Now on to the queries.  I had kind of intense conversation with Scott today and basically told him to find out from Nate the CEO whether or not they were planning on moving forward with SL.  I am the only one working on the project at the moment and so we will see where this takes us.
+
+
+Wednesday May 31
+Submitted the nu-cmd-extra PR after amtoine prompted me with an update on where we are at with it.
+
+
+Tuesday May 30
+Got the tpch create table statements up and running in SL.  Now we will move on to the insert statements.  I grabbed the create statements from Brent's java version of tpch.
+
+
+Friday May 26
+Day 1 of pulling the data from the datafusion benchmarks in an attempt to load all of this data into SL.
+
+
+Saturday May 20
+Day 1 of toydb.  I discovered it this morning prior to going to the pow wow at osu.
+
+
+Friday May 19
+I got up super early to get the dataframe crate going and the PR was landed before noon.  I have been talking about doing this PR for more than a year and it finally happened.
+
+
+Wednesday May 17
+I figured out all of the feature logic to move the dataframe commands into their own crate.  It took some doing and reading all of the details of the cargo manifest et al but I got it up and running :)  Now I need to land the PR.  We talked about it today in our meeting.
+
+
+Monday May 15
+I had a call with Scott and started working on nushell and busting out the dataframe crate.
+
+
+Friday May 12
+
+
+No entries the whole time we were gone in Nevada but I actually got a boat load of work done in understanding not only SL but databases much more...
+
+
+I learned from Brent today that he was being pulled off SL for awhile and deployed onto the V1 project.
+
+
+Stay tuned for more details.
+
+
+Saturday April 8
+
+
+I actually landed a sweet nushell PR having to do with the new nu-std crate.  I removed the nu-cli dependency in the crate.
+
+
+Friday April 7
+
+
+Brent is cool and we get along well.  We had a conversation today on a PR with David about whether to use protocol bufs or serde.
+
+
+I landed the PR yesterday which requires a rust toolchain file.  It was a bit of a back and forth but in the end it got landed thanks to Brent.
+
+
+I am finally beginning to understand how Raft drives the system as sql comes in via RaftStorage.
+
+
+Monday April 3
+
+
+We are heading out on Sunday to Ashland so I gave Brent a heads up with this diatribe.  Hope he doesn't take it the wrong way.
+
+
+Hope you understand
+my working relationship
+with (work)
+is an "older guy"
+who still is having
+too much fun
+with our addiction
+to coding
+as yet
+another distraction
+humans create
+to get through
+this life
+in a Zen way
+trying to contribute
+in any way I can
+in this realm
+of a
+software engineering
+existence.
+
+
+Friday March 31, 2023
+Banging my head against the wall in the morning on why the legacy flight client is not working against SL.  I finally get on the phone with Brent and he says it is a server bug.  So I am partially relieved.  Hb and I go to the coop and the burrito store for some Hb lunch.  I come home and go for a walk before the rains come later in the afternoon.  I got Datagrip working with the correct jdbc string.
+
+
+Thursday March 30
+Much more progress on flight client by breaking up the legacy flight client into a bin which will enable me to test all of the different code paths from both client binaries and see what the heck is going on.
+
+
+Wed March 29
+Landed my first PR with spacetime in schnapslatte.  I am feeling good about landing a PR and feel I am slowly starting to get up and running with this code base I am working on along with how the arrow client works.
+
+
+Sunday March 26
+Wow !  Too much but at about 5:30pm on a rainy sunday with the sun coming out I got things working.
+
+
+Thursday March 23
+Day 2 of Flight, road blocked with query to RecordBatch transition.  8:30am meeting was a kick with a big cluster-f--k on whether to go with Databend or Datafusion.
+
+
+Wed March 22
+Day 1 of working on getting FlightSqlClient up and running in SL.
+
+
+Monday March 20
+Major push into a better understanding of what space and time actually does post conversation with Scott today.  Stay tuned here.
+
+
+Saturday March 18
+I landed PR #100 which was a trivial fix but none the less hit the 3 digit mark :)  Also working more on how the example infrastructure can be ported over to more testing as suggested by Andres in our Wednesday meeting. 
+
+
+Friday March 17
+Starting to think about nu-cmd-lang tests in a different light along the lines of examples and having a default context possibly be renamed or just stipulate its use in the test or example files by calling it explicitly with the crate name.  More research to be done on this topic.  Looking into eval_block followed by eval_expression_with_input
+
+
+Thur March 16
+More work on nu-cmd-lang tests and wrote this writeup on config-files.
+
+
+Wed March 15
+nu_cmd_lang77 up and running.  Its the first time nu_cmd_lang is on crates.io and paves the way for future simple nushell installs.  This experiment proved out that everything is working exactly as planned which is great news !
+
+
+Tuesday March 14
+Great talk with Yijie Shen today during our normally scheduled group meeting.  He and I were the only ones on the call and we spoke for about 45 minutes.  He is 33, lives in Beijing, has a PhD. in CS and has an 8 year old daughter Caroline who loves to save seeds and plant them in the dirt.  I also spent more time working on sxtdb in concert with a better understanding of noisepage.
+
+
+Monday March 13
+Day 1 of reading over the cockroach docs which seem pretty rock solid.  Yesterday I reviewed the Noisepage paper tambien.  I am enjoying this reading phase of the work.
+
+
+Friday March 10
+Brent got me going with java and building the flight-sql-jdbc-driver.  Today was day one of Java.  I told Brent I have not coded in Java since December of 2007 :)  
+
+
+Thursday March 09
+So I think I figured out how to add a -n --no-config-file to the nu! macro.  More testing on this the next couple of days.
+
+
+Wed March 08
+Finished up storing taxes.
+Day 1 of sxtdb
+
+
+Tuesday March07
+Our first core team meeting with the group of Sl.  I also got set up today with spacetime email and slack.
+
+
+Monday March 06
+My nu -n / --no-config-files PR landed
+
+
+Today was my first official weekly meeting with Scott.  I missed last week for 2 reasons.  One being I took Hb to KP for her cholesterol test in Salem and two I had no idea we had a meeting 
+
+
+We talked about Defi or decentralized finance and Scott brought up the slack issue upon which we decided I would get paid a trivial amount of cash per hour :)   ???  I will believe it when I see it.
+
+
+Sunday March 05
+Finished working on nu --no-config-file or now aliased to "nun"
+Great job !  I have been wanting to do this work for a LONG time
+
+
+Saturday March 04
+Started understanding how the config files work in nushell so I can implement a way to send in a flag with a zeroed out set of config files.
+
+
+Friday March 03, 2023
+I revived my iox nushell code base, and got it mostly back up and running, thanks to Cargo.lock :)    
+
+
+Monday Feb 27
+More work on nushell starting to port over nu-cmd-lang tests from nu-command.
+
+
+Sunday Feb 26
+I landed this PR this afternoon.  All the cards fell into place and this code fell out very nicely.  It was basically clean up code post the massive PR to bust out nu-cmd-lang on Friday.
+
+
+Friday Feb 24
+I landed this PR this morning before 8am.  Darren pulled the trigger for me and nushell now has a nu-cmd-lang crate.
+
+
+Thursday Feb 23
+I submitted my first cratification PR to bust out nu_cmd_lang from nu_command and all of the tests are passing.  The PR still has not landed, stay tuned.
+
+
+Also had my first meeting with Brent re: schnapslatte.  He seems to be a pretty cool guy, we talked for over one hour.
+
+
+Wednesday Feb 22
+I got nu-cmd-lang back up and running except for the tests and presented everything to our core team meeting today.
+
+
+Tuesday Feb 21
+Iox is back up and running on my new computer.  Starting to think about porting over the code I wrote last summer from nushell iox.  In the evening nushell was released earlier today so I am working on getting nu-cmd-lang up and running.
+
+
+Monday Feb 20
+First ever design meeting with Scott Dykstra.  He took me through the history of ST and we talked some about the new product.
+
+
+Sunday Feb 19
+Deep dive into the DistributionManager for the first time.  It is the link / bridge between datafusion and the server.
+
+
+Friday Feb 17
+My computer from spacetime (sxt) is pretty much up and running.  The interesting note was that I just copied the ssh files across to the new computer and I was automagically talking to github.  I think they have made the process really simple on their end and figured out what needed to be done.  I was impressed.  Also the dotfiles was a big win tambien.
+
+
+Thursday Feb 16
+At 1:30pm I spoke to Mendel Grabski and he gave the root password which was so convoluted that it took me about 30 minutes to finally type it in correctly and the whole time we were not sure whether it was a capital Oh or the number zero.  We finally got it and he signed off and then I installed Chrome and realized that they had installed on my machine some weird profile shit that hard wired Chrome extensions on to my computer.  At that point after some research on how to remove them I pulled the rip cord and luckily figured out how to reinstall the operating system and start from a clean slate.  So essentially I dodged a bullet.  We will see what unfolds from here.
+
+
+Wednesday Feb 15
+At about 8pm I took the computer out of the box and my worst fear nightmare was fulfilled.  No root password.  I will update as the situation develops.
+
+
+On a more healthy front, we had our nushell core team meeting today and I reviewed everything associated with busting up nu-command into at least 3 crates.  Hanging out with the nushell team is just such a more pleasant rewarding experience than trying to work with a company.  Maybe this is why I entered into this agreement was to learn this lesson ?  Stay tuned once again.
+
+
+Tuesday Feb 14
+My spacetime new computer arrived today via UPS.
+
+
+Monday Feb 13
+Major work all day on getting nushell's nu-command busted up into smaller crates.
+
+
+Sunday Feb 12
+I actually made huge progress this weekend on understanding Schnapslatte here in referred to as SL.  So I understand things at a very high level now with the main.rs and server.rs files and how they are organized.  Need to dive deeper and further into server.rs.  There is a lot of stuff here including {arrow-flight, tonic, hyper, warp and tower}.  But the organization of everything and how the pieces fit together is starting to fall into place.  I have having fun, I think :)  
+
+
+Friday Feb 10
+I am starting to get a bit more excited about this project now I am realizing that raft is going to be a core component tambien and although it adds a lot more complexity to the project for me its yet another cool dimension to master and understand better so this is going to be "good" and fun.  Looks like I am going to be getting a new computer tambien.  Stay tuned, this might be an interesting ride :( 
+
+
+Thur Feb 9
+Day 1 of Schnapslatte called SL.  I got on github for 5 seconds downloaded the app and they quickly shut me back down.  But I was able to download it and start reviewing how the code works which is pretty cool.  Stay tuned on this one.  Looks like they shipped out a computer for me as well.  So that should be cool :( 
+Stay tuned.
+
+
+Wed Feb 8, 2023
+Round 2 of talks with Phil and Scott to attempt to get the ball moving along and get some things I need to start working.  Stay tuned with an update.
+
+
+Friday Feb 3, 2023
+The other day on our walk over near Winco I picked up the Harry Potter book number 4 in the series in Spanish.
+
+
+Thursday Feb 2, 2023
+Spending some time on Pest in concert with TreeSitter.
+
+
+Wednesday Feb 1, 2023
+I signed with Docusign the SpaceTime advisory agreement and RSU agreement.
+
+
+Monday Jan 30, 2023
+Start playing around the practical applications of ingester2 in concert with 3 - 5 csv files which are historical stock prices.  Pick 3 - 5 companies and get the csv data from yahoo and then write a program which converts that data into line protocol data and then see how the queries work through the querier in concert with what names the parquet files get.  
+
+
+Does the name of the parquet files really matter ?
+Is it important for testing purposes and understanding where the data lands and do you want to be able to back up the parquet files and have them be meaningful from a names point of view.
+
+
+Sunday Jan 29
+Looking at where the parquet file gets named in the ingester2.  Key points are ingester2/src/persist/worker.rs.
+ArrowWriter
+parquet_file/src/serialize.rs
+arrow-rs/parquet
+
+
+Friday Jan 27
+Before Martin and Max came over for lunch I got Iox up and running with ingester2 and compactor2.  This is kind of cool to have this stuff back up in running with their new code.
+
+
+Thursday Jan 26
+So I jumped the hoops with SpaceTime but as of late Thursday after a call with the VP of HR Vince I have not heard back from them.
+
+
+After a deep dive into datafusion I am back into Iox land inspecting where datafusion is now being used.  This is good news.
+
+
+Sunday Jan 22
+Deep dive back into datafusion day 2.
+
+
+Saturday Jan 21
+Started spending time back in iox and datafusion in anticipation of starting my work with SpaceTime.
+
+
+Thursday Jan 19
+I had a call at 5:45pm with Scott of Space and Time.  Phil was on the call too.  Ian Joiner has been very cool.  He is the reason I am in this situation.
+
+
+Wednesday Jan 18
+I had a meeting at 9am with Phil Burgess who is the main HR person at Space and Time.  He lives in Golden, BC after having lived in Vancouver, BC.  He was the 3rd employee brought on board.  The company ideas were conceived in July of 2021 and officially founded in January 2022 so about one year ago.  They raised a 30 million seed round with a 300 million dollar valuation from Microsoft.  They would like to do their Series A round by next year at this time.
+They currently have around 65 employees...
+The founders include:
+Nate Holiday was at TerraData
+Craig Holiday is an accountant
+Scott Dykstra is the CTO
+Jay White is the Mathematician
+
+
+They have about 10 rust programmers on staff...
+
+
+Friday January 13, 2023
+I completed my first week of work on tree-sitter and I am actually quite blown away by the potential of this project for my own [personal] professional development.  There are many things to discuss but for now, the potential of this project might be the biggest thing since nushell...  It also is the next evolutionary step in my rust foray sitting on top of tantivy, nushell, iox, and datafusion...  It much more closely related to nushell than any of the other mentioned rust projects that I know (so far)...
+
+
+Thursday Jan 12, 2023
+At 2:49PM today I got my first email from Phil Burgess at Space and Time and so the journey begins from here.  Go back to find this email if you want to see the beginning of the history and my first response to Phil.
+
+
+Monday January 9
+Day 1 of Tree Sitter, recompiled and run datafusion tests.  Darren is talking about using arrow datatypes in nushell but the arrow version with polars.  Lots going on !  As per usual.
+
+
+Friday January 6, 2023
+I landed on PR today on BufferedReader which removes it from nu-command and drops it instead in nu-protocol.  Work will be related to future work on benches in the nu-parser.
+
+
+Monday January 02, 2023
+Second day of the year and I am continuing on the serde journey with Decrusting the serde crate which turns me on to cargo expand which gives you a glimpse into Rust macros at a very detailed level.
+
+
+Thursday Dec 29, 2022
+Major deep dive into understanding serde in the context of ron, json, yaml, toml, message pack et al.  This is very interesting work.  Stay tuned as to how this develops but it is definitely related to nushell and other stuff I have been working on possibly including Pest and Tree sitter tambien.
+
+
+Monday Dec 19, 2022
+More work on github actions.  Today I found the Github Marketplace where community actions live.  This is kind of cool and gives a big boost to what this stuff is all about !
+
+
+Sunday Dec 18, 2022
+Started looking into how to run the github actions on my own private nushell repo.  I am starting out trying to get the one from nushell working on my own repo.
+
+
+Thursday Dec 15
+This week I am working on a better understanding of the nushell tests in concert with writing some new tests that show off deeply nested data structures in relationship to testing these as they go into json and parquet.
+
+
+Thursday Dec 08
+Just before going to play ping pong with Ken at the CCC I cut a release of nushell-parquet-72 and Darren took it for a spin around the block.  I pretty coded it all up in the past couple of days and the precursor to the event was csv2par along with everything polars, datafusion, iox etc...  So getting to this point was a long time in coming :)
+
+
+Thursday Dec 01
+In our meeting yesterday I asked Darren if he thought doing a to parquet plugin made sense and he gave me the thumbs up so I am starting to explore this concept in more detail.
+
+
+Wednesday Nov 30
+Got the nushell plugin from parquet up and running.
+
+
+Sunday Nov 27
+Starting to consider possibly spending more time learning and understanding polars in the context of nushell.  Dipping my toes in a bit more and testing the waters :)
+
+
+Monday Nov 21
+Spent the past two days exclusively working on trying to get dataframes into its own crate.  JT this morning took out df from the build system of nushell.  So people will no longer get a binary loaded up with dataframes.  They will have to build it themselves.
+
+
+Friday Nov 18, 2022
+Starting to spend time looking at tabled to be able to visualize arrow arrays.
+
+
+Monday Nov 14, 2022
+I figured out how to turn the optimizer off as well as reduce the number of Partitions down to one while running the examples.  I feel that I am coming more up to speed on datafusion.  I still believe getting the logging code going the other day back will be a very big win moving forward.  Keep going and having fun with df.
+
+
+Sunday Nov 13, 2022
+Yesterday I sent off a message to JT about breaking out dataframes into a separate crate and he had a very nice response.  Its a private message so you can quickly check it out.  Anyway, it got me thinking about dataframes in nushell and so I am starting to dip my toe back into nushell by taking another look at dataframes.
+
+
+Friday Nov 11, 2022
+Another breakthrough day, firing on all cylinders recently.
+I am now able to see all of the log messages.
+The secret was to enable it via env_logger
+
+
+Monday Nov 07, 2022
+Yesterday we went to Pedro's house with Mike and Kathy and in the early evening I had a nice talk with Sharon.
+I have been flailing just a bit and this morning prior to taking Hb to KP for an annual checkup I came upon this test file user_defined_plan.rs and it made me create in ioxnotes testing.md [see this file for more details]
+bottom line of this discovery is that I am now able to use the datafusion cli and run the explain command on a query to see the logical plan and the physical plan.
+this is a HUGE breakthrough in my understanding for testing as well as understanding how to use datafusion.  this is the "secret sauce" of actually what this project called datafusion does 🙂 
+
+
+Tuesday Nov 01, 2022
+It has been about one month exactly since I started working in earnest on a daily basis on datafusion.  I am starting to fire on all cylinders in understanding how datafusion works with the the sql being converted to a logical plan by focusing on the aggregate functions.
+
+
+Sunday Oct 30
+I now understand ScalarValue in the datafusion common crate.  I am going back to first principles in datafusion and Scalar Value seems pretty fundamental.
+
+
+Wednesday Oct 26
+I now have a very high level understanding of the complete code flow of GlueSql.
+
+
+Monday Oct 24, 2022
+Day 1 of GlueSql.  This is a great example of sqlparser-rs as well as sled.  This will also tie in well with datafusion for understanding how you go from the sql AST that gets created via the sqlparser and how you get to the place where you have a way to query information.  How does that work ?  We will hopefully have an answer to this question fairly soon.
+
+
+Saturday Oct 22
+Now that I have been l looking at datafusion for a couple of weeks I now need to do a deep dive into the intrinsic components of datafusion using the tests as a way to understand DF for completely.  Just focus on individual problems and learn more about them.
+
+
+Sunday Oct 16
+Johngi birthday party and KMP early morning gathering.  Since Sep 29 I have been full force studying and learning datafusion and am making huge progress on this front.
+
+
+Thursday Sep 29
+Day 1 of Datafusion in concert with how it works in Iox.  Currently looking a iox_query as the heart of the puzzle.  Yesterday we had our nushell meeting and initially JT was excited about Pest but then realized it didn't do errors correctly.  He decided to take a week off instead as he had been working for 6 months without a vacation.  So he is gone for a bit and Pest is on the back burner.
+
+
+Tuesday Sep 27, 2022
+So I am in pretty good shape with arrow now that all of the crates have been busted up.  Moving on back to Parquet and Iox and this PR dealing with Parquet to Line protocol crate.
+
+
+Friday Sep 23, 2022
+It took me a day to get on board but JT introduced a demo of the Pest parser on Wednesday at our meeting and today I launched into a better understanding of it.  Day 1 of Pest.
+
+
+Wednesday Sep 21
+Over the past week I have been spending more time focusing on arrow-rs; and today I created my own crate called narrow to do more testing and use some of the testing code located in benches which is not easily referenced from outside the crate.
+
+
+Thursday Sep 8
+Massive deep dive into shards and everything related to it.  We are doing lots and lots of understanding of iox.
+
+
+Tuesday September 06
+Landed my first Iox PR.  I now need to learn how to both rebase as well as edit / change a commit message.
+
+
+Monday August 29
+Great trip to the coast last week.  This morning I got Kafka up and running and reviewed everything it does.  Final point is this.  Its pub/sub.  Does that ring a bell ?  And if you search in google like this : "spinnakr" rabbitmq guess who's name shows up at the top :)  I believe the write buffer is an abstraction on top of either the file based or kafka based write buffer.
+
+
+Sunday August 20
+We are going to Coquille tomorrow morning.  In the past few days I have been working with CLAP along with getting the router to run stand alone by itself and am now moving to the ingester, and compactor.   Finally the querier will come up by itself tambien.  So we are motoring down this route at the moment.
+
+
+Thursday August 18
+Learned today about destructuring assignment.  Also yesterday I started working on just bringing up the individual services and we are starting out with bringing up just the router.  I am doing this via all-in-one and only passing the router service to the vector.
+
+
+Thursday August 11
+It looks like the Ctrl-c bug might finally be fixed; as I did an update and it appears to be working fairly smoothly.  Stay tuned.
+
+
+Friday August 5
+We had our 20k celebration today and I did my demo of influxdb_iox integrated into nushell.
+
+
+Wednesday August 3
+Spent the morning figuring out some iox stuff having to do with fixing a ctrl-c bug that I tracked down last evening.  It was my first issue for iox and the first time interacting with folks on the iox core team.  
+
+
+By the end of the day the ctrl-c bug was fixed and landed.
+
+
+I gave a short introduction to the iox work today to the core team and some folks including Darren would like to see a demo either next week or this Friday in our all hands meeting.
+
+
+Sunday July 31
+I released the Iox and Nushell integration suite to the influxdb-iox slack channel.
+
+
+Saturday July 30
+The error messages for ioxsql are looking pretty clean and ready to go for now.  So I made big progress today on the nushell iox code base.
+
+
+Friday July 29
+Ported nushell 66 over to iox and upgraded iox to latest code base.
+
+
+Thursday July 28
+Mom's 88th birthday :)
+I got the CSV reader up and running as a replacement for the Error check and it appears to be working well.  I am no longer getting panics like I was before; so we may be well on our way to moving forward on these issues.
+
+
+Thursday July 21
+Day 1 of Nom.  I got things going today.  Nom is cool, it works and there are lots of repos using it.
+
+
+Tuesday July 19
+I am ready to start coding up the error algorithms.  Turns out I have to parse the string first and then create the Nushell Error data structure.
+
+
+Thursday July 14
+Major push into understanding error messages and how they work in Rust.
+
+
+Wednesday July 13
+Its not done yet :)  Now I need to work on the error messages so things don't crash when there is an error in the commands.  Starting to work on understanding error messages in Rust today.
+
+
+Tuesday July 12
+Scott's birthday.  Start working on the documentation for ioxnu in a Readme.md file.
+
+
+Monday July 11
+Fairly early in the morning just at about the time Michael arrived to paint I got nushell integrated into iox along with the nushell commands.
+The big breakthrough was to port repl.rs over to the iox commands location and reference the objects from influxdb_iox_client.
+
+
+Thursday July 7
+ioxwrite and ioxwritefile are up and running !  On the nushell side of the world.
+
+
+Sunday July 3
+We are on a roll here.  I got a nu-crate up and running.  I will now have the ability to put all of my iox commands inside their own crate.  This is a gigantic advance forward along with last evenings victory.
+
+
+Saturday July 2
+At the end of the night just before I took my shower I got iox sql commands integrated into nushell and displaying the csv tables from iox inside the nushell Value system tables :)
+
+
+Thursday June 30
+The last day of June and iox and nushell are finally working together at a bare bones level but the crates of both repos are now integrated and talking to each other.
+
+
+Tuesday June 28
+So this took me awhile to think about and figure out but I believe the way to go is to have nushell be the application that talks to iox, as opposed to bundling nushell inside iox at the command level similar to the way iox sql is working now with a Repl.
+
+
+Reason being if you look inside a command like
+
+
+influxdb_iox/src/commands/debug/namespace.rs
+
+
+you will see that all it does is delegate out to influxdb_iox_client and this is the case for all of the iox commands that are not actually running the server but rather getting data from a running server...
+
+
+So based on this idea nushell's commands will talk through influxdb_iox_client
+
+
+Plus for starters this approach is much simpler as it means that you are tweaking out nushell with iox stuff rather than trying to shoehorn nu into iox.
+
+
+If later down the road there is a lot of interest then we can explore adding this extra layer of indirection.  But by that time most of the nushell command work will be done and then it will be simply a task of breaking nushell outside its box and putting it inside the iox box.
+
+
+Wednesday June 22
+Nailed this issue in Zed about matching key sequence between Atom and Go.  This took most of the day, here and there.  Working on influxdb_iox_client.
+
+
+Tuesday June 14, 2022
+Its been 35 years since my fateful day back in 1987.  Starting to look at getting the iox sql client running in nushell.  Experimenting with tonic as a starting point.  Flight sits on top of tonic.
+
+
+Thursday June 9, 2022
+I got the influxdb_iox sql client up and running by itself for the first time.  I will start to migrate it towards nushell and reedline. 
+
+
+Tuesday June 7, 2022
+I had a call with Nathan Sobo about the Zed code editor.  I downloaded it in the afternoon and took it for a spin and the rust analyzer crashed my machine.  I sent him feedback in the afternoon and 2 hours later I heard back from him that they would make a feature to turn off Rust analyzer on my behalf.  All in a day's work.
+
+
+Sunday June 5, 2022
+Deep in the bowels of datafusion.  I have enough knowledge about it now to circle back up to Iox and keep going there with a purpose driven approach of understanding datafusion in concert with my initial prototype of iox_query which is where the datafusion module execution kicks everything off.
+
+
+Thursday June 2, 2022
+Day 1 of datafusion.  Got all of the tests up and running along with got the examples going too.  I watched the Andy Grove video this morning on youtube which kicked everything off.
+
+
+Wednesday June 1, 2022
+
+
+JT had a meeting today with Carol from Iox and will meet with andrew lamb soon as well.  We spent most of our meeting today discussing arrow, datafusion, and how we may integrate it into nushell.  Some interesting times indeed.  Its cool that JT is meeting with these folks.
+
+
+https://discord.com/channels/601130461678272522/683070703716925568/981451736713682954)
+
+
+Kubouch — Yesterday at 11:58 PM
+Do you plan to stay working on Nushell after 1.0 or do you want to jump into a next project? 🙂
+
+
+jt [they/them] — Yesterday at 11:59 PM
+I haven't really thought that far ahead
+
+
+jt [they/them] — Today at 12:00 AM
+there's something to be said for being the ones to start it
+but letting other people grow it.
+With Rust, Graydon stepped down and let the design team take over.  Same thing with Go and Rob Pike
+
+
+Kubouch — Today at 12:03 AM
+True. I guess it also depends on how the language is adopted
+and whether you personally think it's really missing something.
+
+
+elferherrera — Today at 2:59 AM
+But a language needs a benevolent dictator for some time
+
+
+Saturday May 28, 2022
+Massive progress on iox as I now understand how to create parquet files with a nice test.  Just keep going on this topic.  Got a lot done today as the weather sucked, so we made progress with the ingester and now moving on to understanding logging.
+
+
+Tuesday May 24, 2022
+After one week of working on iox I feel I am starting to get a bit of a grip on it.  Nushell is on the back burner not just for me but for the whole team; as JT is off doing other stuff and Darren is on a summer vacation taking his daughter to college.  Justin Hustcer joined the core team a few days back and Reilly joined it a month or two ago.  Reilly was the first person to join the core team since I started last October.
+
+
+Thursday May 19
+Communication with Paul Dix about IOX.  Day 1 of working on the Parquet File spec to better understand what the format looks like.
+
+
+Wednesday May 18
+Starting a deep dive into iox.  Worked out more details of how postgresql works.  JT broke the news to us today that he is developing a new programming language with the developer of Serenity OS whose name is Andreas Kling.
+
+
+Tuesday May 17, 2022
+Day 1 of Iox.
+
+
+Monday May 16
+Starting to look at other products which use Parquet including influxdb.
+
+
+Thursday May 12
+I wrote my note to Jerry yesterday, on his birthday, about Ben.  Yesterday and today I got up and running with Parquet and got a reader and writer working by the end of the day today.
+
+
+Tuesday May 10
+Been spending lots of time the past few days coming up to speed on both dataframes and polars.  Built out my own polars repos including (polars01a, 01b, 01c).
+
+
+Thursday April 28
+I did two PRs today.  One was a minor one, and the other was a cleanup of the version command.  Got it re-aligned with all of our new features in Cargo.toml.
+
+
+Wednesday April 27
+Started spending more time for the nth time looking at Dataframes.
+
+
+Sunday April 24
+My Tauri and nana days are over, it is here that I transition back to dataframes.
+
+
+Saturday April 23
+Figured out my next step with Tauri is to do a FileDialog and possibly store the files as images on some type of carousel or other way.  Monday April 11 was day 1 of nana and here we are two weeks later and I am making an executive decision, to circle around a bit; and move on from Tauri full time.  I have been looking at Tauri full time and got it up and running with the HelloWorld and the embedded Tauri from which I can debug with along with seeing the event loop.  Now I am working on a direct tauri project which will in concert help be better understand the tauri code base.
+
+
+But I am going to continue my database / dataframe work in parallel which is much more directly related to Nushell now.
+
+
+Nana Day 1 on github was Monday April 11, 2022 if you check the commit record you will see that...
+
+
+Thursday April 21
+First concepts in my head of visualizing Tauri events via nushell in Nana.  Stay tuned, but I just thought I would note it down here.  This is in coordination with Reilly's work on sqlite.  Reilly was added to the nushell team today as well by JT.  So its all good and I learned that the Tokio Runtime is one of the core drivers of how all of this stuff works.
+
+
+Monday April 18
+Pretty much worked all day on understanding tauri.  Late in the evening I made a minor change to tauri.conf.json which enabled me to see an actual binary of nana located in a completely different directory which I copied nana to, work like a charm.  This platform works !  I am fairly convinced this is another good area to work in; this whole tauri framework stuff.
+
+
+Sunday April 17
+I am deep into nana.  The core components that I will need to understand include in no particular order:
+
+
+* rollup
+* svelte
+* tauri
+* typescript
+
+
+Saturday April 16
+Up and running with nu-command-core and nushell-core.  Its amazing how quickly I got all of this code up and running.  It will be targeted for working with Nana and having a reduced footprint when developing.  I have been wanting to do the nushell-core for awhile and glad I got it going.  Rust mods are easy to work with, and I believe I now pretty much fully understand how they work.
+
+
+Thursday April 14
+Saw a youtube video on tauri by nothingismagick
+
+
+Wednesday April 13, 2022
+Day 1 of looking at Nana and tauri.  This is a whole big CF for me as I spent along time, over a year or two working on React and Javascript UIs so I am very hesitant to get back into this world even a little bit.  But it could be mildly interesting understanding how the tauri framework is put together etc...  I landed rgwood's PR this evening on the open command reading a sqlite DB.  I had a minor pilot error where I was reading nurun instead of his binary that I built by hand.  Oh well, I will know this hopefully for next time.  Buyer beware, or programmer maybe the problem is on your end.
+
+
+Tuesday April 12, 2022
+Reilly Wood (rgwood) and I have been working on getting from_sqlite up and running.  I think he got it working with open.  This has been motivating me to work more with nu_protocol and understand better how it / the crate / can be integrated into other rust development environments / including how the data from it gets output.  Specifically the List of Records which is also called a table.
+
+
+Monday April 11
+Day 1 of Nana.  JT put out a UI today which is a combination of nushell and tauri.  My thoughts are mixed and we will see how things develop.  I don't want to work on UI's that are HTML things, but that is just my 2 cents.  Working on rusqlite in coordination with nushell.
+
+
+Tuesday April 5
+Jason Booth's 48th birthday.
+First rumblings of people on the core team talking about forming a company.  JT got a call from a potential investor yesterday; and that set everyone's hair on edge.  My opinion is pretty neutral on this one.  Kubouch says initially to do a foundation or a non-profit which I tend to agree with.
+
+
+Sunday April 3
+Two weeks later.
+Our trip home from Carson City was a good one.  We love Alturas and will hopefully get back there this summer for a nice adventure.  Spending lots of time working on csv, reviewing core nushell concepts, and a major deep dive into rusqlite.
+
+
+Sunday March 20
+Now down to 118 repos on github, this is pretty darn good.
+
+
+Saturday March 19
+I have been in Carson City now for one week and we arrived last Saturday on Hb's birthday.
+Dataframes is fast and I loaded up the whole Shakespeare file in a second or so.  Pretty amazing.
+Massive github repo cleanup got it down from over 180 repos down to 144 which took me most of the day to do.
+
+
+Friday March 18
+I have been spending lots of time writing scripts and coming up to speed on how they work etc...  Started out by working on the shakespeare.nu script and shakespeare.csv file.  I am more excited now than ever about nushell and the power of the scripting language that it presents.
+
+
+Monday March 14
+This is my first note for being back in Carson City.  We got here on Saturday afternoon 2 days ago.  Today I moved the make_docs.nu script over to the website and deleted all of the commands and script from the nushell repo.  This was a very big step forward as someone else came along and took my script on the website and within several hours had the whole command reference page up and running.  This looks good.
+
+
+Sunday March 06, 2022
+Starting to look at dataframes again this time my thinking is to use it to write data to sqlite (possibly).  It could be a nice possibility as I was looking at the python csv-to-sqlite code and they are using pandas.
+
+
+Friday March 04
+Working on Sqlite and looking at Darren's rsq repo.
+
+
+Wednesday Feb 23
+The past couple of days I have gotten the tests up and running for nu_plugin_query.  Yesterday I landed my first batch of tests and today I did round 2 for the web_tables.  These tests are cool as the underlying data and crates are based on this...
+
+
+Tuesday Feb 15
+Now that sort-by is behind me and on to others I am back to understanding core nushell datastructures and working on nu_scripts on the porting side to engine-q.
+
+
+Sunday Feb 13, 2022
+I believe sort-by is now finally completed.  According to my log I started working on it on January 7.  That is freaking crazy, but the key point is you hung in there and came up with a relatively nice solution.  The hard points were finally understanding the vec.sort_by needs to receive an Ordering.  Also challenging was my lack of understanding on how exactly Result and Option worked.  My breakthrough was working out the details in the rust-examples vec directory and then porting across the concepts to engine-q and now nushell.  Lets work on something else !!
+
+
+Wednesday Feb 9, 2022
+Started porting over some of the nushell scripts for the first time.  This is kind of fun !  More scripts to port over.
+
+
+Tuesday Feb 8, 2022
+The engine-q merger happened this morning at around 6am my time.  It is a day to celebrate in the life cycle of nushell.
+
+
+Sunday Feb 6, 2022
+I found a bug in the register command for plugins and got the wsj.nu nuscript up and running.  This is very cool to have this working and shows the power of nu going forward. Very exciting.
+
+
+Friday Feb 4, 2022
+Making progress on the sort_by issues as well as today started landing some tests.  JT spent tons of time earlier in the week getting the nu-tests crate to work and back up and running so today was my first day getting into fixing some tests.
+
+
+Wednesday Jan 26
+We had our meeting today and at the end of it JT told me that a PR was in the queue for sort-by.  I landed this PR by onthebridgetonowhere and then quickly landed my PR on the floats part leaving the error handling and processing for another day :)  But its great to know that for the most part this whole mega job of getting sort-by to work is behind.  I will continue to hone and understand better how to approach this problem from the error reporting point of view.
+
+
+It is slightly tricky because of the ​​vec.sort_by(|a, b|) being in there.  Normally you don't have to work around how you deal with the errors on the side of the library.  But JT told me today that once you make that call to vec.sort_by there is nothing you can do from there on out.  Meaning you want to do most of your processing up front prior to making the call into the library.
+
+
+Monday Jan 24
+Learned today that the HashSet is what is going to give me the ability to figure out what input columns are in the set of table columns.  This was a HUGE breakthrough in my mind.
+
+
+Sunday Jan 23
+So a few hours later I spoke to JT and he said go ahead and land it.  Then I discovered a bunch of issues that are broken, which is ok...
+
+
+Saturday Jan 22
+I finally landed sort_by without floats.  It took me two weeks to do.  I thought it was 3 weeks but actually it looks like I started working on it around January 7.  This one was a real bitch, mainly because it took me awhile to understand about Ord blocking things if I don't dive down into the underlying Primitive value that feeds into coerce_compare.  Also, initially I was not using vec.sort_by().  The nice thing about this sort implementation is that it does not require an Ord as the other sorts in vec do.  It appears I am still up against Ord with float but that is TBD.  At least I landed something that is respectable and we can see where it takes us.  Another HUGE issue with the past 2 weeks is that I got sucked into the old nushell implementation and was going down that rabbit hole for days instead of just solving the problem from first principles.  But any who, hindsight is 20/20 and we are over part I of the line :)
+
+
+Thursday Jan 20
+So I started over today on sort_by and pretty much now understand what is going on.  It looks like Ord has to be implemented on Value and I will still investigate if I can grab an Int or Float or String and sort on that instead of Value.  But that is the last peg to drop (mas o menos).
+
+
+Tuesday Jan 18, 2022
+I am still working on sort_by and finally seeing a drop of light at the end of the tunnel.  This has been a very long road / slog.
+
+
+Friday Jan 07, 2022
+Yesterday I finished up part I of bluemesa.  I am now grabbing the data and creating a nice csv file with the T, B, M, and the % sign removed from the values in the columns.  This is the first time I have ever had this functionality working in bluemesa.  Nushell works real nice with the sort-by feature but it is not yet ported to engine-q; so I decided yesterday and then told JT that I will begin looking into porting sort-by.  Also, I wrote up the spreadsheet for voting of remaining commands left to port thanks to Darren's help and assistance.
+
+
+Sunday Jan 02, 2022
+Starting to come back up to speed with bluemesa, pandas et al to see if I can make a bit more progress on this front for doing more analysis of arkk type equities and others that have crashed hard recently including zoom.
+
+
+Saturday Jan 01, 2022
+The first entry of the new year !  Last evening at about 9pm my PR landed.  This was the 2nd PR of the day after I landed the first one myself.  Guess what ?  It was commit #1000 of engine-q.  And here was JT's response.
+
+
+2022
+
+
+Friday Dec 31, 2021
+I landed (on my own) my first PR today in engine-q.  I got permission the other day from JT and now I am at the next level.  This is yet another milestone for me.
+
+
+Wednesday Dec 29, 2021
+I had submitted a PR for adding the number of columns to the length command; but JT came back with a nice suggestion and tonight I leared about slices in Rust.  I really never understood them to now.  It was my confusion with a parameter being passed to a function that looked like an array but in actuality it was a slice of a vector.  I love my job !
+
+
+Wednesday Dec 22, 2021
+I landed a PR in record time from inception to landing.  Last evening I had a long chat with JT and Darren about this whole nu-json crate and then when I woke up I realized and implemented a simple line of code inside the nu-json crate called in ser.rs called to_string_raw.  When you nail it, you know it has to be simple and this turned out to be a trivial change and in my mind initially it was a big cf as noted yesterday. 
+
+
+Tuesday Dec 21
+Working on the nu-test-support, nu-json, and testing infrastructure.  Big cf.
+
+
+Saturday Dec 18
+I have been very busy doing all sorts of stuff with engine-q including porting commands, documenting the commands as they get ported, interacting with our user community and most recently starting to work some on our new plugin architecture.
+
+
+Wednesday Dec 8
+Learned today in our weekly meeting that JT is moving back to the USA for awhile and will be living with his parents in Virginia.  He has been in New Zealand for five years.  I finished off the nth command today, and it turned out to be easier than I had first thought once I wrapped my head around the Iterator.
+
+
+Monday Dec 6
+Finished off the reject command a few days back.
+That one took forever, not sure why but it finally all came together.
+I also did prepend today.
+That one turned out to be trivial, which was a lucky break.
+
+
+Tuesday November 23
+This weekend (on my birthday) the drop command landed.  JT came back from taking the weekend off and landed my PR.  I am now working on reject and today I clarified in my mind how follow_cell_path works.
+
+
+Wednesday November 17
+The append command took me over a week to understand.  It was by far the most ambitious command so far to date that I have ported.  In the end the code looks simple but getting here was not trivial.  I got it working about one hour before our meeting where JT told us that Toyota had signed up to support the rust project.
+
+
+Saturday October 30
+Finished up the filter/range.rs command and did a PR with it.  I got the PR ready this morning and was done with it by 11am.
+
+
+Wednesday October 27
+Worked all day yesterday and last night and then woke up this morning and I had a message from JT which answered my final question.  I had the filters/last command T'd up and ready to go and JT merged just before our meeting today at 1pm.  So I now have one command under my belt and I learned alot during this process.
+
+
+Friday October 22
+Big breakthrough on understanding streams in engine-q as well as nushell / I never really understood how the data moved through the stream and how you deal with it.  The big light in my head was understanding the command last.
+
+
+Wednesday October 20
+First meeting ever with the nushell core team, cause last week was cancelled.  Also got all of the subcommands into the issue on porting commands from nushell to engine-q.  That was a JT request.
+
+
+Worked on this today:
+let span = Span::unknown();
+let val = Value::Int { val: 2, span };
+let cell_path = CellPath::from_value(&val).unwrap();
+
+
+
+
+Monday October 18, 2021
+Working on follow_cell_path to get a better understanding of how to deal with table commands.
+
+
+Sunday October 10, 2021
+Day 1 of being on the nushell core team.
+JT asked me to be on the nushell core team today !
+Day 1 of nushell was July 12, 2020, and exactly one year after the day 1 of rust.  My first nushell commit was 2828 on Dec 28, 2020.
+
+
+Sunday October 3, 2021
+So did I am doing a mini-review of the past couple of months.  Reason being I am blowing away a directory of work I was doing June 24 - July 24 around the idea of a better understanding of 
+
+
+* wasmer, wasmtime, and cranelift
+* webassembly-examples, cargo-wasi
+* testsuite, kaleidoscope-cranelift
+* mdn-webassembly-examples
+* wabt
+
+
+In reality this work is tabled for the time being as engine-q is front and center along with spanish and bioinformatics work, so blowing this directory away makes sense in the context of where I am currently at.  If in the future I come back to this place at least you documented the work you did in the mid part of the summer.
+
+
+Wednesday Sep 29
+And with the JT announcement, I am front and center making spanish my number one priority and the biology number two in concert with programming related to the biology.
+
+
+Monday Sep 27, 2021
+Jan's birthday, she is 76 born in 1945 on this day.  Jan came by at the end of the day just before 8pm with some cake.  We hung out with them last evening in front of their driveway along with Patrick.  We also went to the fall festival this weekend.  But enough of that, JT was named on the Rust Core Team today.  In concert with this major announcement I am officially stating to myself that I am going to spend alot more time working in the area of Bioinformatics and continue my deep dive into understanding spoken spanish in all forms of media content.  Yesterday I started looking at bedtools.
+
+
+Wednesday Sep 22, 2021
+More work on miette and engine-q.  I now understand how the errors are written in concert with the error VariableNotFound
+
+
+Monday Sep 20, 2021
+Miette lands in engine-q for the first time.  We had a great trip to Coos Bay a week or two back.
+
+
+Monday Sep 6, 2021
+My first PR for engine-q.
+
+
+Sunday Sep 5, 2021
+A few days back I started spending more time looking into bacteria and other protein type issues.
+
+
+Wednesday August 25, 2021
+The writeup happened today and is located here.
+
+
+Tuesday August 24, 2021
+After working on engine-q since returning from CoosBay I figured out today how the if command works in nushell and compared that to what is going on in engine-q.  Hopefully I will get a writeup out of this.
+
+
+Saturday July 31, 2021
+So yesterday was a breakthrough day in my nushell life.  For the past couple of months or less I have been going back and forth with elfer / fernando on how dataframes should not be in nu-protocol / nu-protocol should not depend on the whole big giant polars / arrow stack.  also as can be seen from the previous entry JT and I discussed this issue a day or two ago; and then yesterday morning as I was weighing on my reedline nu-completer project it came to me that why not bust up nu-protocol and have the nu-parser dependencies be separate.  I mulled this idea for a few hours and then ran it by JT and at that moment all of the stars aligned with his response.  So we are full steam ahead on two fronts.  One is to better understand engine-q and two is to use engine-q as another test bed for getting all of the nu-completer stuff up and running in engine-q in parallel with nushell.  This is very cool and why I still like my job at age 60 :)
+
+
+Wednesday July 28
+Had a chat with JT last evening about dataframes and how we are going to probably make polars a nu-protocol dependency; stay tuned.  Also, I am plowing ahead with nucli-reed and making more progress on it.
+
+
+Friday July 23
+Had a chat with JT about the Completer project.  I sent him a status update and then we chatted with me for awhile.  I think I am ready to start writing some code.  As always this is taking way to long and the road is very twisted.
+
+
+Wed July 14
+Nushell 0.34.0 integration with nucli-reed.  JT assigned me a new task getting completions working in reedline in concert with nushell.
+
+
+Monday July 12
+Nice talk with Scott today.  I am making more progress on running the tests in wabt.  Now I have moved on to understanding the individual tests.
+
+
+Monday July 5
+Tonight was Russell's surprise birthday party at Natalie's house on Chintimini.  More details and depth of understanding webassembly by reading in more detail Understanding Text Format.
+
+
+Sunday July 4, 2021
+Yesterday I started working on wabt to get a better handle on webassembly as a whole.
+
+
+Tuesday June 29
+Deep in the throes of cranelift's ISA [Instruction Set Architecture] and machinist modules.
+
+
+Saturday June 26, 2021
+It has never been this hot here.  Back into cranelift after a break from it while working on the work listed below.
+
+
+Thursday June 24, 2021
+JT mentions me in his stream
+Creating a line editor in Rust 13: Improved vi parsing at 11:30
+Went through a bunch of nushell issues that were automagically marked as stale via a new github action that fdncred put in place.
+
+
+Wednesday June 23, 2021
+nu-cli-reed is up and running and already announced to the reedline forum on discord.  I am done with the initial version and did a nushell commit associated with this work to make nu-cli's mod app public.
+
+
+Tuesday June 15
+Day 1 of JT's reedline and getting it up and running with my new simple cli. 
+
+
+Friday June 11
+deeper dive into the core rust compiler and the rustc dev guide
+spent yesterday looking at the history bug in nushell and re-visiting kaleidoscope as an example of cranelift.
+
+
+Hour long talk with elfer on skype / discord about pulling dataframe dependency on polars out of nu-protocol.
+
+
+Friday June 4
+cranelift testing is up and running...
+
+
+Thursday June 3, 2021
+6:43AM
+I am going hiking with David Mayfield today and Hb is going to the dentist.  It has been very hot here the past few days.  I am reading Iberia by Michener and Dubliners by Joyce.
+
+
+After about 10 days of exploring the RustPython repo I am moving on to a much broader sweep of understanding the compilation process in general including a detailed understanding of interpreted and compiled languages.  A more detailed understanding of the rustc-dev-guide and LLVM in general. This of course is all motivated by my work in nushell and the importance of having a rock solid way of taking input and generating output that is easy to understand, manipulate and use by other developers.
+
+
+Sunday May 24, 2021
+Day 1 of Ast in RustPython and CPython
+
+
+Friday May 21
+Learning about all sorts of cool functions in Python I had no clue about...  Starting out with crawl_sourcecode.py
+
+
+Thursday May 20
+Day 1 of RustPython... Just getting started...
+
+
+Hb got home from Denver last evening.  I picked her up at the Eugene airport.  She had a good time in Abq and Denver.  She left on May 3 and got back last evening.
+
+
+Tuesday May 18
+Finished up part 1 of the bluemesa reorg to get a nice dataframe display in the console.
+
+
+Saturday morning May 15
+Lots more work on pandas.  I am starting to have a much better understanding of dataframes and what they can do and the power of them.  Wow !  Is all I can say.  And its basically the next evolutionary step in the future of your own custom database.  Its basically a database with an API. Once I figured that out this morning, the HUGE big light when on in my head.  And pandas is by far the most advanced dataframe tool in the world today that is opensource. And having the associated doc with it, see above link --- makes it all the more palatable, usable, marketable, and a no brainer depending on what you want to to and the tool for the job.
+
+
+Friday May 7
+Earlier in the week JT asked me to put together a list of commands that needed to be ported over to engine-p.  So I did that and today I did my first PR in awhile getting build-string up to speed.  My last commit was awhile back.
+
+
+Tuesday April 27, 2021
+So its been awhile since I wrote an update.  I have been "quietly" working on bluemesa and python-examples and have now made an executive decision to spend more time not only back in Python but specifically at the moment data frames more specifically pandas.  I am currently working in the python-examples repo in the pandas folder on massaging and improving the bluemesa code base.  For now that will be my working spot for my code.
+
+
+Sunday April 4
+Working on issue #3248 for the past couple of days.
+Along with the details of the how the lexer and parser work.
+
+
+Thursday March 25, 2021
+Came back from Moscow and Pullman and got the $scope.aliases code in there, and then Jonathan requested I write some tests; so that took me till today to get that tucked away.
+
+
+Friday March 05, 2021
+The last couple of days I have been working on scope; and today I nailed down how to startup / init nushell by sourcing an alias file located in my nuconfig repo.
+
+
+Thursday Feb 25, 2021 [Sharon arrives tomorrow]
+I am loving stylishthemes/github-dark
+
+
+Two more commits to nushell in the past week; so I am cranking along on making progress.
+
+
+Sunday Feb 14, 2021
+
+
+Day 1 of Bevy, I got it up and running and the examples actually work out of the box, everyone I tried actually works which is very impressive.  Don't worry; I will attempt to spend a small amount of time looking into this for now.
+
+
+Day 1 of delta and tickrs too.
+
+
+Saturday Feb 13, 2021
+
+
+Starting to do more work on understanding lex and parse_block which used to be called block and I renamed to parse_block which was the content of PR #3047.
+
+
+Friday Feb 12, 2021
+
+
+Got home from Ashland and Kfalls 2 days ago on Wednesday and on Thursday I did PR #3047.  This morning Jonathan had fixed all of the clippy warnings that got thrown post release of Rust 1.50.  So I was able to merge main and Jonathan posted my PR.
+
+
+Sunday Jan 31, 2021
+
+
+After a week of work on #2972 I can move on for now.  See the end of the issue and the discord conversation for more details.  The bottom line is @lhkipp came up with a simple solution to fix the lexer; and it probably is the most elegant simple solution.  But I don't feel I am up to the paygrade yet to go around fixing the lexer at this moment.  Hopefully someone else will step up and do this work, or I will feel more confident to do this work at a later point in time.
+
+
+Friday Jan 29, 2021
+
+
+I have been working all week on Issue 2972.  It is making me understand a lot more about the lexer and the parser then I ever thought I would have to know.  "The universe continues..."
+This is a good project...  Also this week on Hacker News I discoverd an article where it states how long and how much work it takes to acquire the knowledge to better understand a big complex piece of software.
+
+
+Friday Jan 22, 2021
+Yesterday I started working in earnest on nushell scripts.  Darren has been working for awhile on this stuff and he has a nice repo with scripts in it; so I am using that as a model in which to move forward.
+
+
+Jonathan's Big Todo List
+
+
+Friday Jan 15
+So now that the nu-cli refactor is pretty much done; and I have taken a few days off on any hard core work; I am starting to think about what my next step in nushell is going to be...
+
+
+As an aside, this is the beauty of what you are doing.  You get to decide and get excited about what you are going to work on and work on next.  So it looks like my focus could possibly be on the state in nushell, the context, the environment, and how all of that stuff is tied together and works in the bigger picture.  This is a logical next step for me, and will get me more into the programming aspects of things as opposed to the mechanics of moving a bunch of code around.
+
+
+This will also be related to the work on Jonathan's todo list of getting a new command going which....
+
+
+maybe: would it be interesting to add the ability to query the context for 
+what commands, variables, and aliases are in scope?
+
+
+Monday Jan 11
+Huge day.  Too much.  It ended with Jonathan taking over because one of the tests on windows was failing and he was able to take the ball over the line.  I was talking with Dad at 5pm after working all day since literally 7 this morning on getting the nu-core-commands crate up and running.
+
+
+Sunday January 10, 2021
+Will post when commit #5 lands, its now in the queue.
+
+
+Monday January 4, 2021
+Cranking along on nushell with commit #4 landing...
+My first commit 2828 was on Dec 28, 2020
+
+
+2021
+
+
+So I end the year on this note about my first day of programming in Rust which I noted again on Monday Oct 26 was on Scott's birthday 2019.
+
+
+Wednesday Dec 30, 2020
+One more commit lands, and one appears to be ready to land.  I am on a roll and I am finally having fun programming in Rust after a very long while.
+
+
+Monday Dec 28, 2020
+I awoke this morning to a great piece of news...
+My first commit 2828 on Dec 28 into nushell was accepted by Jonathan.  We are up and running at work.
+
+
+Saturday Dec 26, 2020
+Day 2 of Jonathan giving me the go ahead to refactor nu-cli.  This is going to be a very interesting project, and challenging.  Good luck.
+
+
+Tuesday Dec 22, 2020
+Starting to work on my own cli that calls into the nushell api parser et al.  Finally starting to understand this stuff; as I am now writing code that calls into nushell and I am better able to understand what dependencies I need in Cargo.toml.
+
+
+Sunday Dec 20, 2020
+Continue down Jonathan's update path.  Lets get this stuff now, and get it documented and move on past this initial phase.  Put it out there so others will understand too.
+
+
+Thursday Dec 17
+More work on Jonathan's massive update as we move toward multiline scripts in nushell.
+
+
+Friday Dec 11
+Got bluemesa back up and running and added args to getfun.  also starting to relook at parsing html via pandas.read_html which is used by yahoo_fin.  Yesterday I tried parsing the yahoo finance quote page with rust but that was a complete failure so I am back to looking into parsing with pandas.  It has 2 rock solid parsers including beautifulsoup which is also used to parse the edgar filings for xml / xbrl.
+
+
+Tuesday Dec 8
+As I was looking through github for hackernews repos I found hn which is a command line hn client.  In there they use scraper which grabs the hn top posts.  Day 1 of rust programs with the scraper technology.
+
+
+Monday Dec 7
+Starting to take a look at Jonathan's fork of nushell and the merging of nunu back into nushell.  Last evening he told me where the fork was located.  Also got hackernews favorites up and running with a fresh cut of all of the favorites through today.
+
+
+Friday Dec 4, 2020
+I am up to speed on nunu and jonathan is starting to merge it into nushell.  rlox is in good shape now too.  I want to switch gears now and re-focus my efforts on storing data in redis and sled and be up to speed on how to do it.  So I am going to hold off on redis for awhile and just focus on sled.  We will come back to redis later, but for now sled should get the job done, (I think)...
+
+
+Saturday Nov 21, my 60th birthday
+Found another implementation of lox called rlox by radogost.  This is very helpful for understanding how to write lang code in rust.  Keep going; as this is very helpful.
+
+
+Friday Nov 20, 2020
+Last night I sent in a PR for rulox and Mario responded back within a few hours.   I awoke this morning and already had an email from him.  I am doing a deep dive into programming languages and a much better understanding of how they work on the inside.  Crafting Interpreters is a marvelous read and will be my seminal introduction (once again) to this aspect of computer science.  Bill Macready would be happy to know I am here.  My path in my work is all related and clearly this fork on the trail is related to my work the past number of months with nushell.  We are at a point in the product where building a correct scripting language is required and so --- I need to understand this stuff.  I love my job !
+
+
+Tuesday Nov 10
+Back into Bluemesa specifically grabbing more data from Edgar.  Using ubnt as my model data set.
+
+
+Wednesday Nov 04
+Spent some more time on sled.  I believe I am going to move back into bluemesa work to get a grip on how to push all 3 platforms forward: {bluemesa, nushell and sled}.
+
+
+Sunday Nov 01
+The corvallisoddfellows.org domain name is transferred over to us from Wes in Hawaii, and the web site is up and running on gh-pages.  Congrats, this is a big win for me and a testament to the ease of use of mdbook, which is rock solid.
+
+
+Saturday Oct 31
+I think I now finally am starting to understand the whole type system and what it is all about for nushell.  I think the light went on when I started thinking about html template engines in the context of zola as well as what is going on with serde json and how the output that you see whether it be json, a nushell table, or an html page is moving the data through the Value to what the end user sees.  More on this later.
+
+
+Monday Oct 26
+So I went back the other day and found out that the first day I started programming in Rust was on Scott's birthday 2019.  It has now been well over a year and I consider myself a bit more than a beginner, but at least I am still focused on the language, and becoming more knowledgable.  Today I came back in once again to review Chapter 13 of the Rust Book on closures and iterators.  They are all over the nushell code and so I need to fully understand the concepts.  
+
+
+Sunday Oct 25
+I learned today that mdbook allows us to copy the complete theme directory over to your local mdbook repo where you are creating the book and then it will use those themes instead of the default ones in the binary.  This means that I don't need to have my own custom copy of mdbook lying around but can simply embed the theme files I need for each particular mdbook repo that I create.  So even though the odd fellow mdbook needs some changes, another mdbook may want other ones.
+
+
+Saturday Oct 24
+Worked on a website for Bonnie and Oddfellows and had some minor breakthroughs.  First I decided to use mdBook and was able to fix the sidebar so it stayed open by default and reduced the sidebar from 300px to 200px giving the user a lot more realestate on the right side.  I like mdBook and will continue to use it more and more in other projects; plus it is written in Rust !
+
+
+Thursday Oct 22
+Going through the async/await book in reference to the futures trait and the stream trait in nushell and all of the calls associated with the futures crate.  So basically we are doing a deep dive into everything behind futures in relation to nushell.  This is actually the first time I have revisited this concept since working with Tokio awhile back and the first time looking at it since I started working on nushell back in July 2020.  Its amazing how all of this stuff doesn't really stick around in my brain until I relearn it or re-remember it again.
+
+
+Sunday Oct 18
+Finally realized that the tests in nu-cli need a binary to run and that is why main.rs gets sucked into the mix.  It was not obvious till now that the nu! macro calls into the nu binary, upon thinking about it makes sense.
+
+
+Friday Oct 16
+nupro value/evaluate.rs
+nucli   src/evaluate/mod.rs
+evaluator::evaluate_baseline_expr
+
+
+Wednesday Oct 14, 2020
+Spent all day on a bug in nushell where tests fail unless config.toml is empty or the skip welcome message is not set.  not sure today was productive, but I am very happy as all my tests are passing...  and I know why !!  it had to do with config.toml
+
+
+Monday Oct 12, 2020
+Deep dive into the underlying commands and how free data gets parse in nushell including all of the core commands {parse, each, split, etc...}
+
+
+Sunday Oct 11, 2020
+Working on Value as well as regex associated with the nushell parse command. 
+
+
+Saturday Oct 3, 2020
+More work on exactly what a value is in Rust.
+
+
+Thursday Oct 1, 2020
+Massive dive into true understanding of Literals, Expressions, and Values in both the context of nushell and Rust.
+
+
+Monday Sep 28
+Luke's birthday.  flexi_logger is up and running inside nushell and logging all log messages either to a file or to the console.  It works exactly like I wanted it to.  Once I figured out flexi_logger this afternoon I had the whole main.rs nushell file pared down and back up and running with the new logging code in about 1 hour.  Very cool !  Rust logging is working the way it should, and nushell is very well designed from a logging perspective...  Once you understand this stuff it is really trivial and easy.  Today was an example of how things fall into place.  However, it took me a number of days to finally get here and come up with this simple solution.
+
+
+Friday Sep 25
+A week has passed.  We are now deep into how Rust logging works.  I want to integrate a new logging solution into the Nushell code for personal use.  For now, the focus is as simple as; writing the log data out to file instead of stdout.  (I think)...
+
+
+Friday Sep 18
+Moving quickly, I now understand that nu-table is the crate that draws the table data.  I now need to work out exactly how this data gets fed to draw_table and when a table is drawn and when one is not...  As always, more work to do.  But I have gotten past the parser for now, and moved on to the other side of the equation.  There is a lot more to understand with nushell; but I think we are making progress.  Stay tuned here for more details :)
+
+
+Wed Sep 16
+still smoky during the day but by evening it cleared and we went for a big walk in WL.  still working on lite_parse, with a major deep dive into all aspects of how lite_parse in nushell works.
+
+
+Tuesday Sep 15
+Day-1 working on the nushell-notes Day 1 of mdbook.  This is the start of my adventure getting this book up and running.
+
+
+Monday Sep 14
+this evening we went for a walk at night and it was the first time since last Monday that the skies were clear.  Its been a crappy week as far as smoke is concerned.  I am way deep into understanding the crates {nu-parser, nu-source}...  I assume this should go on at least another week or two, or until I fully understand these 2 crates plus {nu-protocol}.
+
+
+Monday Sep 07
+jturner and I had our first talk about nushell.  He is a cool guy.  This morning I read the RFC on dataframes and made some comments on discord, and soon we were discussing the spec he wrote up.  I am going to spend more time looking at streaming based on our talk today.
+
+
+Friday Sep 04
+Listened to most of this podcast which was shot in September 2019 of the 3 founders of nushell.  Today was day 1 of looking into the plugins.  It was motivated by this chat I had with jturner on 9/3 which was yesterday in the documentation thread.  I was trying to understand why sys wasn't working and it was because I was copying the nu binary over to another directory that did not have the plugins in there.  Once I fired up the /target/debug nu version everything worked and I pulled in all of the default plugins.  Then today I got the sqlite plugin working and started to work on understanding how the underlying plugin architecture using jsonrpc works.
+
+
+Wednesday Sep 02
+Massive dive into nushell !  Its all I have been doing since the last entry on August 24.  Yesterday I discovered the github repo nushell/demo which was great to find because for the past week I had been seeing the method parse_and_eval inside nu_cli but it was not referenced anywhere in the whole nushell repo.  Whenever I did a rg on it, nothing came up that was using it.  And then yesterday I discovered the wasm demo repo by reading over the old nushell blog posts.  Wasm was introduced in the 17.0 version blogpost.  So tonight, I got run_nu up and running with a simple example which is currently in my nuwasm repo which will probably eventually be moved somewhere else but for now thats its landing spot.
+
+
+Monday August 24
+Yesterday I started into the nushell discord which is giving me a big insight as to how nushell works.  Today I downloaded the first version just to get a glimpse of the original ideas behind the program.  In concert with this info, I was able to convert the ui xbrl 10q file into a table and then back into json and the whole thing worked.  This is amazing !  Also spent some time looking at toml to get a handle on their very simple, very intuitive format. 
+
+
+Thursday August 20
+Deep in the throes of Nushell, and making HUGE progress on understanding the inner workings of it.  Hopefully this will be relevant going forward.  Stay tuned.
+
+
+Monday August 17
+Pedro's bday.  Today I launched in a big way back into nushell.  So I will attempt to work on 2 projects at the same time which could be a bit tricky.  Stay tuned.
+
+
+Friday August 14
+Contextref in soup-xbrl is ready to be written out to a dictionary.  Then I will do the other tags.  Idea is to have a complete dictionary representation of the xbrl 10q / 10k file and then write that out to whatever including json, csv, redis, sqlite etc...  We are making massive progress on this front.
+
+
+Tuesday August 11
+Starting to break out a new class called ContextRef.  Will document here more what it does.
+
+
+Wednesday August 5
+
+
+Decided today to go away next Monday for a week or so.  I learned today that our shed will not be delivered for several weeks so next Monday is a good day to go away.  I now fully understand data_processing and passing in the context_ids.
+
+
+So here is whats on tap when I get back from my trip.  I may update this further prior to departure but here goes for now.
+
+
+So I am just at the point where I am understanding how to grab all of the correct context and associated context_ids that I need to get certains data points and data sets.  I will work out exactly what data points in the 10Q's are associated with what particular contexts but this for now is where all of the work will be going upon return.  Capturing all of the data is possibly a function of getting the correct 3 month intervals associated contexts.  That is step 1.  Getting all of the associated quarterly data.
+
+
+Once this is done then you can move on to getting the annual data.  And lastly the 2 quarters / 6 months and 3 quarters / 9 months worth of data.
+
+
+But for now just getting all of the 3 month data is not obvious as the current 2 context id's that I am pulling does appear to get all of the data and I also don't know out of all of the data points on the 10q what data points are 3 month data points and what data points are other contextrefs.
+
+
+Monday August 3
+
+
+More parsing of the edgar xbrl docs.  I now have the name of the tag along with the value and starting to work on the child tags and grabbing the context data.
+
+
+Friday July 31
+
+
+Day 2 of working on xbrl.  I now understand the work I need to do to move forward.  Be able to get the date and the context id's automagically from the file name and a particular xml element.
+
+
+Thursday July 30
+
+
+Day 1 of Parsing XBRL Files
+
+
+Lots of work on parsing XBRL and winnowing down the parsing for the quarterly UI files.  We are up and running and getting a small subset of GAAP and cleaning up the xbrl parser file with just the bare essentials.
+
+
+Tuesday July 28
+
+
+Got all of the ubnt data going back to the beginning of time from their website and archived it in numerous locations.  Now I can dive in further and make sure I have all of the data.  This is a great model to better understand cash flow and the other interesting notes of a much bigger picture.  Also calculated the avg share price of UI's purchases since the beginning of time.  They spent just over 2B to purchase almost 28M shares at an average price of $75.  I used the cash flow statement to see how much stock they bought back each year starting with year 2012.
+
+
+Monday July 27
+
+
+Major, massive push to a better understanding of the cashflow statement.  In fact I got so excited, that I put together a google sheet for the first time for ubnt's 2020 cash flow statements.  I copied over all of the numbers from the 10Q's and reconciled that the numbers were exactly correct.
+
+
+I have been wanting to do this for years, and get a better hold and understanding of how all of these numbers flow.  I think my conversation yesterday with Lukas got me to do this today.
+
+
+The main thing I wanted to see was how all of the numbers literally add up, and now I can prove to myself exactly what the heck is going on with the cash flow statement.
+
+
+Sunday July 26
+
+
+First contact with Lukas at Causal after reading their blog post Financial Statements: A Beginner's Guide.
+
+
+Thursday July 23
+
+
+Starting to get a handle on nushell.  Python regex up and running removing {M,B,%,$} from fun and mcap numbers so that nushell sorts correctly.  It doesn't like to sort with other characters in the numbers.  Yesterday I got a handle on how to search and go back in time on discord.  Now I can go back to the beginning of the nushell history and get a better handle on how things work.
+
+
+Tuesday July 21
+
+
+So I have been pretty busy working on some different things.  First of all bluemesa is in a good spot.  The next thing I need to do is start sorting all of the data inside the CSV.  I got the mcap fundamental data from Fidelity now pretty much up and running.
+
+
+What I did was download all of the stocks whose market cap is greater than > 1B and broken it up into categories where the largest one is > 90B and on down.  Then I got all of those symbols sorted out and accompanying names of the companies in the redis key symbol hash.  Then from there I was able to create a CSV file from the Yahoo Fun data.  And then I hit the road block which sent me down my 2nd rabbit hole.
+
+
+Nushell only sorts integer columns but not floats.  So I dove into nushell to see what was up and came across an issue with running
+
+
+cargo run src/main.rs
+
+
+I found a solution but not sure of what the cause of the problem was.  In the meantime, I went back to take a 2nd look at alacritty to make sure I understand what that is.  Its a terminal emulator that brings up a new window.  Clearly, nothing to do with shells but it took me a bit of time to remember what a terminal emulator is...
+
+
+Sunday July 12, 2020
+Day 1 of nushell.  this may not be the exact first day, but it is close enough to this day, to revise history and note that my first day of nushell was exactly one year after my first mention in my blog of rust, or more exactly day 1 of rust.  so nushell came one year to the day of rust.
